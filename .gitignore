@@ -1,62 +1,26 @@
-*.tar.gz
-
-*.exe
-src/dogecoin
-src/dogecoind
-src/dogecoin-cli
-src/test/test_dogecoin
-src/qt/test/test_dogecoin-qt
-
-Makefile.in
-aclocal.m4
-autom4te.cache/
-config.log
-config.status
-configure
-src/bitcoin-config.h
-src/bitcoin-config.h.in
-src/build-aux/
-src/stamp-h1
-share/setup.nsi
-share/qt/Info.plist
-
-src/qt/*.moc
-src/qt/moc_*.cpp
-src/qt/forms/ui_*.h
-
-src/qt/test/moc*.cpp
-
-.deps
-.dirstamp
+<<<<<<< HEAD
+src/*.exe
+src/SherlockHolmesCoin
+src/SherlockHolmesCoind
+src/test_SherlockHolmesCoin
 .*.swp
 *.*~*
 *.bak
 *.rej
 *.orig
 *.o
-*.o-*
 *.patch
-.dogecoin
-*.a
-*.pb.cc
-*.pb.h
-
-*.log
-*.trs
-*.dmg
-
-*.json.h
-*.raw.h
+.SherlockHolmesCoin
 
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-dogecoin-qt
-Dogecoin-Qt.app
+SherlockHolmesCoin-qt
+SherlockHolmesCoin-Qt.app
 
 # Unit-tests
 Makefile.test
-dogecoin-qt_test
+SherlockHolmesCoin-qt_test
 
 # Resources cpp
 qrc_*.cpp
@@ -68,29 +32,38 @@ qrc_*.cpp
 .DS_Store
 build
 
-#lcov
-*.gcno
-/*.info
-test_dogecoin.coverage/
-total.coverage/
-coverage_percent.txt
-
-#build tests
-linux-coverage-build
-linux-build
-win32-build
-qa/pull-tester/run-bitcoind-for-test.sh
-qa/pull-tester/build-tests.sh
-
 !src/leveldb*/Makefile
+=======
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
 
-contrib/macbuild/boost/
-*.hpp
+# Precompiled Headers
+*.gch
+*.pch
 
-*.ipp
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
 
-*.xcuserstate
+# Fortran module files
+*.mod
 
-*.xcscheme
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
 
-contrib/macbuild/dogecoind.xcodeproj/xcuserdata/alan.xcuserdatad/xcschemes/xcschememanagement.plist
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> 5cf5611df90f0af79d49d1058ca5246053c9c9bb
+
+.project
+.classpath
+

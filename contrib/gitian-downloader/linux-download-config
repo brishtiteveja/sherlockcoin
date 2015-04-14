@@ -1,11 +1,11 @@
 --- 
-name: dogecoin
+name: sherlockcoin
 urls:
-- http://example.org/dogecoin-latest-linux-gitian.zip
+- http://example.org/sherlockcoin-latest-linux-gitian.zip
 rss:
-- url: http://sourceforge.net/projects/dogecoin/rss
+- url: http://sourceforge.net/projects/sherlockcoin/rss
   xpath: //item/link/text()
-  pattern: dogecoin-\d+.\d+.\d+-linux-gitian.zip
+  pattern: sherlockcoin-\d+.\d+.\d+-linux-gitian.zip
 signers:
   90DC2AC256201AD9377E15049142E5F7E533CE3B:
     weight: 40

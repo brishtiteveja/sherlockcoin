@@ -1,5 +1,5 @@
-Building Dogecoin
+Building sherlockcoin
 
-See doc/build-*.md for instructions on building dogecoind,
+See doc/build-*.md for instructions on building sherlockcoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Dogecoin.
+implementation of sherlockcoin.

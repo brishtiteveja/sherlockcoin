@@ -140,7 +140,7 @@ void DebugMessageHandler(QtMsgType type, const QMessageLogContext& context, cons
 }
 #endif
 
-/** Class encapsulating Dogecoin Core startup and shutdown.
+/** Class encapsulating sherlockcoin Core startup and shutdown.
  * Allows running startup and shutdown in a different thread from the UI thread.
  */
 class BitcoinCore: public QObject
@@ -165,7 +165,7 @@ private:
     void handleRunawayException(std::exception *e);
 };
 
-/** Main Dogecoin application object */
+/** Main sherlockcoin application object */
 class BitcoinApplication: public QApplication
 {
     Q_OBJECT
@@ -428,7 +428,7 @@ void BitcoinApplication::initializeResult(int retval)
         }
 #ifdef ENABLE_WALLET
         // Now that initialization/startup is done, process any command-line
-        // dogecoin: URIs or payment requests:
+        // sherlockcoin: URIs or payment requests:
         connect(paymentServer, SIGNAL(receivedPaymentRequest(SendCoinsRecipient)),
                          window, SLOT(handlePaymentRequest(SendCoinsRecipient)));
         connect(window, SIGNAL(receivedURI(QString)),
@@ -450,7 +450,7 @@ void BitcoinApplication::shutdownResult(int retval)
 
 void BitcoinApplication::handleRunawayException(const QString &message)
 {
-    QMessageBox::critical(0, "Runaway exception", BitcoinGUI::tr("A fatal error occurred. Dogecoin Core can no longer continue safely and will quit.") + QString("\n\n") + message);
+    QMessageBox::critical(0, "Runaway exception", BitcoinGUI::tr("A fatal error occurred. sherlockcoin Core can no longer continue safely and will quit.") + QString("\n\n") + message);
     ::exit(1);
 }
 
@@ -523,7 +523,7 @@ int main(int argc, char *argv[])
     /// - Do not call GetDataDir(true) before this step finishes
     if (!boost::filesystem::is_directory(GetDataDir(false)))
     {
-        QMessageBox::critical(0, QObject::tr("Dogecoin Core"),
+        QMessageBox::critical(0, QObject::tr("sherlockcoin Core"),
                               QObject::tr("Error: Specified data directory \"%1\" does not exist.").arg(QString::fromStdString(mapArgs["-datadir"])));
         return 1;
     }
@@ -543,7 +543,7 @@ int main(int argc, char *argv[])
 
     // Check for -testnet or -regtest parameter (Params() calls are only valid after this clause)
     if (!SelectParamsFromCommandLine()) {
-        QMessageBox::critical(0, QObject::tr("Dogecoin Core"), QObject::tr("Error: Invalid combination of -regtest and -testnet."));
+        QMessageBox::critical(0, QObject::tr("sherlockcoin Core"), QObject::tr("Error: Invalid combination of -regtest and -testnet."));
         return 1;
     }
 #ifdef ENABLE_WALLET
@@ -571,7 +571,7 @@ int main(int argc, char *argv[])
         exit(0);
 
     // Start up the payment server early, too, so impatient users that click on
-    // dogecoin: links repeatedly have their payment requests routed to this process:
+    // sherlockcoin: links repeatedly have their payment requests routed to this process:
     app.createPaymentServer();
 #endif
 
@@ -603,7 +603,7 @@ int main(int argc, char *argv[])
         app.createWindow(isaTestNet);
         app.requestInitialize();
 #if defined(Q_OS_WIN) && QT_VERSION >= 0x050000
-        WinShutdownMonitor::registerShutdownBlockReason(QObject::tr("Dogecoin Core didn't yet exit safely..."), (HWND)app.getMainWinId());
+        WinShutdownMonitor::registerShutdownBlockReason(QObject::tr("sherlockcoin Core didn't yet exit safely..."), (HWND)app.getMainWinId());
 #endif
         app.exec();
         app.requestShutdown();

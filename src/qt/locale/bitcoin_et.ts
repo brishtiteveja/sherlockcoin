@@ -2,11 +2,11 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Dogecoin Core</source>
+        <source>About sherlockcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>&lt;b&gt;Dogecoin Core&lt;/b&gt; version</source>
+        <source>&lt;b&gt;sherlockcoin Core&lt;/b&gt; version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -28,7 +28,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
         <translation>Autoriõigus</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
+        <source>The sherlockcoin Core developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -103,11 +103,11 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Need on sinu Dogecoini aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
+        <source>These are your sherlockcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Need on sinu sherlockcoini aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your sherlockcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -205,8 +205,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
         <translation>Kinnita rahakoti krüpteering</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
-        <translation>Hoiatus: Kui sa kaotad oma, rahakoti krüpteerimisel kasutatud, salafraasi, siis &lt;b&gt;KAOTAD KA KÕIK OMA DogecoinID&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR sherlockcoinS&lt;/b&gt;!</source>
+        <translation>Hoiatus: Kui sa kaotad oma, rahakoti krüpteerimisel kasutatud, salafraasi, siis &lt;b&gt;KAOTAD KA KÕIK OMA sherlockcoinID&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -225,8 +225,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
         <translation>Rahakott krüpteeritud</translation>
     </message>
     <message>
-        <source>Dogecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dogecoins from being stolen by malware infecting your computer.</source>
-        <translation>Dogecoin sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista bitcoinide vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
+        <source>sherlockcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your sherlockcoins from being stolen by malware infecting your computer.</source>
+        <translation>sherlockcoin sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista bitcoinide vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -296,8 +296,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
         <translation>Väljumine</translation>
     </message>
     <message>
-        <source>Show information about Dogecoin</source>
-        <translation>Kuva info Dogecoini kohta</translation>
+        <source>Show information about sherlockcoin</source>
+        <translation>Kuva info sherlockcoini kohta</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -344,12 +344,12 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
         <translation>Kettal olevate blokkide re-indekseerimine...</translation>
     </message>
     <message>
-        <source>Send coins to a Dogecoin address</source>
-        <translation>Saada münte Dogecoini aadressile</translation>
+        <source>Send coins to a sherlockcoin address</source>
+        <translation>Saada münte sherlockcoini aadressile</translation>
     </message>
     <message>
-        <source>Modify configuration options for Dogecoin Core</source>
-        <translation>Muuda Dogecoini seadeid</translation>
+        <source>Modify configuration options for sherlockcoin Core</source>
+        <translation>Muuda sherlockcoini seadeid</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -372,8 +372,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
         <translation>&amp;Kontrolli sõnumit...</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>sherlockcoin</source>
+        <translation>sherlockcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -400,12 +400,12 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
         <translation>Krüpteeri oma rahakoti privaatvõtmed</translation>
     </message>
     <message>
-        <source>Sign messages with your Dogecoin addresses to prove you own them</source>
-        <translation>Omandi tõestamiseks allkirjasta sõnumid oma Dogecoini aadressiga</translation>
+        <source>Sign messages with your sherlockcoin addresses to prove you own them</source>
+        <translation>Omandi tõestamiseks allkirjasta sõnumid oma sherlockcoini aadressiga</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Dogecoin addresses</source>
-        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud Dogecoini aadressiga</translation>
+        <source>Verify messages to ensure they were signed with specified sherlockcoin addresses</source>
+        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud sherlockcoini aadressiga</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -428,15 +428,15 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoini tuumik</translation>
+        <source>sherlockcoin Core</source>
+        <translation>sherlockcoini tuumik</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and dogecoin: URIs)</source>
+        <source>Request payments (generates QR codes and sherlockcoin: URIs)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>&amp;About Dogecoin Core</source>
+        <source>&amp;About sherlockcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -448,7 +448,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Open a dogecoin: URI or payment request</source>
+        <source>Open a sherlockcoin: URI or payment request</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -456,16 +456,16 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Show the Dogecoin Core help message to get a list with possible command-line options</source>
+        <source>Show the sherlockcoin Core help message to get a list with possible command-line options</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin client</source>
-        <translation>Dogecoini klient</translation>
+        <source>sherlockcoin client</source>
+        <translation>sherlockcoini klient</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Dogecoin network</source>
-        <translation><numerusform>%n aktiivne ühendus Dogecoini võrku</numerusform><numerusform>%n aktiivset ühendust Dogecoini võrku</numerusform></translation>
+        <source>%n active connection(s) to sherlockcoin network</source>
+        <translation><numerusform>%n aktiivne ühendus sherlockcoini võrku</numerusform><numerusform>%n aktiivset ühendust sherlockcoini võrku</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -559,8 +559,8 @@ Aadress: %4⏎</translation>
         <translation>Rahakott on &lt;b&gt;krüpteeritud&lt;/b&gt; ning hetkel &lt;b&gt;suletud&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Dogecoin can no longer continue safely and will quit.</source>
-        <translation>Ilmnes kriitiline tõrge. Dogecoin suletakse turvakaalutluste tõttu.</translation>
+        <source>A fatal error occurred. sherlockcoin can no longer continue safely and will quit.</source>
+        <translation>Ilmnes kriitiline tõrge. sherlockcoin suletakse turvakaalutluste tõttu.</translation>
     </message>
 </context>
 <context>
@@ -848,8 +848,8 @@ Aadress: %4⏎</translation>
         <translation>Selline aadress on juba olemas: &quot;%1&quot;</translation>
     </message>
     <message>
-        <source>The entered address &quot;%1&quot; is not a valid Dogecoin address.</source>
-        <translation>Sisestatud aadress &quot;%1&quot; ei ole Dogecoinis kehtiv.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid sherlockcoin address.</source>
+        <translation>Sisestatud aadress &quot;%1&quot; ei ole sherlockcoinis kehtiv.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -886,12 +886,12 @@ Aadress: %4⏎</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Dogecoin Core - Command-line options</source>
+        <source>sherlockcoin Core - Command-line options</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoini tuumik</translation>
+        <source>sherlockcoin Core</source>
+        <translation>sherlockcoini tuumik</translation>
     </message>
     <message>
         <source>version</source>
@@ -937,15 +937,15 @@ Aadress: %4⏎</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Welcome to Dogecoin Core.</source>
+        <source>Welcome to sherlockcoin Core.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Dogecoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where sherlockcoin Core will store its data.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin Core will download and store a copy of the Dogecoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>sherlockcoin Core will download and store a copy of the sherlockcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -957,8 +957,8 @@ Aadress: %4⏎</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>sherlockcoin</source>
+        <translation>sherlockcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; can not be created.</source>
@@ -1019,12 +1019,12 @@ Aadress: %4⏎</translation>
         <translation>Tasu tehingu &amp;fee</translation>
     </message>
     <message>
-        <source>Automatically start Dogecoin Core after logging in to the system.</source>
-        <translation>Käivita Dogecoin süsteemi logimisel.</translation>
+        <source>Automatically start sherlockcoin Core after logging in to the system.</source>
+        <translation>Käivita sherlockcoin süsteemi logimisel.</translation>
     </message>
     <message>
-        <source>&amp;Start Dogecoin Core on system login</source>
-        <translation>&amp;Start Dogecoin sisselogimisel</translation>
+        <source>&amp;Start sherlockcoin Core on system login</source>
+        <translation>&amp;Start sherlockcoin sisselogimisel</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1039,7 +1039,7 @@ Aadress: %4⏎</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Connect to the Dogecoin network through a SOCKS proxy.</source>
+        <source>Connect to the sherlockcoin network through a SOCKS proxy.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1091,8 +1091,8 @@ Aadress: %4⏎</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Automatically open the Dogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Dogecoini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
+        <source>Automatically open the sherlockcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>sherlockcoini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1147,8 +1147,8 @@ Aadress: %4⏎</translation>
         <translation>Kasutajaliidese &amp;keel:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dogecoin Core.</source>
-        <translation>Kasutajaliidese keele valimise koht. Valik rakendub Dogecoini käivitamisel.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting sherlockcoin Core.</source>
+        <translation>Kasutajaliidese keele valimise koht. Valik rakendub sherlockcoini käivitamisel.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1159,8 +1159,8 @@ Aadress: %4⏎</translation>
         <translation>Vali liideses ning müntide saatmisel kuvatav vaikimisi alajaotus.</translation>
     </message>
     <message>
-        <source>Whether to show Dogecoin addresses in the transaction list or not.</source>
-        <translation>Kuvada Dogecoini aadress tehingute loetelus või mitte.</translation>
+        <source>Whether to show sherlockcoin addresses in the transaction list or not.</source>
+        <translation>Kuvada sherlockcoini aadress tehingute loetelus või mitte.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -1214,7 +1214,7 @@ Aadress: %4⏎</translation>
         <translation>Vorm</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogecoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the sherlockcoin network after a connection is established, but this process has not completed yet.</source>
         <translation>Kuvatav info ei pruugi olla ajakohane. Ühenduse loomisel süngitakse sinu rahakott automaatselt Bitconi võrgustikuga, kuid see toiming on hetkel lõpetamata.</translation>
     </message>
     <message>
@@ -1269,8 +1269,8 @@ Aadress: %4⏎</translation>
         <translation>URI käsitsemine</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Dogecoin address or malformed URI parameters.</source>
-        <translation>URI ei suudeta parsida. Põhjuseks võib olla kehtetu Dogecoini aadress või vigased URI parameetrid.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid sherlockcoin address or malformed URI parameters.</source>
+        <translation>URI ei suudeta parsida. Põhjuseks võib olla kehtetu sherlockcoini aadress või vigased URI parameetrid.</translation>
     </message>
     <message>
         <source>Requested payment amount of %1 is too small (considered dust).</source>
@@ -1281,8 +1281,8 @@ Aadress: %4⏎</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Cannot start dogecoin: click-to-pay handler</source>
-        <translation>Dogecoin ei käivitu: vajuta-maksa toiming</translation>
+        <source>Cannot start sherlockcoin: click-to-pay handler</source>
+        <translation>sherlockcoin ei käivitu: vajuta-maksa toiming</translation>
     </message>
     <message>
         <source>Net manager warning</source>
@@ -1336,8 +1336,8 @@ Aadress: %4⏎</translation>
 <context>
     <name>QObject</name>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>sherlockcoin</source>
+        <translation>sherlockcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; does not exist.</source>
@@ -1352,12 +1352,12 @@ Aadress: %4⏎</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin Core did&apos;t yet exit safely...</source>
+        <source>sherlockcoin Core did&apos;t yet exit safely...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
-        <translation>Sisesta Dogecoini aadress (nt: DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
+        <source>Enter a sherlockcoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <translation>Sisesta sherlockcoini aadress (nt: DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
 </context>
 <context>
@@ -1478,16 +1478,16 @@ Aadress: %4⏎</translation>
         <translation>Debugimise logifail</translation>
     </message>
     <message>
-        <source>Open the Dogecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ava Dogecoini logifail praegusest andmekaustast. Toiminguks võib kuluda kuni mõni sekund.</translation>
+        <source>Open the sherlockcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ava sherlockcoini logifail praegusest andmekaustast. Toiminguks võib kuluda kuni mõni sekund.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Puhasta konsool</translation>
     </message>
     <message>
-        <source>Welcome to the Dogecoin RPC console.</source>
-        <translation>Teretulemast Dogecoini RPC konsooli.</translation>
+        <source>Welcome to the sherlockcoin RPC console.</source>
+        <translation>Teretulemast sherlockcoini RPC konsooli.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1549,7 +1549,7 @@ Aadress: %4⏎</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Dogecoin network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the sherlockcoin network.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1862,7 +1862,7 @@ Aadress: %4⏎</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Warning: Invalid Dogecoin address</source>
+        <source>Warning: Invalid sherlockcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1949,7 +1949,7 @@ Aadress: %4⏎</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>A message that was attached to the dogecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Dogecoin network.</source>
+        <source>A message that was attached to the sherlockcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the sherlockcoin network.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1968,7 +1968,7 @@ Aadress: %4⏎</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Dogecoin Core is shutting down...</source>
+        <source>sherlockcoin Core is shutting down...</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2023,8 +2023,8 @@ Aadress: %4⏎</translation>
         <translation>Kopeeri praegune signatuur vahemällu</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dogecoin address</source>
-        <translation>Allkirjasta sõnum Dogecoini aadressi sulle kuulumise tõestamiseks</translation>
+        <source>Sign the message to prove you own this sherlockcoin address</source>
+        <translation>Allkirjasta sõnum sherlockcoini aadressi sulle kuulumise tõestamiseks</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2051,8 +2051,8 @@ Aadress: %4⏎</translation>
         <translation>Aadress, millega sõnum allkirjastati (nt: DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dogecoin address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Dogecoini aadressiga.</translation>
+        <source>Verify the message to ensure it was signed with the specified sherlockcoin address</source>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud sherlockcoini aadressiga.</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2063,8 +2063,8 @@ Aadress: %4⏎</translation>
         <translation>Tühjenda kõik sõnumi kinnitamise väljad</translation>
     </message>
     <message>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
-        <translation>Sisesta Dogecoini aadress (nt: DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
+        <source>Enter a sherlockcoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <translation>Sisesta sherlockcoini aadress (nt: DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
     <message>
         <source>Click &quot;Sign Message&quot; to generate signature</source>
@@ -2122,11 +2122,11 @@ Aadress: %4⏎</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoini tuumik</translation>
+        <source>sherlockcoin Core</source>
+        <translation>sherlockcoini tuumik</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
+        <source>The sherlockcoin Core developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2605,12 +2605,12 @@ Aadress: %4⏎</translation>
         <translation>Valikud:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: dogecoin.conf)</source>
-        <translation>Täpsusta sätete fail (vaikimisi: dogecoin.conf)</translation>
+        <source>Specify configuration file (default: sherlockcoin.conf)</source>
+        <translation>Täpsusta sätete fail (vaikimisi: sherlockcoin.conf)</translation>
     </message>
     <message>
         <source>Specify pid file (default: bitcoind.pid)</source>
-        <translation>Täpsusta PID fail (vaikimisi: dogecoind.pid)</translation>
+        <translation>Täpsusta PID fail (vaikimisi: sherlockcoind.pid)</translation>
     </message>
     <message>
         <source>Specify data directory</source>
@@ -2653,7 +2653,7 @@ Aadress: %4⏎</translation>
         <translation>Luba käsurea ning JSON-RPC käsklusi</translation>
     </message>
     <message>
-        <source>Dogecoin Core RPC client version</source>
+        <source>sherlockcoin Core RPC client version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2678,7 +2678,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;sherlockcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, sul tuleb rpcpassword määrata seadete failis:
 %s
@@ -2689,7 +2689,7 @@ rpcpassword=%s
 Kasutajanimi ning parool EI TOHI kattuda.
 Kui faili ei leita, loo see ainult-omaniku-loetavas failiõigustes .
 Soovitatav on seadistada tõrgete puhul teavitus;
-nt: alertnotify=echo %%s | email -s &quot;Dogecoin Alert&quot; admin@foo.com
+nt: alertnotify=echo %%s | email -s &quot;sherlockcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2761,7 +2761,7 @@ nt: alertnotify=echo %%s | email -s &quot;Dogecoin Alert&quot; admin@foo.com
         <translation>See on test-versioon - kasutamine omal riisikol - ära kasuta mining&apos;uks ega kaupmeeste programmides</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Dogecoin Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. sherlockcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2773,8 +2773,8 @@ nt: alertnotify=echo %%s | email -s &quot;Dogecoin Alert&quot; admin@foo.com
         <translation>Hoiatus: -paytxfee on seatud väga kõrgeks! See on sinu poolt makstav tehingu lisatasu.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Dogecoin will not work properly.</source>
-        <translation>Hoiatus: Palun kontrolli oma arvuti kuupäeva/kellaaega! Kui arvuti kell on vale, siis Dogecoin ei tööta korralikult</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong sherlockcoin will not work properly.</source>
+        <translation>Hoiatus: Palun kontrolli oma arvuti kuupäeva/kellaaega! Kui arvuti kell on vale, siis sherlockcoin ei tööta korralikult</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -2809,7 +2809,7 @@ nt: alertnotify=echo %%s | email -s &quot;Dogecoin Alert&quot; admin@foo.com
         <translation>Püüa vigasest wallet.dat failist taastada turvavõtmed</translation>
     </message>
     <message>
-        <source>Dogecoin Core Daemon</source>
+        <source>sherlockcoin Core Daemon</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3017,7 +3017,7 @@ nt: alertnotify=echo %%s | email -s &quot;Dogecoin Alert&quot; admin@foo.com
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Usage (deprecated, use dogecoin-cli):</source>
+        <source>Usage (deprecated, use sherlockcoin-cli):</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3053,7 +3053,7 @@ nt: alertnotify=echo %%s | email -s &quot;Dogecoin Alert&quot; admin@foo.com
         <translation>Impordi blokid välisest blk000??.dat failist</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Dogecoin Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. sherlockcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3138,10 +3138,10 @@ nt: alertnotify=echo %%s | email -s &quot;Dogecoin Alert&quot; admin@foo.com
     </message>
     <message>
         <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL valikud: (vaata Dogecoini Wikist või SSL sätete juhendist)</translation>
+        <translation>SSL valikud: (vaata sherlockcoini Wikist või SSL sätete juhendist)</translation>
     </message>
     <message>
-        <source>Send command to Dogecoin Core</source>
+        <source>Send command to sherlockcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3177,7 +3177,7 @@ nt: alertnotify=echo %%s | email -s &quot;Dogecoin Alert&quot; admin@foo.com
         <translation>Sea ühenduse timeout millisekundites (vaikeväärtus: 5000)</translation>
     </message>
     <message>
-        <source>Start Dogecoin Core Daemon</source>
+        <source>Start sherlockcoin Core Daemon</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3293,12 +3293,12 @@ nt: alertnotify=echo %%s | email -s &quot;Dogecoin Alert&quot; admin@foo.com
         <translation>Viga wallet.dat käivitamisel. Vigane rahakkott</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dogecoin</source>
-        <translation>Viga wallet.dat käivitamisel: Rahakott nõuab Dogecoini uusimat versiooni</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of sherlockcoin</source>
+        <translation>Viga wallet.dat käivitamisel: Rahakott nõuab sherlockcoini uusimat versiooni</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Dogecoin to complete</source>
-        <translation>Rahakott tuli ümberkirjutada: toimingu lõpetamiseks taaskäivita Dogecoin</translation>
+        <source>Wallet needed to be rewritten: restart sherlockcoin to complete</source>
+        <translation>Rahakott tuli ümberkirjutada: toimingu lõpetamiseks taaskäivita sherlockcoin</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

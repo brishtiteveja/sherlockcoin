@@ -2,11 +2,11 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Dogecoin Core</source>
+        <source>About sherlockcoin Core</source>
         <translation>על אודות ליבת ביטקוין</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Dogecoin Core&lt;/b&gt; version</source>
+        <source>&lt;b&gt;sherlockcoin Core&lt;/b&gt; version</source>
         <translation>&lt;b&gt;קליינט ביטקוין&lt;/b&gt; גירסאת</translation>
     </message>
     <message>
@@ -28,7 +28,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>זכויות יוצרים</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
+        <source>The sherlockcoin Core developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -103,11 +103,11 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>קבל כתובות</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your sherlockcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>אלה כתובת הביטקוין שלך עבור שליחת תשלומים. תמיד בדוק את מספר ואת כתובות מקבלי התשלומים לפני שליחת מטבעות.</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your sherlockcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>אלה כתובות הביטקוין שלך עבור קבלת תשלומים. מומלץ להשתמש בכתובת חדשה לכל פעולה.</translation>
     </message>
     <message>
@@ -205,7 +205,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>אשר הצפנת ארנק</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR sherlockcoinS&lt;/b&gt;!</source>
         <translation>אזהרה: אם אתה מצפין את הארנק ומאבד את הסיסמא, אתה &lt;b&gt;תאבד את כל הביטקוינים שלך&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -225,7 +225,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>הארנק הוצפן</translation>
     </message>
     <message>
-        <source>Dogecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dogecoins from being stolen by malware infecting your computer.</source>
+        <source>sherlockcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your sherlockcoins from being stolen by malware infecting your computer.</source>
         <translation>ביטקוין ייסגר עכשיו כדי להשלים את תהליך ההצפנה. זכור שהצפנת הארנק שלך אינו יכול להגן באופן מלא על הביטקוינים שלך מתוכנות זדוניות המושתלות על המחשב.</translation>
     </message>
     <message>
@@ -296,7 +296,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>סגור תוכנה</translation>
     </message>
     <message>
-        <source>Show information about Dogecoin</source>
+        <source>Show information about sherlockcoin</source>
         <translation>הצג מידע על ביטקוין</translation>
     </message>
     <message>
@@ -344,11 +344,11 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>מחדש את אינדקס הבלוקים בדיסק...</translation>
     </message>
     <message>
-        <source>Send coins to a Dogecoin address</source>
+        <source>Send coins to a sherlockcoin address</source>
         <translation>שלח מטבעות לכתובת ביטקוין</translation>
     </message>
     <message>
-        <source>Modify configuration options for Dogecoin Core</source>
+        <source>Modify configuration options for sherlockcoin Core</source>
         <translation>שנה אפשרויות תצורה עבור ביטקוין</translation>
     </message>
     <message>
@@ -372,7 +372,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>אמת הודעה...</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
+        <source>sherlockcoin</source>
         <translation>ביטקוין</translation>
     </message>
     <message>
@@ -400,11 +400,11 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>הצפן את המפתחות הפרטיים ששייכים לארנק שלך</translation>
     </message>
     <message>
-        <source>Sign messages with your Dogecoin addresses to prove you own them</source>
+        <source>Sign messages with your sherlockcoin addresses to prove you own them</source>
         <translation>חתום על הודעות עם כתובות הביטקוין שלך כדי להוכיח שהן בבעלותך</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Dogecoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified sherlockcoin addresses</source>
         <translation>אמת הודעות כדי להבטיח שהן נחתמו עם כתובת ביטקוין מסוימות</translation>
     </message>
     <message>
@@ -428,15 +428,15 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>[רשת-בדיקה]</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
+        <source>sherlockcoin Core</source>
         <translation>ליבת ביטקוין</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and dogecoin: URIs)</source>
+        <source>Request payments (generates QR codes and sherlockcoin: URIs)</source>
         <translation>בקש תשלומים (מייצר קודיי QR וסכימות URI של :bitcoin)</translation>
     </message>
     <message>
-        <source>&amp;About Dogecoin Core</source>
+        <source>&amp;About sherlockcoin Core</source>
         <translation>&amp;אודות קליינט ביטקוין</translation>
     </message>
     <message>
@@ -448,7 +448,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>הצג את רשימת הכתובות והתויות המשומשות</translation>
     </message>
     <message>
-        <source>Open a dogecoin: URI or payment request</source>
+        <source>Open a sherlockcoin: URI or payment request</source>
         <translation>פתח ביטקוין: URI או בקשת תשלום</translation>
     </message>
     <message>
@@ -456,15 +456,15 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Show the Dogecoin Core help message to get a list with possible command-line options</source>
+        <source>Show the sherlockcoin Core help message to get a list with possible command-line options</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin client</source>
+        <source>sherlockcoin client</source>
         <translation>תוכנת ביטקוין</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Dogecoin network</source>
+        <source>%n active connection(s) to sherlockcoin network</source>
         <translation><numerusform>%n חיבור פעיל אחד לרשת הביטקוין</numerusform><numerusform>%n חיבורים פעילים לרשת הביטקוין</numerusform></translation>
     </message>
     <message>
@@ -559,7 +559,7 @@ Address: %4
         <translation>הארנק &lt;b&gt;מוצפן&lt;/b&gt; וכרגע &lt;b&gt;נעול&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Dogecoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. sherlockcoin can no longer continue safely and will quit.</source>
         <translation>שגיאה סופנית אירעה. ביטקוין אינו יכול להמשיך לפעול בבטחה ולכן ייסגר.</translation>
     </message>
 </context>
@@ -848,7 +848,7 @@ Address: %4
         <translation>הכתובת שהכנסת &quot;%1&quot; כבר נמצאת בפנקס הכתובות.</translation>
     </message>
     <message>
-        <source>The entered address &quot;%1&quot; is not a valid Dogecoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid sherlockcoin address.</source>
         <translation>הכתובת שהוכנסה &quot;%1&quot; אינה כתובת ביטקוין תקינה.</translation>
     </message>
     <message>
@@ -886,11 +886,11 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Dogecoin Core - Command-line options</source>
+        <source>sherlockcoin Core - Command-line options</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin Core</source>
+        <source>sherlockcoin Core</source>
         <translation>ליבת ביטקוין</translation>
     </message>
     <message>
@@ -937,15 +937,15 @@ Address: %4
         <translation>ברוך בואך</translation>
     </message>
     <message>
-        <source>Welcome to Dogecoin Core.</source>
+        <source>Welcome to sherlockcoin Core.</source>
         <translation>ברוך הבא לקליינט ביטקוין</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Dogecoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where sherlockcoin Core will store its data.</source>
         <translation>מכיוון שזאת הפעם הראשונה שהתוכנה הופעלה תוכל לבחור איפה ביטקויין קור תאכסן את </translation>
     </message>
     <message>
-        <source>Dogecoin Core will download and store a copy of the Dogecoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>sherlockcoin Core will download and store a copy of the sherlockcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>קליינט ביטקוין יוריד וישמור העתק של שרשרת הבלוקים של ביטקוין. לפחות %1GB מהנתונים יאוכסנו בתיקיה הזו, ויגדל עם הזמן. הארנק גם יאוחסן בתיקיה הזו.</translation>
     </message>
     <message>
@@ -957,7 +957,7 @@ Address: %4
         <translation>השתמש בספריית מידע מותאמת אישית:</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
+        <source>sherlockcoin</source>
         <translation>ביטקוין</translation>
     </message>
     <message>
@@ -1019,11 +1019,11 @@ Address: %4
         <translation>שלם &amp;עמלת פעולה</translation>
     </message>
     <message>
-        <source>Automatically start Dogecoin Core after logging in to the system.</source>
+        <source>Automatically start sherlockcoin Core after logging in to the system.</source>
         <translation>הפעל את ביטקוין באופן עצמאי לאחר התחברות למערכת.</translation>
     </message>
     <message>
-        <source>&amp;Start Dogecoin Core on system login</source>
+        <source>&amp;Start sherlockcoin Core on system login</source>
         <translation>התחל את ביטקוין בעת התחברות למערכת</translation>
     </message>
     <message>
@@ -1039,7 +1039,7 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Connect to the Dogecoin network through a SOCKS proxy.</source>
+        <source>Connect to the sherlockcoin network through a SOCKS proxy.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1091,7 +1091,7 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Automatically open the Dogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the sherlockcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>פתח את פורט ביטקוין בנתב באופן אוטומטי. עובד רק אם UPnP מאופשר ונתמך ע&quot;י הנתב.</translation>
     </message>
     <message>
@@ -1147,7 +1147,7 @@ Address: %4
         <translation>שפת ממשק המשתמש:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dogecoin Core.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting sherlockcoin Core.</source>
         <translation>ניתן לקבוע כאן את שפת ממשק המשתמש. הגדרה זו תחול לאחר הפעלה מחדש של ביטקוין.</translation>
     </message>
     <message>
@@ -1159,7 +1159,7 @@ Address: %4
         <translation>בחר את ברירת המחדל ליחידת החלוקה אשר תוצג בממשק ובעת שליחת מטבעות.</translation>
     </message>
     <message>
-        <source>Whether to show Dogecoin addresses in the transaction list or not.</source>
+        <source>Whether to show sherlockcoin addresses in the transaction list or not.</source>
         <translation>האם להציג כתובות ביטקוין ברשימת הפעולות או לא.</translation>
     </message>
     <message>
@@ -1214,7 +1214,7 @@ Address: %4
         <translation>טופס</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogecoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the sherlockcoin network after a connection is established, but this process has not completed yet.</source>
         <translation>המידע המוצג עשוי להיות מיושן. הארנק שלך מסתנכרן באופן אוטומטי עם רשת הביטקוין לאחר כינון חיבור, אך התהליך טרם הסתיים.</translation>
     </message>
     <message>
@@ -1269,7 +1269,7 @@ Address: %4
         <translation>תפעול URI</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Dogecoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid sherlockcoin address or malformed URI parameters.</source>
         <translation>לא ניתן לנתח URI! זה יכול להיגרם כתוצאה מכתובת ביטקוין לא תקינה או פרמטרי URI חסרי צורה תקינה.</translation>
     </message>
     <message>
@@ -1281,7 +1281,7 @@ Address: %4
         <translation>שגיאה בבקשת תשלום</translation>
     </message>
     <message>
-        <source>Cannot start dogecoin: click-to-pay handler</source>
+        <source>Cannot start sherlockcoin: click-to-pay handler</source>
         <translation>לא ניתן להתחיל את ביטקוין: מפעיל לחץ-לתשלום </translation>
     </message>
     <message>
@@ -1336,7 +1336,7 @@ Address: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Dogecoin</source>
+        <source>sherlockcoin</source>
         <translation>ביטקוין</translation>
     </message>
     <message>
@@ -1352,11 +1352,11 @@ Address: %4
         <translation>שגיאה: שילוב בלתי חוקי של regtest- ו testnet-.</translation>
     </message>
     <message>
-        <source>Dogecoin Core did&apos;t yet exit safely...</source>
+        <source>sherlockcoin Core did&apos;t yet exit safely...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <source>Enter a sherlockcoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
         <translation>הכנס כתובת ביטקוין (למשל DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
 </context>
@@ -1478,7 +1478,7 @@ Address: %4
         <translation>קובץ יומן ניפוי</translation>
     </message>
     <message>
-        <source>Open the Dogecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the sherlockcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>פתח את קובץ יומן הניפוי מתיקיית הנתונים הנוכחית. זה עשוי לקחת מספר שניות עבור קובצי יומן גדולים.</translation>
     </message>
     <message>
@@ -1486,7 +1486,7 @@ Address: %4
         <translation>נקה לוח בקרה</translation>
     </message>
     <message>
-        <source>Welcome to the Dogecoin RPC console.</source>
+        <source>Welcome to the sherlockcoin RPC console.</source>
         <translation>ברוכים הבאים ללוח בקרת RPC של ביטקוין</translation>
     </message>
     <message>
@@ -1549,7 +1549,7 @@ Address: %4
         <translation>ש&amp;ימוש חוזר בכתובת קבלה קיימת(לא מומלץ)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Dogecoin network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the sherlockcoin network.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1862,7 +1862,7 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Warning: Invalid Dogecoin address</source>
+        <source>Warning: Invalid sherlockcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1949,7 +1949,7 @@ Address: %4
         <translation>הקלד תווית עבור כתובת זו בכדי להוסיף אותה לרשימת הכתובות בשימוש</translation>
     </message>
     <message>
-        <source>A message that was attached to the dogecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Dogecoin network.</source>
+        <source>A message that was attached to the sherlockcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the sherlockcoin network.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1968,7 +1968,7 @@ Address: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Dogecoin Core is shutting down...</source>
+        <source>sherlockcoin Core is shutting down...</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2023,7 +2023,7 @@ Address: %4
         <translation>העתק את החתימה הנוכחית ללוח המערכת</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dogecoin address</source>
+        <source>Sign the message to prove you own this sherlockcoin address</source>
         <translation>חתום על ההודעה כדי להוכיח שכתובת הביטקוין הזו בבעלותך.</translation>
     </message>
     <message>
@@ -2051,7 +2051,7 @@ Address: %4
         <translation>הכתובת איתה ההודעה נחתמה (למשל DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dogecoin address</source>
+        <source>Verify the message to ensure it was signed with the specified sherlockcoin address</source>
         <translation>אמת את ההודעה כדי להבטיח שהיא נחתמה עם כתובת הביטקוין הנתונה</translation>
     </message>
     <message>
@@ -2063,7 +2063,7 @@ Address: %4
         <translation>אפס את כל שדות אימות הודעה</translation>
     </message>
     <message>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <source>Enter a sherlockcoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
         <translation>הכנס כתובת ביטקוין (למשל DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
     <message>
@@ -2122,11 +2122,11 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dogecoin Core</source>
+        <source>sherlockcoin Core</source>
         <translation>ליבת ביטקוין</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
+        <source>The sherlockcoin Core developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2605,8 +2605,8 @@ Address: %4
         <translation>אפשרויות:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: dogecoin.conf)</source>
-        <translation>ציין קובץ הגדרות (ברירת מחדל: dogecoin.conf)</translation>
+        <source>Specify configuration file (default: sherlockcoin.conf)</source>
+        <translation>ציין קובץ הגדרות (ברירת מחדל: sherlockcoin.conf)</translation>
     </message>
     <message>
         <source>Specify pid file (default: bitcoind.pid)</source>
@@ -2653,7 +2653,7 @@ Address: %4
         <translation>קבל פקודות משורת הפקודה ו- JSON-RPC</translation>
     </message>
     <message>
-        <source>Dogecoin Core RPC client version</source>
+        <source>sherlockcoin Core RPC client version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2678,7 +2678,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;sherlockcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, עליך לקבוע סיסמת RPC בקובץ הקונפיגורציה:
  %s
@@ -2689,7 +2689,7 @@ rpcpassword=%s
 אסור ששם המשתמש והסיסמא יהיו זהים.
 אם הקובץ אינו קיים, צור אותו עם הרשאות קריאה לבעלים בלבד.
 זה מומלץ לסמן alertnotify כדי לקבל דיווח על תקלות;
-למשל: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com 
+למשל: alertnotify=echo %%s | mail -s &quot;sherlockcoin Alert&quot; admin@foo.com 
 </translation>
     </message>
     <message>
@@ -2761,7 +2761,7 @@ rpcpassword=%s
         <translation>זוהי בניית ניסיון טרום-שחרור - השימוש בה על אחריותך - אין להשתמש לצורך כריה או יישומי מסחר</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Dogecoin Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. sherlockcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2773,7 +2773,7 @@ rpcpassword=%s
         <translation>אזהרה: -paytxfee נקבע לערך מאד גבוה! זוהי עמלת הפעולה שתשלם אם אתה שולח פעולה.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Dogecoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong sherlockcoin will not work properly.</source>
         <translation>אזהרה: אנא בדוק שהתאריך והשעה של המחשב שלך נכונים! אם השעון שלך אינו נכון ביטקוין לא יעבוד כראוי.</translation>
     </message>
     <message>
@@ -2809,7 +2809,7 @@ rpcpassword=%s
         <translation>נסה לשחזר מפתחות פרטיים מקובץ wallet.dat מושחת.</translation>
     </message>
     <message>
-        <source>Dogecoin Core Daemon</source>
+        <source>sherlockcoin Core Daemon</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3017,8 +3017,8 @@ rpcpassword=%s
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Usage (deprecated, use dogecoin-cli):</source>
-        <translation>שימוש (מיושן, השתמש ב dogecoin-cli):</translation>
+        <source>Usage (deprecated, use sherlockcoin-cli):</source>
+        <translation>שימוש (מיושן, השתמש ב sherlockcoin-cli):</translation>
     </message>
     <message>
         <source>Verifying blocks...</source>
@@ -3053,7 +3053,7 @@ rpcpassword=%s
         <translation>מייבא בלוקים מקובצי blk000??.dat חיצוניים</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Dogecoin Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. sherlockcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3141,7 +3141,7 @@ rpcpassword=%s
         <translation>אפשרויות SSL: (ראה את הויקי של ביטקוין עבור הוראות הגדרת SSL)</translation>
     </message>
     <message>
-        <source>Send command to Dogecoin Core</source>
+        <source>Send command to sherlockcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3177,7 +3177,7 @@ rpcpassword=%s
         <translation>ציין הגבלת זמן לחיבור במילישניות (ברירת מחדל: 5000)</translation>
     </message>
     <message>
-        <source>Start Dogecoin Core Daemon</source>
+        <source>Start sherlockcoin Core Daemon</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3293,11 +3293,11 @@ rpcpassword=%s
         <translation>שגיאה בטעינת הקובץ wallet.dat: הארנק מושחת</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dogecoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of sherlockcoin</source>
         <translation>שגיאה בטעינת הקובץ wallet.dat: הארנק דורש גרסה חדשה יותר של ביטקוין</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Dogecoin to complete</source>
+        <source>Wallet needed to be rewritten: restart sherlockcoin to complete</source>
         <translation>יש לכתוב מחדש את הארנק: אתחל את ביטקוין לסיום</translation>
     </message>
     <message>

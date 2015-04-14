@@ -2,11 +2,11 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Dogecoin Core</source>
+        <source>About sherlockcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>&lt;b&gt;Dogecoin Core&lt;/b&gt; version</source>
+        <source>&lt;b&gt;sherlockcoin Core&lt;/b&gt; version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -28,7 +28,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <translation>Copyright</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
+        <source>The sherlockcoin Core developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -103,11 +103,11 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <translation>アドレス受信中</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>これらは支払いを送信するためのあなたの Dogecoin アドレスです。コインを送信する前に、常に額と受信アドレスを確認してください。</translation>
+        <source>These are your sherlockcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>これらは支払いを送信するためのあなたの sherlockcoin アドレスです。コインを送信する前に、常に額と受信アドレスを確認してください。</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your sherlockcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -205,8 +205,8 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <translation>ウォレットの暗号化を確認する</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
-        <translation>警告: もしもあなたのウォレットを暗号化してパスフレーズを失ってしまったなら、&lt;b&gt;あなたの Dogecoin はすべて失われます&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR sherlockcoinS&lt;/b&gt;!</source>
+        <translation>警告: もしもあなたのウォレットを暗号化してパスフレーズを失ってしまったなら、&lt;b&gt;あなたの sherlockcoin はすべて失われます&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -225,8 +225,8 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <translation>ウォレットは暗号化されました</translation>
     </message>
     <message>
-        <source>Dogecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dogecoins from being stolen by malware infecting your computer.</source>
-        <translation>Dogecoin は暗号化プロセスを終了するために今すぐ終了します。あなたのコンピュータがマルウェアに感染してコインを盗まれることもあるので、暗号化してもあなたのウォレットを完全に保護できないことを覚えていてください。</translation>
+        <source>sherlockcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your sherlockcoins from being stolen by malware infecting your computer.</source>
+        <translation>sherlockcoin は暗号化プロセスを終了するために今すぐ終了します。あなたのコンピュータがマルウェアに感染してコインを盗まれることもあるので、暗号化してもあなたのウォレットを完全に保護できないことを覚えていてください。</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -296,8 +296,8 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <translation>アプリケーションを終了</translation>
     </message>
     <message>
-        <source>Show information about Dogecoin</source>
-        <translation>Dogecoinに関する情報を見る</translation>
+        <source>Show information about sherlockcoin</source>
+        <translation>sherlockcoinに関する情報を見る</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -344,12 +344,12 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <translation>ディスク上のブロックのインデックスを再作成中...</translation>
     </message>
     <message>
-        <source>Send coins to a Dogecoin address</source>
-        <translation>Dogecoin アドレスにコインを送る</translation>
+        <source>Send coins to a sherlockcoin address</source>
+        <translation>sherlockcoin アドレスにコインを送る</translation>
     </message>
     <message>
-        <source>Modify configuration options for Dogecoin Core</source>
-        <translation>Dogecoin の設定を変更する</translation>
+        <source>Modify configuration options for sherlockcoin Core</source>
+        <translation>sherlockcoin の設定を変更する</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -372,8 +372,8 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <translation>メッセージの検証... (&amp;V)</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>sherlockcoin</source>
+        <translation>sherlockcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -400,12 +400,12 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <translation>あなたのウォレットの秘密鍵を暗号化します</translation>
     </message>
     <message>
-        <source>Sign messages with your Dogecoin addresses to prove you own them</source>
-        <translation>あなたが所有していることを証明するために、あなたの Dogecoin アドレスでメッセージに署名してください</translation>
+        <source>Sign messages with your sherlockcoin addresses to prove you own them</source>
+        <translation>あなたが所有していることを証明するために、あなたの sherlockcoin アドレスでメッセージに署名してください</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Dogecoin addresses</source>
-        <translation>指定された Dogecoin アドレスで署名されたことを確認するためにメッセージを検証します</translation>
+        <source>Verify messages to ensure they were signed with specified sherlockcoin addresses</source>
+        <translation>指定された sherlockcoin アドレスで署名されたことを確認するためにメッセージを検証します</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -428,15 +428,15 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin のコア</translation>
+        <source>sherlockcoin Core</source>
+        <translation>sherlockcoin のコア</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and dogecoin: URIs)</source>
+        <source>Request payments (generates QR codes and sherlockcoin: URIs)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>&amp;About Dogecoin Core</source>
+        <source>&amp;About sherlockcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -448,7 +448,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <translation>支払いを受け取るアドレスとラベルのリストを表示する</translation>
     </message>
     <message>
-        <source>Open a dogecoin: URI or payment request</source>
+        <source>Open a sherlockcoin: URI or payment request</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -456,16 +456,16 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Show the Dogecoin Core help message to get a list with possible command-line options</source>
+        <source>Show the sherlockcoin Core help message to get a list with possible command-line options</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin client</source>
-        <translation>Dogecoin クライアント</translation>
+        <source>sherlockcoin client</source>
+        <translation>sherlockcoin クライアント</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Dogecoin network</source>
-        <translation><numerusform>%n の Dogecoin ネットワークへのアクティブな接続</numerusform></translation>
+        <source>%n active connection(s) to sherlockcoin network</source>
+        <translation><numerusform>%n の sherlockcoin ネットワークへのアクティブな接続</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -559,8 +559,8 @@ Address: %4
         <translation>ウォレットは&lt;b&gt;暗号化されて、ロックされています&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Dogecoin can no longer continue safely and will quit.</source>
-        <translation>致命的なエラーが発生しました。Dogecoin は安全に継続することができず終了するでしょう。
+        <source>A fatal error occurred. sherlockcoin can no longer continue safely and will quit.</source>
+        <translation>致命的なエラーが発生しました。sherlockcoin は安全に継続することができず終了するでしょう。
 </translation>
     </message>
 </context>
@@ -849,8 +849,8 @@ Address: %4
         <translation>入力されたアドレス &quot;%1&quot; は既にアドレス帳にあります。</translation>
     </message>
     <message>
-        <source>The entered address &quot;%1&quot; is not a valid Dogecoin address.</source>
-        <translation>入力されたアドレス &quot;%1&quot; は無効な Dogecoin アドレスです。</translation>
+        <source>The entered address &quot;%1&quot; is not a valid sherlockcoin address.</source>
+        <translation>入力されたアドレス &quot;%1&quot; は無効な sherlockcoin アドレスです。</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -887,12 +887,12 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Dogecoin Core - Command-line options</source>
+        <source>sherlockcoin Core - Command-line options</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin のコア</translation>
+        <source>sherlockcoin Core</source>
+        <translation>sherlockcoin のコア</translation>
     </message>
     <message>
         <source>version</source>
@@ -938,15 +938,15 @@ Address: %4
         <translation>ようこそ</translation>
     </message>
     <message>
-        <source>Welcome to Dogecoin Core.</source>
+        <source>Welcome to sherlockcoin Core.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Dogecoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where sherlockcoin Core will store its data.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin Core will download and store a copy of the Dogecoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>sherlockcoin Core will download and store a copy of the sherlockcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -958,8 +958,8 @@ Address: %4
         <translation>任意のデータ ディレクトリを使用:</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>sherlockcoin</source>
+        <translation>sherlockcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; can not be created.</source>
@@ -1020,12 +1020,12 @@ Address: %4
         <translation>支払う取引手数料 (&amp;f)</translation>
     </message>
     <message>
-        <source>Automatically start Dogecoin Core after logging in to the system.</source>
-        <translation>システムにログインした時に自動的に Dogecoin を起動します。</translation>
+        <source>Automatically start sherlockcoin Core after logging in to the system.</source>
+        <translation>システムにログインした時に自動的に sherlockcoin を起動します。</translation>
     </message>
     <message>
-        <source>&amp;Start Dogecoin Core on system login</source>
-        <translation>システムにログインした時に Dogecoin を起動 (&amp;S)</translation>
+        <source>&amp;Start sherlockcoin Core on system login</source>
+        <translation>システムにログインした時に sherlockcoin を起動 (&amp;S)</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1040,7 +1040,7 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Connect to the Dogecoin network through a SOCKS proxy.</source>
+        <source>Connect to the sherlockcoin network through a SOCKS proxy.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1092,8 +1092,8 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Automatically open the Dogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>自動的にルーター上の Dogecoin クライアントのポートを開きます。あなたのルーターが UPnP に対応していて、それが有効になっている場合に作動します。</translation>
+        <source>Automatically open the sherlockcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>自動的にルーター上の sherlockcoin クライアントのポートを開きます。あなたのルーターが UPnP に対応していて、それが有効になっている場合に作動します。</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1148,8 +1148,8 @@ Address: %4
         <translation>ユーザインターフェースの言語 (&amp;l) :</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dogecoin Core.</source>
-        <translation>ここでユーザインターフェースの言語を設定できます。設定を反映するには Dogecoin を再起動します。</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting sherlockcoin Core.</source>
+        <translation>ここでユーザインターフェースの言語を設定できます。設定を反映するには sherlockcoin を再起動します。</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1160,8 +1160,8 @@ Address: %4
         <translation>インターフェース上の表示とコインの送信で使用する単位を選択します。</translation>
     </message>
     <message>
-        <source>Whether to show Dogecoin addresses in the transaction list or not.</source>
-        <translation>最近の取引履歴で Dogecoin アドレスを表示するかしないか。</translation>
+        <source>Whether to show sherlockcoin addresses in the transaction list or not.</source>
+        <translation>最近の取引履歴で sherlockcoin アドレスを表示するかしないか。</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -1215,8 +1215,8 @@ Address: %4
         <translation>フォーム</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>表示された情報は古いかもしれません。接続が確立されると、あなたのウォレットは Dogecoin ネットワークと自動的に同期しますが、このプロセスはまだ完了していません。</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the sherlockcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>表示された情報は古いかもしれません。接続が確立されると、あなたのウォレットは sherlockcoin ネットワークと自動的に同期しますが、このプロセスはまだ完了していません。</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1270,8 +1270,8 @@ Address: %4
         <translation>URI の操作</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Dogecoin address or malformed URI parameters.</source>
-        <translation>URI を解析できません! これは無効な Dogecoin アドレスあるいや不正な形式の URI パラメーターによって引き起こされる場合があります。
+        <source>URI can not be parsed! This can be caused by an invalid sherlockcoin address or malformed URI parameters.</source>
+        <translation>URI を解析できません! これは無効な sherlockcoin アドレスあるいや不正な形式の URI パラメーターによって引き起こされる場合があります。
 </translation>
     </message>
     <message>
@@ -1283,8 +1283,8 @@ Address: %4
         <translation>支払いのリクエストのエラーです</translation>
     </message>
     <message>
-        <source>Cannot start dogecoin: click-to-pay handler</source>
-        <translation>Dogecoin を起動できません: click-to-pay handler</translation>
+        <source>Cannot start sherlockcoin: click-to-pay handler</source>
+        <translation>sherlockcoin を起動できません: click-to-pay handler</translation>
     </message>
     <message>
         <source>Net manager warning</source>
@@ -1338,8 +1338,8 @@ Address: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>sherlockcoin</source>
+        <translation>sherlockcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; does not exist.</source>
@@ -1354,12 +1354,12 @@ Address: %4
         <translation>エラー：　-regtestと-testnetは一緒にするのは無効です。</translation>
     </message>
     <message>
-        <source>Dogecoin Core did&apos;t yet exit safely...</source>
+        <source>sherlockcoin Core did&apos;t yet exit safely...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
-        <translation>Dogecoin アドレスを入力します (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
+        <source>Enter a sherlockcoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <translation>sherlockcoin アドレスを入力します (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
 </context>
 <context>
@@ -1480,16 +1480,16 @@ Address: %4
         <translation>デバッグ用ログファイル</translation>
     </message>
     <message>
-        <source>Open the Dogecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>現在のデータ ディレクトリから Dogecoin のデバッグ用ログファイルを開きます。ログファイルが大規模な場合には数秒かかることがあります。</translation>
+        <source>Open the sherlockcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>現在のデータ ディレクトリから sherlockcoin のデバッグ用ログファイルを開きます。ログファイルが大規模な場合には数秒かかることがあります。</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>コンソールをクリア</translation>
     </message>
     <message>
-        <source>Welcome to the Dogecoin RPC console.</source>
-        <translation>Dogecoin RPC コンソールへようこそ。</translation>
+        <source>Welcome to the sherlockcoin RPC console.</source>
+        <translation>sherlockcoin RPC コンソールへようこそ。</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1551,7 +1551,7 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Dogecoin network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the sherlockcoin network.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1864,7 +1864,7 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Warning: Invalid Dogecoin address</source>
+        <source>Warning: Invalid sherlockcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1951,7 +1951,7 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>A message that was attached to the dogecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Dogecoin network.</source>
+        <source>A message that was attached to the sherlockcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the sherlockcoin network.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1970,7 +1970,7 @@ Address: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Dogecoin Core is shutting down...</source>
+        <source>sherlockcoin Core is shutting down...</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2025,8 +2025,8 @@ Address: %4
         <translation>現在の署名をシステムのクリップボードにコピーする</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dogecoin address</source>
-        <translation>この Dogecoin アドレスを所有していることを証明するためにメッセージに署名</translation>
+        <source>Sign the message to prove you own this sherlockcoin address</source>
+        <translation>この sherlockcoin アドレスを所有していることを証明するためにメッセージに署名</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2053,8 +2053,8 @@ Address: %4
         <translation>メッセージが署名されたアドレス (例 DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dogecoin address</source>
-        <translation>指定された Dogecoin アドレスで署名されたことを保証するメッセージを検証</translation>
+        <source>Verify the message to ensure it was signed with the specified sherlockcoin address</source>
+        <translation>指定された sherlockcoin アドレスで署名されたことを保証するメッセージを検証</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2065,8 +2065,8 @@ Address: %4
         <translation>入力項目の内容をすべて消去します</translation>
     </message>
     <message>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
-        <translation>Dogecoin アドレスを入力します (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
+        <source>Enter a sherlockcoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <translation>sherlockcoin アドレスを入力します (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
     <message>
         <source>Click &quot;Sign Message&quot; to generate signature</source>
@@ -2124,11 +2124,11 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin のコア</translation>
+        <source>sherlockcoin Core</source>
+        <translation>sherlockcoin のコア</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
+        <source>The sherlockcoin Core developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2607,8 +2607,8 @@ Address: %4
         <translation>オプション:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: dogecoin.conf)</source>
-        <translation>設定ファイルの指定 (初期値: dogecoin.conf)</translation>
+        <source>Specify configuration file (default: sherlockcoin.conf)</source>
+        <translation>設定ファイルの指定 (初期値: sherlockcoin.conf)</translation>
     </message>
     <message>
         <source>Specify pid file (default: bitcoind.pid)</source>
@@ -2655,7 +2655,7 @@ Address: %4
         <translation>コマンドラインと JSON-RPC コマンドを許可</translation>
     </message>
     <message>
-        <source>Dogecoin Core RPC client version</source>
+        <source>sherlockcoin Core RPC client version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2680,7 +2680,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;sherlockcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, rpcpassword を設定ファイルで設定してください:
 %s
@@ -2691,7 +2691,7 @@ rpcpassword=%s
 ユーザー名とパスワードが同じであってはいけません。
 もしもファイルが存在しないなら、所有者だけが読み取れる権限で作成してください。
 また、問題が通知されるように alertnotify を設定することをお勧めします;
-例えば: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com</translation>
+例えば: alertnotify=echo %%s | mail -s &quot;sherlockcoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <source>Acceptable ciphers (default: TLSv1.2+HIGH:TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!3DES:@STRENGTH)</source>
@@ -2762,7 +2762,7 @@ rpcpassword=%s
         <translation>これはリリース前のテストビルドです - 各自の責任で利用すること - 採掘や商取引に使用しないでください</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Dogecoin Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. sherlockcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2774,8 +2774,8 @@ rpcpassword=%s
         <translation>警告: -paytxfee が非常に高く設定されています! これは取引を送信する場合に支払う取引手数料です。</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Dogecoin will not work properly.</source>
-        <translation>警告: あなたのコンピュータの日時が正しいことを確認してください! 時計が間違っていると Dogecoin は正常に動作しません。</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong sherlockcoin will not work properly.</source>
+        <translation>警告: あなたのコンピュータの日時が正しいことを確認してください! 時計が間違っていると sherlockcoin は正常に動作しません。</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -2810,7 +2810,7 @@ rpcpassword=%s
         <translation>壊れた wallet.dat から秘密鍵を復旧することを試す</translation>
     </message>
     <message>
-        <source>Dogecoin Core Daemon</source>
+        <source>sherlockcoin Core Daemon</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3019,7 +3019,7 @@ rpcpassword=%s
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Usage (deprecated, use dogecoin-cli):</source>
+        <source>Usage (deprecated, use sherlockcoin-cli):</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3055,7 +3055,7 @@ rpcpassword=%s
         <translation>外部の blk000??.dat ファイルからブロックをインポート</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Dogecoin Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. sherlockcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3143,7 +3143,7 @@ rpcpassword=%s
         <translation>SSL オプション: (SSLのセットアップ手順は Bitcoin Wiki をご覧下さい)</translation>
     </message>
     <message>
-        <source>Send command to Dogecoin Core</source>
+        <source>Send command to sherlockcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3179,7 +3179,7 @@ rpcpassword=%s
         <translation>接続のタイムアウトをミリセコンドで指定 (初期値: 5000)</translation>
     </message>
     <message>
-        <source>Start Dogecoin Core Daemon</source>
+        <source>Start sherlockcoin Core Daemon</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3295,12 +3295,12 @@ rpcpassword=%s
         <translation>wallet.dat 読み込みエラー: ウォレットが壊れました</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dogecoin</source>
-        <translation>wallet.dat 読み込みエラー: ウォレットは Dogecoin の最新バージョンを必要とします</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of sherlockcoin</source>
+        <translation>wallet.dat 読み込みエラー: ウォレットは sherlockcoin の最新バージョンを必要とします</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Dogecoin to complete</source>
-        <translation>ウォレットが書き直される必要がありました: 完了するために Dogecoin を再起動します</translation>
+        <source>Wallet needed to be rewritten: restart sherlockcoin to complete</source>
+        <translation>ウォレットが書き直される必要がありました: 完了するために sherlockcoin を再起動します</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

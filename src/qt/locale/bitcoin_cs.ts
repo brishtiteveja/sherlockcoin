@@ -2,12 +2,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Dogecoin Core</source>
-        <translation>O Dogecoin Core</translation>
+        <source>About sherlockcoin Core</source>
+        <translation>O sherlockcoin Core</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Dogecoin Core&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Dogecoin Core&lt;/b&gt; verze</translation>
+        <source>&lt;b&gt;sherlockcoin Core&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;sherlockcoin Core&lt;/b&gt; verze</translation>
     </message>
     <message>
         <source>
@@ -28,8 +28,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
         <translation>Copyright</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
-        <translation>Vývojáři Dogecoin Core</translation>
+        <source>The sherlockcoin Core developers</source>
+        <translation>Vývojáři sherlockcoin Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -103,12 +103,12 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
         <translation>Přijímací adresy</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tohle jsou tvé Dogecoinové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
+        <source>These are your sherlockcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tohle jsou tvé sherlockcoinové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Tohle jsou tvé Dogecoinové adresy pro příjem plateb. Je doporučené používat pokaždé novou adresu pro každou transakci.</translation>
+        <source>These are your sherlockcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Tohle jsou tvé sherlockcoinové adresy pro příjem plateb. Je doporučené používat pokaždé novou adresu pro každou transakci.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -205,8 +205,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
         <translation>Potvrď zašifrování peněženky</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
-        <translation>Varování: Pokud si zašifruješ peněženku a ztratíš či zapomeneš heslo, &lt;b&gt;PŘIJDEŠ O VŠECHNY DOGECOINY&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR sherlockcoinS&lt;/b&gt;!</source>
+        <translation>Varování: Pokud si zašifruješ peněženku a ztratíš či zapomeneš heslo, &lt;b&gt;PŘIJDEŠ O VŠECHNY sherlockcoinY&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -225,8 +225,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
         <translation>Peněženka je zašifrována</translation>
     </message>
     <message>
-        <source>Dogecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dogecoins from being stolen by malware infecting your computer.</source>
-        <translation>Dogecoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých dogecoinů malwarem, kterým se může počítač nakazit.</translation>
+        <source>sherlockcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your sherlockcoins from being stolen by malware infecting your computer.</source>
+        <translation>sherlockcoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých sherlockcoinů malwarem, kterým se může počítač nakazit.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -296,8 +296,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
         <translation>Ukonči aplikaci</translation>
     </message>
     <message>
-        <source>Show information about Dogecoin</source>
-        <translation>Zobraz informace o Dogecoinu</translation>
+        <source>Show information about sherlockcoin</source>
+        <translation>Zobraz informace o sherlockcoinu</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -344,12 +344,12 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
         <translation>Vytvářím nový index bloků na disku...</translation>
     </message>
     <message>
-        <source>Send coins to a Dogecoin address</source>
-        <translation>Pošli mince na Dogecoinovou adresu</translation>
+        <source>Send coins to a sherlockcoin address</source>
+        <translation>Pošli mince na sherlockcoinovou adresu</translation>
     </message>
     <message>
-        <source>Modify configuration options for Dogecoin Core</source>
-        <translation>Uprav nastavení Dogecoinu</translation>
+        <source>Modify configuration options for sherlockcoin Core</source>
+        <translation>Uprav nastavení sherlockcoinu</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -372,8 +372,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
         <translation>&amp;Ověř zprávu...</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>sherlockcoin</source>
+        <translation>sherlockcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -400,12 +400,12 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
         <translation>Zašifruj soukromé klíče ve své peněžence</translation>
     </message>
     <message>
-        <source>Sign messages with your Dogecoin addresses to prove you own them</source>
-        <translation>Podepiš zprávy svými Dogecoinovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
+        <source>Sign messages with your sherlockcoin addresses to prove you own them</source>
+        <translation>Podepiš zprávy svými sherlockcoinovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Dogecoin addresses</source>
-        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými Dogecoinovými adresami</translation>
+        <source>Verify messages to ensure they were signed with specified sherlockcoin addresses</source>
+        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými sherlockcoinovými adresami</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -428,16 +428,16 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Jádro Dogecoinu</translation>
+        <source>sherlockcoin Core</source>
+        <translation>Jádro sherlockcoinu</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and dogecoin: URIs)</source>
+        <source>Request payments (generates QR codes and sherlockcoin: URIs)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>&amp;About Dogecoin Core</source>
-        <translation>O &amp;Dogecoin Core</translation>
+        <source>&amp;About sherlockcoin Core</source>
+        <translation>O &amp;sherlockcoin Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -448,7 +448,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Open a dogecoin: URI or payment request</source>
+        <source>Open a sherlockcoin: URI or payment request</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -456,16 +456,16 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
         <translation>Ar&amp;gumenty z příkazové řádky</translation>
     </message>
     <message>
-        <source>Show the Dogecoin Core help message to get a list with possible command-line options</source>
-        <translation>Seznam argumentů Dogecoinu pro příkazovou řádku získáš v nápovědě Dogecoinu Core.</translation>
+        <source>Show the sherlockcoin Core help message to get a list with possible command-line options</source>
+        <translation>Seznam argumentů sherlockcoinu pro příkazovou řádku získáš v nápovědě sherlockcoinu Core.</translation>
     </message>
     <message>
-        <source>Dogecoin client</source>
-        <translation>Dogecoin klient</translation>
+        <source>sherlockcoin client</source>
+        <translation>sherlockcoin klient</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Dogecoin network</source>
-        <translation><numerusform>%n aktivní spojení do Dogecoinové sítě</numerusform><numerusform>%n aktivní spojení do Dogecoinové sítě</numerusform><numerusform>%n aktivních spojení do Dogecoinové sítě</numerusform></translation>
+        <source>%n active connection(s) to sherlockcoin network</source>
+        <translation><numerusform>%n aktivní spojení do sherlockcoinové sítě</numerusform><numerusform>%n aktivní spojení do sherlockcoinové sítě</numerusform><numerusform>%n aktivních spojení do sherlockcoinové sítě</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -560,8 +560,8 @@ Adresa: %4
         <translation>Peněženka je &lt;b&gt;zašifrovaná&lt;/b&gt; a momentálně &lt;b&gt;zamčená&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Dogecoin can no longer continue safely and will quit.</source>
-        <translation>Stala se fatální chyba. Dogecoin nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
+        <source>A fatal error occurred. sherlockcoin can no longer continue safely and will quit.</source>
+        <translation>Stala se fatální chyba. sherlockcoin nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
     </message>
 </context>
 <context>
@@ -849,8 +849,8 @@ Adresa: %4
         <translation>Zadaná adresa &quot;%1&quot; už v adresáři je.</translation>
     </message>
     <message>
-        <source>The entered address &quot;%1&quot; is not a valid Dogecoin address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; není platná Dogecoinová adresa.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid sherlockcoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; není platná sherlockcoinová adresa.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -887,12 +887,12 @@ Adresa: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Dogecoin Core - Command-line options</source>
-        <translation>Dogecoin Core – Argumenty z příkazové řádky</translation>
+        <source>sherlockcoin Core - Command-line options</source>
+        <translation>sherlockcoin Core – Argumenty z příkazové řádky</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Core</translation>
+        <source>sherlockcoin Core</source>
+        <translation>sherlockcoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -938,16 +938,16 @@ Adresa: %4
         <translation>Vítej</translation>
     </message>
     <message>
-        <source>Welcome to Dogecoin Core.</source>
-        <translation>Vítej v Dogecoin Core.</translation>
+        <source>Welcome to sherlockcoin Core.</source>
+        <translation>Vítej v sherlockcoin Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Dogecoin Core will store its data.</source>
-        <translation>Tohle je poprvé, co spouštíš Dogecoin Core, takže si můžeš zvolit, kam bude ukládat svá data.</translation>
+        <source>As this is the first time the program is launched, you can choose where sherlockcoin Core will store its data.</source>
+        <translation>Tohle je poprvé, co spouštíš sherlockcoin Core, takže si můžeš zvolit, kam bude ukládat svá data.</translation>
     </message>
     <message>
-        <source>Dogecoin Core will download and store a copy of the Dogecoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Dogecoin Core bude stahovat kopii řetězce bloků. Proto bude potřeba do tohoto adresáře uložit nejméně %1 GB dat – toto číslo bude navíc v průběhu času pomalu růst. Tvá peněženka bude rovněž uložena v tomto adresáři.</translation>
+        <source>sherlockcoin Core will download and store a copy of the sherlockcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>sherlockcoin Core bude stahovat kopii řetězce bloků. Proto bude potřeba do tohoto adresáře uložit nejméně %1 GB dat – toto číslo bude navíc v průběhu času pomalu růst. Tvá peněženka bude rovněž uložena v tomto adresáři.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -958,8 +958,8 @@ Adresa: %4
         <translation>Použij tento adresář pro data:</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>sherlockcoin</source>
+        <translation>sherlockcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; can not be created.</source>
@@ -1020,12 +1020,12 @@ Adresa: %4
         <translation>Platit &amp;transakční poplatek</translation>
     </message>
     <message>
-        <source>Automatically start Dogecoin Core after logging in to the system.</source>
-        <translation>Automaticky spustí Dogecoin po přihlášení do systému.</translation>
+        <source>Automatically start sherlockcoin Core after logging in to the system.</source>
+        <translation>Automaticky spustí sherlockcoin po přihlášení do systému.</translation>
     </message>
     <message>
-        <source>&amp;Start Dogecoin Core on system login</source>
-        <translation>S&amp;pustit Dogecoin po přihlášení do systému</translation>
+        <source>&amp;Start sherlockcoin Core on system login</source>
+        <translation>S&amp;pustit sherlockcoin po přihlášení do systému</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1040,8 +1040,8 @@ Adresa: %4
         <translation>Počet vláken pro &amp;verifikaci skriptů</translation>
     </message>
     <message>
-        <source>Connect to the Dogecoin network through a SOCKS proxy.</source>
-        <translation>Připojí se do Dogecoinové sítě přes SOCKS proxy.</translation>
+        <source>Connect to the sherlockcoin network through a SOCKS proxy.</source>
+        <translation>Připojí se do sherlockcoinové sítě přes SOCKS proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS proxy (default proxy):</source>
@@ -1100,7 +1100,7 @@ Adresa: %4
         <translation>&amp;Utrácet i ještě nepotvrzené drobné</translation>
     </message>
     <message>
-        <source>Automatically open the Dogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the sherlockcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Automaticky otevře potřebný port na routeru. Tohle funguje jen za předpokladu, že tvůj router podporuje UPnP a že je UPnP povolené.</translation>
     </message>
     <message>
@@ -1156,8 +1156,8 @@ Adresa: %4
         <translation>&amp;Jazyk uživatelského rozhraní:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dogecoin Core.</source>
-        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování Dogecoinu.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting sherlockcoin Core.</source>
+        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování sherlockcoinu.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1168,8 +1168,8 @@ Adresa: %4
         <translation>Zvol výchozí podjednotku, která se bude zobrazovat v programu a při posílání mincí.</translation>
     </message>
     <message>
-        <source>Whether to show Dogecoin addresses in the transaction list or not.</source>
-        <translation>Zda ukazovat dogecoinové adresy ve výpisu transakcí nebo ne.</translation>
+        <source>Whether to show sherlockcoin addresses in the transaction list or not.</source>
+        <translation>Zda ukazovat sherlockcoinové adresy ve výpisu transakcí nebo ne.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -1223,8 +1223,8 @@ Adresa: %4
         <translation>Formulář</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s Dogecoinovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the sherlockcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s sherlockcoinovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1278,8 +1278,8 @@ Adresa: %4
         <translation>Zpracování URI</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Dogecoin address or malformed URI parameters.</source>
-        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná Dogecoinová adresa nebo poškozené parametry URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid sherlockcoin address or malformed URI parameters.</source>
+        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná sherlockcoinová adresa nebo poškozené parametry URI.</translation>
     </message>
     <message>
         <source>Requested payment amount of %1 is too small (considered dust).</source>
@@ -1290,8 +1290,8 @@ Adresa: %4
         <translation>Chyba platebního požadavku</translation>
     </message>
     <message>
-        <source>Cannot start dogecoin: click-to-pay handler</source>
-        <translation>Nemůžu spustit dogecoin: obsluha click-to-pay</translation>
+        <source>Cannot start sherlockcoin: click-to-pay handler</source>
+        <translation>Nemůžu spustit sherlockcoin: obsluha click-to-pay</translation>
     </message>
     <message>
         <source>Net manager warning</source>
@@ -1345,8 +1345,8 @@ Adresa: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>sherlockcoin</source>
+        <translation>sherlockcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; does not exist.</source>
@@ -1361,12 +1361,12 @@ Adresa: %4
         <translation>Chyba: Neplatná kombinace -regtest a -testnet.</translation>
     </message>
     <message>
-        <source>Dogecoin Core did&apos;t yet exit safely...</source>
-        <translation>Dogecoin Core ještě bezpečně neskončil...</translation>
+        <source>sherlockcoin Core did&apos;t yet exit safely...</source>
+        <translation>sherlockcoin Core ještě bezpečně neskončil...</translation>
     </message>
     <message>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
-        <translation>Zadej Dogecoinovou adresu (např. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
+        <source>Enter a sherlockcoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <translation>Zadej sherlockcoinovou adresu (např. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
 </context>
 <context>
@@ -1487,16 +1487,16 @@ Adresa: %4
         <translation>Soubor s ladicími záznamy</translation>
     </message>
     <message>
-        <source>Open the Dogecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otevři soubor s ladicími záznamy Dogecoinu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
+        <source>Open the sherlockcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otevři soubor s ladicími záznamy sherlockcoinu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Vyčistit konzoli</translation>
     </message>
     <message>
-        <source>Welcome to the Dogecoin RPC console.</source>
-        <translation>Vítej v Dogecoinové RPC konzoli.</translation>
+        <source>Welcome to the sherlockcoin RPC console.</source>
+        <translation>Vítej v sherlockcoinové RPC konzoli.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1558,8 +1558,8 @@ Adresa: %4
         <translation>&amp;Recyklovat již existující adresy (nedoporučeno)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Dogecoin network.</source>
-        <translation>Volitelná zpráva, která se připojí k platebnímu požadavku a která se zobrazí, když se požadavek otevře. Poznámka: Tahle zpráva se neposílá s platbou po Dogecoinové síti.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the sherlockcoin network.</source>
+        <translation>Volitelná zpráva, která se připojí k platebnímu požadavku a která se zobrazí, když se požadavek otevře. Poznámka: Tahle zpráva se neposílá s platbou po sherlockcoinové síti.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1871,8 +1871,8 @@ Adresa: %4
         <translation>Transakce byla odmítnuta! Tohle může nastat, pokud nějaké mince z tvé peněženky už jednou byly utraceny, například pokud používáš kopii souboru wallet.dat a mince byly utraceny v druhé kopii, ale nebyly označeny jako utracené v této.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Dogecoin address</source>
-        <translation>Upozornění: Neplatná Dogecoinová adresa</translation>
+        <source>Warning: Invalid sherlockcoin address</source>
+        <translation>Upozornění: Neplatná sherlockcoinová adresa</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1958,8 +1958,8 @@ Adresa: %4
         <translation>Zadej označení této adresy; obojí se ti pak uloží do adresáře</translation>
     </message>
     <message>
-        <source>A message that was attached to the dogecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Dogecoin network.</source>
-        <translation>Zpráva, která byla připojena k dogecoin: URI a která se ti pro přehled uloží k transakci. Poznámka: Tahle zpráva se neposílá s platbou po Dogecoinové síti.</translation>
+        <source>A message that was attached to the sherlockcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the sherlockcoin network.</source>
+        <translation>Zpráva, která byla připojena k sherlockcoin: URI a která se ti pro přehled uloží k transakci. Poznámka: Tahle zpráva se neposílá s platbou po sherlockcoinové síti.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -1977,8 +1977,8 @@ Adresa: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Dogecoin Core is shutting down...</source>
-        <translation>Dogecoin Core se ukončuje...</translation>
+        <source>sherlockcoin Core is shutting down...</source>
+        <translation>sherlockcoin Core se ukončuje...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2032,8 +2032,8 @@ Adresa: %4
         <translation>Zkopíruj aktuálně vybraný podpis do systémové schránky</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dogecoin address</source>
-        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této Dogecoinové adresy</translation>
+        <source>Sign the message to prove you own this sherlockcoin address</source>
+        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této sherlockcoinové adresy</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2060,8 +2060,8 @@ Adresa: %4
         <translation>Adresa, kterou je zpráva podepsána (např. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dogecoin address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Dogecoinovou adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified sherlockcoin address</source>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou sherlockcoinovou adresou</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2072,8 +2072,8 @@ Adresa: %4
         <translation>Vymaž všechna pole formuláře pro ověření zrávy</translation>
     </message>
     <message>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
-        <translation>Zadej Dogecoinovou adresu (např. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
+        <source>Enter a sherlockcoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <translation>Zadej sherlockcoinovou adresu (např. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
     <message>
         <source>Click &quot;Sign Message&quot; to generate signature</source>
@@ -2131,12 +2131,12 @@ Adresa: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Jádro Dogecoinu</translation>
+        <source>sherlockcoin Core</source>
+        <translation>Jádro sherlockcoinu</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
-        <translation>Vývojáři Dogecoin Core</translation>
+        <source>The sherlockcoin Core developers</source>
+        <translation>Vývojáři sherlockcoin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2614,8 +2614,8 @@ Adresa: %4
         <translation>Možnosti:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: dogecoin.conf)</source>
-        <translation>Konfigurační soubor (výchozí: dogecoin.conf)</translation>
+        <source>Specify configuration file (default: sherlockcoin.conf)</source>
+        <translation>Konfigurační soubor (výchozí: sherlockcoin.conf)</translation>
     </message>
     <message>
         <source>Specify pid file (default: bitcoind.pid)</source>
@@ -2662,8 +2662,8 @@ Adresa: %4
         <translation>Akceptovat příkazy z příkazové řádky a přes JSON-RPC</translation>
     </message>
     <message>
-        <source>Dogecoin Core RPC client version</source>
-        <translation>Verze Dogecoin Core RPC klienta</translation>
+        <source>sherlockcoin Core RPC client version</source>
+        <translation>Verze sherlockcoin Core RPC klienta</translation>
     </message>
     <message>
         <source>Run in the background as a daemon and accept commands</source>
@@ -2687,7 +2687,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;sherlockcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíš nastavit rpcpassword v konfiguračním souboru:
 %s
@@ -2698,7 +2698,7 @@ rpcpassword=%s
 rpcuser a rpcpassword NESMÍ být stejné.
 Pokud konfigurační soubor ještě neexistuje, vytvoř ho tak, aby ho mohl číst pouze vlastník.
 Je také doporučeno si nastavit alertnotify, abys byl upozorněn na případné problémy;
-například: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
+například: alertnotify=echo %%s | mail -s &quot;sherlockcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2770,8 +2770,8 @@ například: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation>Tohle je testovací verze – používej ji jen na vlastní riziko, ale rozhodně ji nepoužívej k těžbě nebo pro obchodní aplikace</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Dogecoin Core is probably already running.</source>
-        <translation>Nedaří se mi připojit na %s na tomhle počítači. Dogecoin Core už pravděpodobně jednou běží.</translation>
+        <source>Unable to bind to %s on this computer. sherlockcoin Core is probably already running.</source>
+        <translation>Nedaří se mi připojit na %s na tomhle počítači. sherlockcoin Core už pravděpodobně jednou běží.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: -proxy)</source>
@@ -2782,8 +2782,8 @@ například: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation>Upozornění: -paytxfee je nastaveno velmi vysoko! Toto je transakční poplatek, který zaplatíš za každou poslanou transakci.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Dogecoin will not work properly.</source>
-        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, Dogecoin nebude fungovat správně.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong sherlockcoin will not work properly.</source>
+        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, sherlockcoin nebude fungovat správně.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -2818,8 +2818,8 @@ například: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation>Pokusit se zachránit soukromé klíče z poškozeného souboru wallet.dat</translation>
     </message>
     <message>
-        <source>Dogecoin Core Daemon</source>
-        <translation>Dogecoin Core démon</translation>
+        <source>sherlockcoin Core Daemon</source>
+        <translation>sherlockcoin Core démon</translation>
     </message>
     <message>
         <source>Block creation options:</source>
@@ -3026,8 +3026,8 @@ například: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation>Tohle je určeno pro nástroje na regresní testování a vyvíjení aplikací.</translation>
     </message>
     <message>
-        <source>Usage (deprecated, use dogecoin-cli):</source>
-        <translation>Užití (zastaralé, použij dogecoin-cli):</translation>
+        <source>Usage (deprecated, use sherlockcoin-cli):</source>
+        <translation>Užití (zastaralé, použij sherlockcoin-cli):</translation>
     </message>
     <message>
         <source>Verifying blocks...</source>
@@ -3062,8 +3062,8 @@ například: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation>Importovat bloky z externího souboru blk000??.dat</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Dogecoin Core is probably already running.</source>
-        <translation>Nedaří se mi získat zámek na datový adresář %s. Dogecoin Core pravděpodobně už jednou běží.</translation>
+        <source>Cannot obtain a lock on data directory %s. sherlockcoin Core is probably already running.</source>
+        <translation>Nedaří se mi získat zámek na datový adresář %s. sherlockcoin Core pravděpodobně už jednou běží.</translation>
     </message>
     <message>
         <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
@@ -3150,8 +3150,8 @@ například: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation>Možnosti SSL: (viz instrukce nastavení SSL na Bitcoin Wiki)</translation>
     </message>
     <message>
-        <source>Send command to Dogecoin Core</source>
-        <translation>Poslat příkaz Dogecoin Core</translation>
+        <source>Send command to sherlockcoin Core</source>
+        <translation>Poslat příkaz sherlockcoin Core</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -3186,8 +3186,8 @@ například: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation>Zadej časový limit spojení v milisekundách (výchozí: 5000)</translation>
     </message>
     <message>
-        <source>Start Dogecoin Core Daemon</source>
-        <translation>Spustit Dogecoin Core démona</translation>
+        <source>Start sherlockcoin Core Daemon</source>
+        <translation>Spustit sherlockcoin Core démona</translation>
     </message>
     <message>
         <source>System error: </source>
@@ -3302,12 +3302,12 @@ například: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation>Chyba při načítání wallet.dat: peněženka je poškozená</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dogecoin</source>
-        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi Dogecoinu</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of sherlockcoin</source>
+        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi sherlockcoinu</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Dogecoin to complete</source>
-        <translation>Soubor s peněženkou potřeboval přepsat: restartuj Dogecoin, aby se operace dokončila</translation>
+        <source>Wallet needed to be rewritten: restart sherlockcoin to complete</source>
+        <translation>Soubor s peněženkou potřeboval přepsat: restartuj sherlockcoin, aby se operace dokončila</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

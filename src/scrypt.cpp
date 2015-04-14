@@ -27,7 +27,7 @@
  * online backup system.
  */
 
- // Copyright (c) 2013-2014 Dogecoin Developers
+ // Copyright (c) 2013-2014 sherlockcoin Developers
 
 #include "scrypt.h"
 #include "util.h"

@@ -2,11 +2,11 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Dogecoin Core</source>
+        <source>About sherlockcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>&lt;b&gt;Dogecoin Core&lt;/b&gt; version</source>
+        <source>&lt;b&gt;sherlockcoin Core&lt;/b&gt; version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -28,7 +28,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Πνευματική ιδιοκτησία </translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
+        <source>The sherlockcoin Core developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -103,11 +103,11 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Διευθύνσεις λήψης</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Αυτές είναι οι Dogecoin διευθύνσεις σας για να λαμβάνετε πληρωμές. Δίνοντας μία ξεχωριστή διεύθυνση σε κάθε αποστολέα, θα μπορείτε να ελέγχετε ποιος σας πληρώνει.</translation>
+        <source>These are your sherlockcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Αυτές είναι οι sherlockcoin διευθύνσεις σας για να λαμβάνετε πληρωμές. Δίνοντας μία ξεχωριστή διεύθυνση σε κάθε αποστολέα, θα μπορείτε να ελέγχετε ποιος σας πληρώνει.</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your sherlockcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -205,8 +205,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Επιβεβαίωσε την κρυπτογραφηση του πορτοφολιού</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
-        <translation>Προσοχη: Εαν κρυπτογραφησεις το πορτοφολι σου και χάσεις τον κωδικο σου θα χάσεις &lt;b&gt; ΟΛΑ ΣΟΥ ΤΑ DOGECOINS&lt;/b&gt;!
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR sherlockcoinS&lt;/b&gt;!</source>
+        <translation>Προσοχη: Εαν κρυπτογραφησεις το πορτοφολι σου και χάσεις τον κωδικο σου θα χάσεις &lt;b&gt; ΟΛΑ ΣΟΥ ΤΑ sherlockcoinS&lt;/b&gt;!
 Είσαι σίγουρος ότι θέλεις να κρυπτογραφησεις το πορτοφολι;</translation>
     </message>
     <message>
@@ -226,8 +226,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Κρυπτογραφημενο πορτοφολι</translation>
     </message>
     <message>
-        <source>Dogecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dogecoins from being stolen by malware infecting your computer.</source>
-        <translation>Το Dogecoin θα κλεισει τώρα για να τελειώσει την διαδικασία κρυπτογραφησης. Θυμησου ότι κρυπτογραφώντας το πορτοφολι σου δεν μπορείς να προστατέψεις πλήρως τα dogecoins σου από κλοπή στην περίπτωση όπου μολυνθεί ο υπολογιστής σου με κακόβουλο λογισμικό.</translation>
+        <source>sherlockcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your sherlockcoins from being stolen by malware infecting your computer.</source>
+        <translation>Το sherlockcoin θα κλεισει τώρα για να τελειώσει την διαδικασία κρυπτογραφησης. Θυμησου ότι κρυπτογραφώντας το πορτοφολι σου δεν μπορείς να προστατέψεις πλήρως τα sherlockcoins σου από κλοπή στην περίπτωση όπου μολυνθεί ο υπολογιστής σου με κακόβουλο λογισμικό.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -297,8 +297,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Εξοδος από την εφαρμογή</translation>
     </message>
     <message>
-        <source>Show information about Dogecoin</source>
-        <translation>Εμφάνιση πληροφοριών σχετικά με το Dogecoin</translation>
+        <source>Show information about sherlockcoin</source>
+        <translation>Εμφάνιση πληροφοριών σχετικά με το sherlockcoin</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -345,12 +345,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Φόρτωση ευρετηρίου μπλοκ στον σκληρο δισκο...</translation>
     </message>
     <message>
-        <source>Send coins to a Dogecoin address</source>
+        <source>Send coins to a sherlockcoin address</source>
         <translation>Στείλε νομίσματα σε μια διεύθυνση bitcoin</translation>
     </message>
     <message>
-        <source>Modify configuration options for Dogecoin Core</source>
-        <translation>Επεργασία  ρυθμισεων επιλογών για το Dogecoin</translation>
+        <source>Modify configuration options for sherlockcoin Core</source>
+        <translation>Επεργασία  ρυθμισεων επιλογών για το sherlockcoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -373,8 +373,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>&amp;Επιβεβαίωση μηνύματος</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>sherlockcoin</source>
+        <translation>sherlockcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -401,12 +401,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Κρυπτογραφήστε τα ιδιωτικά κλειδιά που ανήκουν στο πορτοφόλι σας </translation>
     </message>
     <message>
-        <source>Sign messages with your Dogecoin addresses to prove you own them</source>
+        <source>Sign messages with your sherlockcoin addresses to prove you own them</source>
         <translation>Υπογράψτε ένα μήνυμα για να βεβαιώσετε πως είστε ο κάτοχος αυτής της διεύθυνσης</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Dogecoin addresses</source>
-        <translation>Υπογράψτε ένα μήνυμα για ν&apos; αποδείξετε πως ανήκει μια συγκεκριμένη διεύθυνση Dogecoin</translation>
+        <source>Verify messages to ensure they were signed with specified sherlockcoin addresses</source>
+        <translation>Υπογράψτε ένα μήνυμα για ν&apos; αποδείξετε πως ανήκει μια συγκεκριμένη διεύθυνση sherlockcoin</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -429,15 +429,15 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Core</translation>
+        <source>sherlockcoin Core</source>
+        <translation>sherlockcoin Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and dogecoin: URIs)</source>
-        <translation>Αίτηση πληρωμών (δημιουργεί QR codes και διευθύνσεις dogecoin: )</translation>
+        <source>Request payments (generates QR codes and sherlockcoin: URIs)</source>
+        <translation>Αίτηση πληρωμών (δημιουργεί QR codes και διευθύνσεις sherlockcoin: )</translation>
     </message>
     <message>
-        <source>&amp;About Dogecoin Core</source>
+        <source>&amp;About sherlockcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -449,7 +449,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Προβολή της λίστας των χρησιμοποιημένων διευθύνσεων και ετικετών λήψεως</translation>
     </message>
     <message>
-        <source>Open a dogecoin: URI or payment request</source>
+        <source>Open a sherlockcoin: URI or payment request</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -457,16 +457,16 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Show the Dogecoin Core help message to get a list with possible command-line options</source>
+        <source>Show the sherlockcoin Core help message to get a list with possible command-line options</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin client</source>
-        <translation>Πελάτης Dogecoin</translation>
+        <source>sherlockcoin client</source>
+        <translation>Πελάτης sherlockcoin</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Dogecoin network</source>
-        <translation><numerusform>%n ενεργή σύνδεση στο δίκτυο Dogecoin</numerusform><numerusform>%n ενεργές συνδέσεις στο δίκτυο Βitcoin</numerusform></translation>
+        <source>%n active connection(s) to sherlockcoin network</source>
+        <translation><numerusform>%n ενεργή σύνδεση στο δίκτυο sherlockcoin</numerusform><numerusform>%n ενεργές συνδέσεις στο δίκτυο Βitcoin</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -561,8 +561,8 @@ Address: %4
         <translation>Το πορτοφόλι είναι &lt;b&gt;κρυπτογραφημένο&lt;/b&gt; και &lt;b&gt;κλειδωμένο&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Dogecoin can no longer continue safely and will quit.</source>
-        <translation>Παρουσιάστηκε ανεπανόρθωτο σφάλμα. Το Dogecoin δεν μπορεί πλέον να συνεχίσει με ασφάλεια και θα τερματισθει.</translation>
+        <source>A fatal error occurred. sherlockcoin can no longer continue safely and will quit.</source>
+        <translation>Παρουσιάστηκε ανεπανόρθωτο σφάλμα. Το sherlockcoin δεν μπορεί πλέον να συνεχίσει με ασφάλεια και θα τερματισθει.</translation>
     </message>
 </context>
 <context>
@@ -850,8 +850,8 @@ Address: %4
         <translation>Η διεύθυνση &quot;%1&quot; βρίσκεται ήδη στο βιβλίο διευθύνσεων.</translation>
     </message>
     <message>
-        <source>The entered address &quot;%1&quot; is not a valid Dogecoin address.</source>
-        <translation>Η διεύθυνση &quot;%1&quot; δεν είναι έγκυρη Dogecoin διεύθυνση.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid sherlockcoin address.</source>
+        <translation>Η διεύθυνση &quot;%1&quot; δεν είναι έγκυρη sherlockcoin διεύθυνση.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -888,12 +888,12 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Dogecoin Core - Command-line options</source>
+        <source>sherlockcoin Core - Command-line options</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Core</translation>
+        <source>sherlockcoin Core</source>
+        <translation>sherlockcoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -939,15 +939,15 @@ Address: %4
         <translation>Καλώς ήρθατε</translation>
     </message>
     <message>
-        <source>Welcome to Dogecoin Core.</source>
+        <source>Welcome to sherlockcoin Core.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Dogecoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where sherlockcoin Core will store its data.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin Core will download and store a copy of the Dogecoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>sherlockcoin Core will download and store a copy of the sherlockcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -959,8 +959,8 @@ Address: %4
         <translation>Προσαρμογή του φακέλου δεδομένων: </translation>
     </message>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>sherlockcoin</source>
+        <translation>sherlockcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; can not be created.</source>
@@ -1021,11 +1021,11 @@ Address: %4
         <translation>Αμοιβή &amp;συναλλαγής</translation>
     </message>
     <message>
-        <source>Automatically start Dogecoin Core after logging in to the system.</source>
-        <translation>Αυτόματη εκκίνηση του Dogecoin μετά την εισαγωγή στο σύστημα</translation>
+        <source>Automatically start sherlockcoin Core after logging in to the system.</source>
+        <translation>Αυτόματη εκκίνηση του sherlockcoin μετά την εισαγωγή στο σύστημα</translation>
     </message>
     <message>
-        <source>&amp;Start Dogecoin Core on system login</source>
+        <source>&amp;Start sherlockcoin Core on system login</source>
         <translation>&amp;Έναρξη του Βιtcoin κατά την εκκίνηση του συστήματος</translation>
     </message>
     <message>
@@ -1041,7 +1041,7 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Connect to the Dogecoin network through a SOCKS proxy.</source>
+        <source>Connect to the sherlockcoin network through a SOCKS proxy.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1093,8 +1093,8 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Automatically open the Dogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Αυτόματο άνοιγμα των θυρών Dogecoin στον δρομολογητή. Λειτουργεί μόνο αν ο δρομολογητής σας υποστηρίζει τη λειτουργία UPnP.</translation>
+        <source>Automatically open the sherlockcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Αυτόματο άνοιγμα των θυρών sherlockcoin στον δρομολογητή. Λειτουργεί μόνο αν ο δρομολογητής σας υποστηρίζει τη λειτουργία UPnP.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1149,8 +1149,8 @@ Address: %4
         <translation>Γλώσσα περιβάλλοντος εργασίας: </translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dogecoin Core.</source>
-        <translation>Εδώ μπορεί να ρυθμιστεί η γλώσσα διεπαφής χρήστη. Αυτή η ρύθμιση θα ισχύσει μετά την επανεκκίνηση του Dogecoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting sherlockcoin Core.</source>
+        <translation>Εδώ μπορεί να ρυθμιστεί η γλώσσα διεπαφής χρήστη. Αυτή η ρύθμιση θα ισχύσει μετά την επανεκκίνηση του sherlockcoin.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1161,8 +1161,8 @@ Address: %4
         <translation>Διαλέξτε την προεπιλεγμένη υποδιαίρεση που θα εμφανίζεται όταν στέλνετε νομίσματα.</translation>
     </message>
     <message>
-        <source>Whether to show Dogecoin addresses in the transaction list or not.</source>
-        <translation>Επιλέξτε αν θέλετε να εμφανίζονται οι διευθύνσεις Dogecoin στη λίστα συναλλαγών.</translation>
+        <source>Whether to show sherlockcoin addresses in the transaction list or not.</source>
+        <translation>Επιλέξτε αν θέλετε να εμφανίζονται οι διευθύνσεις sherlockcoin στη λίστα συναλλαγών.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -1216,8 +1216,8 @@ Address: %4
         <translation>Φόρμα</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Οι πληροφορίες που εμφανίζονται μπορεί να είναι ξεπερασμένες. Το πορτοφόλι σας συγχρονίζεται αυτόματα με το δίκτυο Dogecoin μετά από μια σύνδεση, αλλά αυτή η διαδικασία δεν έχει ακόμη ολοκληρωθεί. </translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the sherlockcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Οι πληροφορίες που εμφανίζονται μπορεί να είναι ξεπερασμένες. Το πορτοφόλι σας συγχρονίζεται αυτόματα με το δίκτυο sherlockcoin μετά από μια σύνδεση, αλλά αυτή η διαδικασία δεν έχει ακόμη ολοκληρωθεί. </translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1271,8 +1271,8 @@ Address: %4
         <translation>Χειρισμός URI</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Dogecoin address or malformed URI parameters.</source>
-        <translation>Το URI δεν μπορεί να αναλυθεί! Αυτό μπορεί να προκληθεί από μια μη έγκυρη διεύθυνση Dogecoin ή ακατάλληλη παραμέτρο URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid sherlockcoin address or malformed URI parameters.</source>
+        <translation>Το URI δεν μπορεί να αναλυθεί! Αυτό μπορεί να προκληθεί από μια μη έγκυρη διεύθυνση sherlockcoin ή ακατάλληλη παραμέτρο URI.</translation>
     </message>
     <message>
         <source>Requested payment amount of %1 is too small (considered dust).</source>
@@ -1283,8 +1283,8 @@ Address: %4
         <translation>Σφάλμα αιτήματος πληρωμής</translation>
     </message>
     <message>
-        <source>Cannot start dogecoin: click-to-pay handler</source>
-        <translation>Δεν είναι δυνατή η εκκίνηση του Dogecoin: click-to-pay handler</translation>
+        <source>Cannot start sherlockcoin: click-to-pay handler</source>
+        <translation>Δεν είναι δυνατή η εκκίνηση του sherlockcoin: click-to-pay handler</translation>
     </message>
     <message>
         <source>Net manager warning</source>
@@ -1338,8 +1338,8 @@ Address: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>sherlockcoin</source>
+        <translation>sherlockcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; does not exist.</source>
@@ -1354,12 +1354,12 @@ Address: %4
         <translation>Σφάλμα: Άκυρος συνδυασμός των -regtest και -testnet</translation>
     </message>
     <message>
-        <source>Dogecoin Core did&apos;t yet exit safely...</source>
+        <source>sherlockcoin Core did&apos;t yet exit safely...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
-        <translation>Εισάγετε μια διεύθυνση Dogecoin (π.χ. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
+        <source>Enter a sherlockcoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <translation>Εισάγετε μια διεύθυνση sherlockcoin (π.χ. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
 </context>
 <context>
@@ -1480,7 +1480,7 @@ Address: %4
         <translation>Αρχείο καταγραφής εντοπισμού σφαλμάτων </translation>
     </message>
     <message>
-        <source>Open the Dogecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the sherlockcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Ανοίξτε το αρχείο καταγραφής εντοπισμού σφαλμάτων από τον τρέχοντα κατάλογο δεδομένων. Αυτό μπορεί να πάρει μερικά δευτερόλεπτα για τα μεγάλα αρχεία καταγραφής. </translation>
     </message>
     <message>
@@ -1488,8 +1488,8 @@ Address: %4
         <translation>Καθαρισμός κονσόλας</translation>
     </message>
     <message>
-        <source>Welcome to the Dogecoin RPC console.</source>
-        <translation>Καλώς ήρθατε στην Dogecoin RPC κονσόλα.</translation>
+        <source>Welcome to the sherlockcoin RPC console.</source>
+        <translation>Καλώς ήρθατε στην sherlockcoin RPC κονσόλα.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1551,7 +1551,7 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Dogecoin network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the sherlockcoin network.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1864,8 +1864,8 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Warning: Invalid Dogecoin address</source>
-        <translation>Προειδοποίηση: Μη έγκυρη διεύθυνση Dogecoin</translation>
+        <source>Warning: Invalid sherlockcoin address</source>
+        <translation>Προειδοποίηση: Μη έγκυρη διεύθυνση sherlockcoin</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1951,7 +1951,7 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>A message that was attached to the dogecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Dogecoin network.</source>
+        <source>A message that was attached to the sherlockcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the sherlockcoin network.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1970,7 +1970,7 @@ Address: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Dogecoin Core is shutting down...</source>
+        <source>sherlockcoin Core is shutting down...</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1994,7 +1994,7 @@ Address: %4
     </message>
     <message>
         <source>The address to sign the message with (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
-        <translation>Εισάγετε μια διεύθυνση Dogecoin (π.χ. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
+        <translation>Εισάγετε μια διεύθυνση sherlockcoin (π.χ. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2025,8 +2025,8 @@ Address: %4
         <translation>Αντέγραφη της επιλεγμενης διεύθυνσης στο πρόχειρο του συστηματος</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dogecoin address</source>
-        <translation>Υπογράψτε ένα μήνυμα για ν&apos; αποδείξετε πως σας ανήκει μια συγκεκριμένη διεύθυνση Dogecoin</translation>
+        <source>Sign the message to prove you own this sherlockcoin address</source>
+        <translation>Υπογράψτε ένα μήνυμα για ν&apos; αποδείξετε πως σας ανήκει μια συγκεκριμένη διεύθυνση sherlockcoin</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2050,11 +2050,11 @@ Address: %4
     </message>
     <message>
         <source>The address the message was signed with (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
-        <translation>Εισάγετε μια διεύθυνση Dogecoin (π.χ. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
+        <translation>Εισάγετε μια διεύθυνση sherlockcoin (π.χ. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dogecoin address</source>
-        <translation>Υπογράψτε ένα μήνυμα για ν&apos; αποδείξετε πως υπογραφθηκε απο μια συγκεκριμένη διεύθυνση Dogecoin</translation>
+        <source>Verify the message to ensure it was signed with the specified sherlockcoin address</source>
+        <translation>Υπογράψτε ένα μήνυμα για ν&apos; αποδείξετε πως υπογραφθηκε απο μια συγκεκριμένη διεύθυνση sherlockcoin</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2065,8 +2065,8 @@ Address: %4
         <translation>Επαναφορά όλων επαλήθευμενων πεδίων μήνυματος </translation>
     </message>
     <message>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
-        <translation>Εισάγετε μια διεύθυνση Dogecoin (π.χ. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
+        <source>Enter a sherlockcoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <translation>Εισάγετε μια διεύθυνση sherlockcoin (π.χ. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
     <message>
         <source>Click &quot;Sign Message&quot; to generate signature</source>
@@ -2124,11 +2124,11 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Core</translation>
+        <source>sherlockcoin Core</source>
+        <translation>sherlockcoin Core</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
+        <source>The sherlockcoin Core developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2607,8 +2607,8 @@ Address: %4
         <translation>Επιλογές:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: dogecoin.conf)</source>
-        <translation>Ορίστε αρχείο ρυθμίσεων (προεπιλογή: dogecoin.conf)</translation>
+        <source>Specify configuration file (default: sherlockcoin.conf)</source>
+        <translation>Ορίστε αρχείο ρυθμίσεων (προεπιλογή: sherlockcoin.conf)</translation>
     </message>
     <message>
         <source>Specify pid file (default: bitcoind.pid)</source>
@@ -2655,7 +2655,7 @@ Address: %4
         <translation>Αποδοχή εντολών κονσόλας και JSON-RPC</translation>
     </message>
     <message>
-        <source>Dogecoin Core RPC client version</source>
+        <source>sherlockcoin Core RPC client version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2680,7 +2680,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;sherlockcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, you must set a rpcpassword in the configuration file:
 %s
@@ -2691,7 +2691,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;sherlockcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2764,7 +2764,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation>Αυτό είναι ένα προ-τεστ κυκλοφορίας - χρησιμοποιήστε το με δική σας ευθύνη - δεν χρησιμοποιείτε για εξόρυξη ή για αλλες εφαρμογές</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Dogecoin Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. sherlockcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2776,8 +2776,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation>Προειδοποίηση: Η παράμετρος -paytxfee είναι πολύ υψηλή. Πρόκειται για την αμοιβή που θα πληρώνετε για κάθε συναλλαγή που θα στέλνετε.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Dogecoin will not work properly.</source>
-        <translation>Προειδοποίηση: Παρακαλώ βεβαιωθείτε πως η ημερομηνία κι ώρα του συστήματός σας είναι σωστές. Αν το ρολόι του υπολογιστή σας πάει λάθος, ενδέχεται να μη λειτουργεί σωστά το Dogecoin.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong sherlockcoin will not work properly.</source>
+        <translation>Προειδοποίηση: Παρακαλώ βεβαιωθείτε πως η ημερομηνία κι ώρα του συστήματός σας είναι σωστές. Αν το ρολόι του υπολογιστή σας πάει λάθος, ενδέχεται να μη λειτουργεί σωστά το sherlockcoin.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -2812,7 +2812,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation>Προσπάθεια για ανακτησει ιδιωτικων κλειδιων από ενα διεφθαρμένο αρχειο wallet.dat </translation>
     </message>
     <message>
-        <source>Dogecoin Core Daemon</source>
+        <source>sherlockcoin Core Daemon</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3020,7 +3020,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Usage (deprecated, use dogecoin-cli):</source>
+        <source>Usage (deprecated, use sherlockcoin-cli):</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3056,7 +3056,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation>Εισαγωγή μπλοκ από εξωτερικό αρχείο blk000?.dat</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Dogecoin Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. sherlockcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3120,7 +3120,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>RPC SSL options: (see the Dogecoin Wiki for SSL setup instructions)</source>
+        <source>RPC SSL options: (see the sherlockcoin Wiki for SSL setup instructions)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3140,11 +3140,11 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>SSL options: (see the Dogecoin Wiki for SSL setup instructions)</source>
-        <translation>Ρυθμίσεις SSL: (ανατρέξτε στο Dogecoin Wiki για οδηγίες ρυθμίσεων SSL)</translation>
+        <source>SSL options: (see the sherlockcoin Wiki for SSL setup instructions)</source>
+        <translation>Ρυθμίσεις SSL: (ανατρέξτε στο sherlockcoin Wiki για οδηγίες ρυθμίσεων SSL)</translation>
     </message>
     <message>
-        <source>Send command to Dogecoin Core</source>
+        <source>Send command to sherlockcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3180,7 +3180,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation>Ορισμός λήξης χρονικού ορίου σε χιλιοστά του δευτερολέπτου(προεπιλογή:5000)</translation>
     </message>
     <message>
-        <source>Start Dogecoin Core Daemon</source>
+        <source>Start sherlockcoin Core Daemon</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3296,12 +3296,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation>Σφάλμα φόρτωσης wallet.dat: Κατεστραμμένο Πορτοφόλι</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dogecoin</source>
-        <translation>Σφάλμα φόρτωσης wallet.dat: Το Πορτοφόλι απαιτεί μια νεότερη έκδοση του Dogecoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of sherlockcoin</source>
+        <translation>Σφάλμα φόρτωσης wallet.dat: Το Πορτοφόλι απαιτεί μια νεότερη έκδοση του sherlockcoin</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Dogecoin to complete</source>
-        <translation>Απαιτείται η επανεγγραφή του Πορτοφολιού, η οποία θα ολοκληρωθεί στην επανεκκίνηση του Dogecoin</translation>
+        <source>Wallet needed to be rewritten: restart sherlockcoin to complete</source>
+        <translation>Απαιτείται η επανεγγραφή του Πορτοφολιού, η οποία θα ολοκληρωθεί στην επανεκκίνηση του sherlockcoin</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

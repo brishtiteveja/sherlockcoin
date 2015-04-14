@@ -16,9 +16,9 @@ BitcoinUnits::BitcoinUnits(QObject *parent):
 QList<BitcoinUnits::Unit> BitcoinUnits::availableUnits()
 {
     QList<BitcoinUnits::Unit> unitlist;
-    unitlist.append(MDOGE);
-    unitlist.append(kDOGE);
-    unitlist.append(DOGE);
+    unitlist.append(Mshc);
+    unitlist.append(kshc);
+    unitlist.append(shc);
     unitlist.append(Koinu);
     return unitlist;
 }
@@ -27,9 +27,9 @@ bool BitcoinUnits::valid(int unit)
 {
     switch(unit)
     {
-    case MDOGE:
-    case kDOGE:
-    case DOGE:
+    case Mshc:
+    case kshc:
+    case shc:
     case Koinu:
         return true;
     default:
@@ -41,9 +41,9 @@ QString BitcoinUnits::name(int unit)
 {
     switch(unit)
     {
-    case MDOGE: return QString("MDOGE");
-    case kDOGE: return QString("kDOGE");
-    case DOGE: return QString("DOGE");
+    case Mshc: return QString("Mshc");
+    case kshc: return QString("kshc");
+    case shc: return QString("shc");
     case Koinu: return QString("Koinu");
     default: return QString("???");
     }
@@ -53,9 +53,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case MDOGE: return QString("Mega-Dogecoin (1,000,000 DOGE)");
-    case kDOGE: return QString("Kilo-Dogecoin (1000 DOGE)");
-    case DOGE: return QString("Dogecoin");
+    case Mshc: return QString("Mega-sherlockcoin (1,000,000 shc)");
+    case kshc: return QString("Kilo-sherlockcoin (1000 shc)");
+    case shc: return QString("sherlockcoin");
     case Koinu: return QString("Koinu (1 / 100,000,000");
     default: return QString("???");
     }
@@ -65,9 +65,9 @@ qint64 BitcoinUnits::factor(int unit)
 {
     switch(unit)
     {
-    case MDOGE: return Q_INT64_C(100000000000000);
-    case kDOGE: return Q_INT64_C(100000000000);
-    case DOGE:  return Q_INT64_C(100000000);
+    case Mshc: return Q_INT64_C(100000000000000);
+    case kshc: return Q_INT64_C(100000000000);
+    case shc:  return Q_INT64_C(100000000);
     case Koinu: return Q_INT64_C(1);
     default:    return Q_INT64_C(100000000);
     }
@@ -77,9 +77,9 @@ qint64 BitcoinUnits::maxAmount(int unit)
 {
     switch(unit)
     {
-    case MDOGE: return Q_INT64_C(900000);
-    case kDOGE: return Q_INT64_C(900000000);
-    case DOGE:  return Q_INT64_C(900000000000);    //less than the coin supply until the year 2170
+    case Mshc: return Q_INT64_C(900000);
+    case kshc: return Q_INT64_C(900000000);
+    case shc:  return Q_INT64_C(900000000000);    //less than the coin supply until the year 2170
     case Koinu: return Q_INT64_C(9000000000000000000); // Slightly under max value for int64
     default:   return 0;
     }
@@ -89,9 +89,9 @@ int BitcoinUnits::amountDigits(int unit)
 {
     switch(unit)
     {
-    case MDOGE: return 6;  // 900,000 (# digits, without commas)
-    case kDOGE: return 9;  // 900,000,000
-    case DOGE:  return 12; // 900,000,000,000
+    case Mshc: return 6;  // 900,000 (# digits, without commas)
+    case kshc: return 9;  // 900,000,000
+    case shc:  return 12; // 900,000,000,000
     case Koinu: return 19; // 9,000,000,000,000,000,000
     default: return 0;
     }
@@ -101,9 +101,9 @@ int BitcoinUnits::decimals(int unit)
 {
     switch(unit)
     {
-    case MDOGE: return 14;
-    case kDOGE: return 11;
-    case DOGE: return 8;
+    case Mshc: return 14;
+    case kshc: return 11;
+    case shc: return 8;
     case Koinu: return 0;
     default: return 0;
     }

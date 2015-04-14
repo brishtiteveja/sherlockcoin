@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Copyright (c) 2014 The Bitcoin Core developers
-# Copyright (c) 2014 The Dogecoin Core developers
+# Copyright (c) 2014 The sherlockcoin Core developers
 # Distributed under the MIT/X11 software license, see the accompanying
 # file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -36,8 +36,8 @@ if [ $# -lt 1 ]; then
         exit 1
 fi
 
-BITCOIND=${1}/dogecoind
-CLI=${1}/dogecoin-cli
+BITCOIND=${1}/sherlockcoind
+CLI=${1}/sherlockcoin-cli
 
 DIR="${BASH_SOURCE%/*}"
 SENDANDWAIT="${DIR}/send.sh"
@@ -61,7 +61,7 @@ B4PID=$!
 function CreateConfDir {
   DIR=$1
   mkdir -p $DIR
-  CONF=$DIR/dogecoin.conf
+  CONF=$DIR/sherlockcoin.conf
   echo "regtest=1" >> $CONF
   echo "rpcuser=rt" >> $CONF
   echo "rpcpassword=rt" >> $CONF
@@ -125,7 +125,7 @@ function WaitMemPools {
 
 echo "Generating initial blockchain..."
 
-# 1 block, 500000 XDG each == 500000 DOGE
+# 1 block, 500000 XDG each == 500000 shc
 $CLI $B1ARGS setgenerate true 1
 WaitBlocks
 $CLI $B2ARGS setgenerate true 1
@@ -147,7 +147,7 @@ echo "Creating transactions..."
 function S {
   TXID=$( $CLI -datadir=${D}/node${1} sendtoaddress ${2} "${3}" 0 )
   if [[ $TXID == "" ]] ; then
-      echoerr "node${1}: error sending ${3} doge"
+      echoerr "node${1}: error sending ${3} shc"
       echo -n "node${1} balance: "
       $CLI -datadir=${D}/node${1} getbalance "*" 0
       exit 1

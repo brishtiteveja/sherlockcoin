@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Copyright (c) 2013-2014 The Bitcoin Core developers
-# Copyright (c) 2014 The Dogecoin Core developers
+# Copyright (c) 2014 The sherlockcoin Core developers
 # Distributed under the MIT/X11 software license, see the accompanying
 # file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -14,8 +14,8 @@ fi
 
 set -f
 
-BITCOIND=${1}/dogecoind
-CLI=${1}/dogecoin-cli
+BITCOIND=${1}/sherlockcoind
+CLI=${1}/sherlockcoin-cli
 
 DIR="${BASH_SOURCE%/*}"
 SENDANDWAIT="${DIR}/send.sh"

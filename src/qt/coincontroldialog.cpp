@@ -573,7 +573,7 @@ void CoinControlDialog::updateLabels(WalletModel *model, QDialog* dialog)
     }
 
     // actually update labels
-    int nDisplayUnit = BitcoinUnits::DOGE;
+    int nDisplayUnit = BitcoinUnits::shc;
     if (model && model->getOptionsModel())
         nDisplayUnit = model->getOptionsModel()->getDisplayUnit();
 
@@ -606,7 +606,7 @@ void CoinControlDialog::updateLabels(WalletModel *model, QDialog* dialog)
     l5->setStyleSheet((nBytes >= 5000) ? "color:red;" : "");                            // Bytes >= 5000
     l6->setStyleSheet((dPriority > 0 && !AllowFree(dPriority)) ? "color:red;" : "");    // Priority < "medium"
     l7->setStyleSheet((fLowOutput) ? "color:red;" : "");                                // Low Output = "yes"
-    l8->setStyleSheet((nChange > 0 && nChange < COIN) ? "color:red;" : "");             // Change < 0.01DOGE
+    l8->setStyleSheet((nChange > 0 && nChange < COIN) ? "color:red;" : "");             // Change < 0.01shc
 
     // tool tips
     QString toolTip1 = tr("This label turns red, if the transaction size is greater than 5000 bytes.") + "<br /><br />";

@@ -5,12 +5,12 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Dogecoin Core</source>
+        <source>About sherlockcoin Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Dogecoin Core&lt;/b&gt; version</source>
+        <source>&lt;b&gt;sherlockcoin Core&lt;/b&gt; version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -35,7 +35,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The Dogecoin Core developers</source>
+        <source>The sherlockcoin Core developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -129,12 +129,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>These are your Dogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>These are your Dogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
+        <source>These are your sherlockcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>These are your sherlockcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>These are your Dogecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your sherlockcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -255,8 +255,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
-        <translation>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR sherlockcoinS&lt;/b&gt;!</source>
+        <translation>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR sherlockcoinS&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -282,8 +282,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Dogecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Dogecoins from being stolen by malware infecting your computer.</source>
-        <translation>Dogecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Dogecoins from being stolen by malware infecting your computer.</translation>
+        <source>sherlockcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your sherlockcoins from being stolen by malware infecting your computer.</source>
+        <translation>sherlockcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your sherlockcoins from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -376,8 +376,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Show information about Dogecoin</source>
-        <translation>Show information about Dogecoin</translation>
+        <source>Show information about sherlockcoin</source>
+        <translation>Show information about sherlockcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -437,13 +437,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-405"/>
-        <source>Send coins to a Dogecoin address</source>
-        <translation>Send coins to a Dogecoin address</translation>
+        <source>Send coins to a sherlockcoin address</source>
+        <translation>Send coins to a sherlockcoin address</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Dogecoin Core</source>
-        <translation>Modify configuration options for Dogecoin Core</translation>
+        <source>Modify configuration options for sherlockcoin Core</source>
+        <translation>Modify configuration options for sherlockcoin Core</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -472,8 +472,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+440"/>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>sherlockcoin</source>
+        <translation>sherlockcoin</translation>
     </message>
     <message>
         <location line="-652"/>
@@ -508,13 +508,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Dogecoin addresses to prove you own them</source>
-        <translation>Sign messages with your Dogecoin addresses to prove you own them</translation>
+        <source>Sign messages with your sherlockcoin addresses to prove you own them</source>
+        <translation>Sign messages with your sherlockcoin addresses to prove you own them</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Dogecoin addresses</source>
-        <translation>Verify messages to ensure they were signed with specified Dogecoin addresses</translation>
+        <source>Verify messages to ensure they were signed with specified sherlockcoin addresses</source>
+        <translation>Verify messages to ensure they were signed with specified sherlockcoin addresses</translation>
     </message>
     <message>
         <location line="+48"/>
@@ -544,18 +544,18 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-400"/>
-        <source>Dogecoin Core</source>
-        <translation type="unfinished">Dogecoin Core</translation>
+        <source>sherlockcoin Core</source>
+        <translation type="unfinished">sherlockcoin Core</translation>
     </message>
     <message>
         <location line="+162"/>
-        <source>Request payments (generates QR codes and dogecoin: URIs)</source>
+        <source>Request payments (generates QR codes and sherlockcoin: URIs)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+29"/>
         <location line="+2"/>
-        <source>&amp;About Dogecoin Core</source>
+        <source>&amp;About sherlockcoin Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -570,7 +570,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+3"/>
-        <source>Open a dogecoin: URI or payment request</source>
+        <source>Open a sherlockcoin: URI or payment request</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -580,21 +580,21 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Show the Dogecoin Core help message to get a list with possible command-line options</source>
+        <source>Show the sherlockcoin Core help message to get a list with possible command-line options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+159"/>
         <location line="+5"/>
-        <source>Dogecoin client</source>
-        <translation>Dogecoin client</translation>
+        <source>sherlockcoin client</source>
+        <translation>sherlockcoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+142"/>
-        <source>%n active connection(s) to Dogecoin network</source>
+        <source>%n active connection(s) to sherlockcoin network</source>
         <translation>
-            <numerusform>%n active connection to Dogecoin network</numerusform>
-            <numerusform>%n active connections to Dogecoin network</numerusform>
+            <numerusform>%n active connection to sherlockcoin network</numerusform>
+            <numerusform>%n active connections to sherlockcoin network</numerusform>
         </translation>
     </message>
     <message>
@@ -725,8 +725,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+447"/>
-        <source>A fatal error occurred. Dogecoin Core can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. Dogecoin Core can no longer continue safely and will quit.</translation>
+        <source>A fatal error occurred. sherlockcoin Core can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. sherlockcoin Core can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -1088,8 +1088,8 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Dogecoin address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid Dogecoin address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid sherlockcoin address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid sherlockcoin address.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1134,13 +1134,13 @@ Address: %4
     <name>HelpMessageDialog</name>
     <message>
         <location filename="../forms/helpmessagedialog.ui" line="+19"/>
-        <source>Dogecoin Core - Command-line options</source>
+        <source>sherlockcoin Core - Command-line options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../utilitydialog.cpp" line="+24"/>
-        <source>Dogecoin Core</source>
-        <translation type="unfinished">Dogecoin Core</translation>
+        <source>sherlockcoin Core</source>
+        <translation type="unfinished">sherlockcoin Core</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1197,17 +1197,17 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Welcome to Dogecoin Core.</source>
+        <source>Welcome to sherlockcoin Core.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+26"/>
-        <source>As this is the first time the program is launched, you can choose where Dogecoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where sherlockcoin Core will store its data.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>Dogecoin Core will download and store a copy of the Dogecoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>sherlockcoin Core will download and store a copy of the sherlockcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1222,8 +1222,8 @@ Address: %4
     </message>
     <message>
         <location filename="../intro.cpp" line="+82"/>
-        <source>Dogecoin</source>
-        <translation type="unfinished">Dogecoin</translation>
+        <source>sherlockcoin</source>
+        <translation type="unfinished">sherlockcoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1298,13 +1298,13 @@ Address: %4
     </message>
     <message>
         <location line="-125"/>
-        <source>Automatically start Dogecoin Core after logging in to the system.</source>
-        <translation>Automatically start Dogecoin Core after logging in to the system.</translation>
+        <source>Automatically start sherlockcoin Core after logging in to the system.</source>
+        <translation>Automatically start sherlockcoin Core after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Dogecoin Core on system login</source>
-        <translation>&amp;Start Dogecoin Core on system login</translation>
+        <source>&amp;Start sherlockcoin Core on system login</source>
+        <translation>&amp;Start sherlockcoin Core on system login</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1323,7 +1323,7 @@ Address: %4
     </message>
     <message>
         <location line="+160"/>
-        <source>Connect to the Dogecoin network through a SOCKS proxy.</source>
+        <source>Connect to the sherlockcoin network through a SOCKS proxy.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1399,8 +1399,8 @@ Address: %4
     </message>
     <message>
         <location line="+17"/>
-        <source>Automatically open the Dogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the Dogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the sherlockcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the sherlockcoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1469,8 +1469,8 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dogecoin Core.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting Dogecoin Core.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting sherlockcoin Core.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting sherlockcoin Core.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1484,8 +1484,8 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Dogecoin addresses in the transaction list or not.</source>
-        <translation>Whether to show Dogecoin addresses in the transaction list or not.</translation>
+        <source>Whether to show sherlockcoin addresses in the transaction list or not.</source>
+        <translation>Whether to show sherlockcoin addresses in the transaction list or not.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1554,8 +1554,8 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogecoin network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the sherlockcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the sherlockcoin network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-238"/>
@@ -1624,8 +1624,8 @@ Address: %4
     </message>
     <message>
         <location line="+1"/>
-        <source>URI can not be parsed! This can be caused by an invalid Dogecoin address or malformed URI parameters.</source>
-        <translation type="unfinished">URI can not be parsed! This can be caused by an invalid Dogecoin address or malformed URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid sherlockcoin address or malformed URI parameters.</source>
+        <translation type="unfinished">URI can not be parsed! This can be caused by an invalid sherlockcoin address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+96"/>
@@ -1644,7 +1644,7 @@ Address: %4
     </message>
     <message>
         <location line="-353"/>
-        <source>Cannot start dogecoin: click-to-pay handler</source>
+        <source>Cannot start sherlockcoin: click-to-pay handler</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1714,8 +1714,8 @@ Address: %4
         <location filename="../bitcoin.cpp" line="+71"/>
         <location line="+7"/>
         <location line="+13"/>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>sherlockcoin</source>
+        <translation>sherlockcoin</translation>
     </message>
     <message>
         <location line="-19"/>
@@ -1734,13 +1734,13 @@ Address: %4
     </message>
     <message>
         <location line="+60"/>
-        <source>Dogecoin Core didn&apos;t yet exit safely...</source>
+        <source>sherlockcoin Core didn&apos;t yet exit safely...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../guiutil.cpp" line="+89"/>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
-        <translation type="unfinished">Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
+        <source>Enter a sherlockcoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <translation type="unfinished">Enter a sherlockcoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
 </context>
 <context>
@@ -1902,8 +1902,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Dogecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the Dogecoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the sherlockcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the sherlockcoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -1912,8 +1912,8 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-35"/>
-        <source>Welcome to the Dogecoin RPC console.</source>
-        <translation>Welcome to the Dogecoin RPC console.</translation>
+        <source>Welcome to the sherlockcoin RPC console.</source>
+        <translation>Welcome to the sherlockcoin RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1991,7 +1991,7 @@ Address: %4
     <message>
         <location line="+14"/>
         <location line="+23"/>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Dogecoin network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the sherlockcoin network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2387,7 +2387,7 @@ Address: %4
     </message>
     <message>
         <location line="+113"/>
-        <source>Warning: Invalid Dogecoin address</source>
+        <source>Warning: Invalid sherlockcoin address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2499,7 +2499,7 @@ Address: %4
     </message>
     <message>
         <location line="+33"/>
-        <source>A message that was attached to the dogecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Dogecoin network.</source>
+        <source>A message that was attached to the sherlockcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the sherlockcoin network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2524,7 +2524,7 @@ Address: %4
     <name>ShutdownWindow</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+52"/>
-        <source>Dogecoin Core is shutting down...</source>
+        <source>sherlockcoin Core is shutting down...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2594,8 +2594,8 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Dogecoin address</source>
-        <translation>Sign the message to prove you own this Dogecoin address</translation>
+        <source>Sign the message to prove you own this sherlockcoin address</source>
+        <translation>Sign the message to prove you own this sherlockcoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2630,8 +2630,8 @@ Address: %4
     </message>
     <message>
         <location line="+37"/>
-        <source>Verify the message to ensure it was signed with the specified Dogecoin address</source>
-        <translation>Verify the message to ensure it was signed with the specified Dogecoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified sherlockcoin address</source>
+        <translation>Verify the message to ensure it was signed with the specified sherlockcoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2645,8 +2645,8 @@ Address: %4
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+30"/>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
-        <translation>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
+        <source>Enter a sherlockcoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <translation>Enter a sherlockcoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2724,12 +2724,12 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+32"/>
-        <source>Dogecoin Core</source>
-        <translation type="unfinished">Dogecoin Core</translation>
+        <source>sherlockcoin Core</source>
+        <translation type="unfinished">sherlockcoin Core</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>The Dogecoin Core developers</source>
+        <source>The sherlockcoin Core developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3323,7 +3323,7 @@ Address: %4
     </message>
 </context>
 <context>
-    <name>dogecoin-core</name>
+    <name>sherlockcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+262"/>
         <source>Usage:</source>
@@ -3346,13 +3346,13 @@ Address: %4
     </message>
     <message>
         <location line="+32"/>
-        <source>Specify configuration file (default: dogecoin.conf)</source>
-        <translation>Specify configuration file (default: dogecoin.conf)</translation>
+        <source>Specify configuration file (default: sherlockcoin.conf)</source>
+        <translation>Specify configuration file (default: sherlockcoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: dogecoind.pid)</source>
-        <translation>Specify pid file (default: dogecoind.pid)</translation>
+        <source>Specify pid file (default: sherlockcoind.pid)</source>
+        <translation>Specify pid file (default: sherlockcoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -3406,7 +3406,7 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Dogecoin Core RPC client version</source>
+        <source>sherlockcoin Core RPC client version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3429,24 +3429,24 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=dogecoinrpc
+rpcuser=sherlockcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;sherlockcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=dogecoinrpc
+rpcuser=sherlockcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;sherlockcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3536,7 +3536,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Unable to bind to %s on this computer. Dogecoin Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. sherlockcoin Core is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3551,8 +3551,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Dogecoin Core will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Dogecoin Core will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong sherlockcoin Core will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong sherlockcoin Core will not work properly.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3596,7 +3596,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Dogecoin Core Daemon</source>
+        <source>sherlockcoin Core Daemon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3856,7 +3856,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+10"/>
-        <source>Usage (deprecated, use dogecoin-cli):</source>
+        <source>Usage (deprecated, use sherlockcoin-cli):</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3901,7 +3901,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="-150"/>
-        <source>Cannot obtain a lock on data directory %s. Dogecoin Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. sherlockcoin Core is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4011,7 +4011,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+2"/>
-        <source>Send command to Dogecoin Core</source>
+        <source>Send command to sherlockcoin Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4056,7 +4056,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+6"/>
-        <source>Start Dogecoin Core Daemon</source>
+        <source>Start sherlockcoin Core Daemon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4201,13 +4201,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dogecoin Core</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of Dogecoin Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of sherlockcoin Core</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of sherlockcoin Core</translation>
     </message>
     <message>
         <location line="+113"/>
-        <source>Wallet needed to be rewritten: restart Dogecoin Core to complete</source>
-        <translation>Wallet needed to be rewritten: restart Dogecoin Core to complete</translation>
+        <source>Wallet needed to be rewritten: restart sherlockcoin Core to complete</source>
+        <translation>Wallet needed to be rewritten: restart sherlockcoin Core to complete</translation>
     </message>
     <message>
         <location line="-115"/>

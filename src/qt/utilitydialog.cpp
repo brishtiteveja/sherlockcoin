@@ -58,7 +58,7 @@ AboutDialog::AboutDialog(QWidget *parent) :
     ui->setupUi(this);
 
     // Set current copyright year
-    ui->copyrightLabel->setText(tr("Copyright") + QString(" &copy; 2009-%1 ").arg(COPYRIGHT_YEAR) + tr("The Bitcoin Core developers") + QString("<br>") + tr("Copyright") + QString(" &copy; 2013-%1 ").arg(COPYRIGHT_YEAR) + tr("The Dogecoin developers"));
+    ui->copyrightLabel->setText(tr("Copyright") + QString(" &copy; 2009-%1 ").arg(COPYRIGHT_YEAR) + tr("The Bitcoin Core developers") + QString("<br>") + tr("Copyright") + QString(" &copy; 2013-%1 ").arg(COPYRIGHT_YEAR) + tr("The sherlockcoin developers"));
 }
 
 void AboutDialog::setModel(ClientModel *model)
@@ -307,7 +307,7 @@ void PaperWalletDialog::on_printButton_clicked()
         bool ok;
 
         // Ask for an amount to send to each paper wallet. It might be better to try to use the BitcoinAmountField, but this works fine.
-        double amountInput = QInputDialog::getDouble(this, tr("Load Paper Wallets"), tr("The paper wallet printing process has begun.<br/>Please wait for the wallets to print completely and verify that everything printed correctly.<br/>Check for misalignments, ink bleeding, smears, or anything else that could make the private keys unreadable.<br/>Now, enter the number of DOGE you wish to send to each wallet:"), 0, 0, 2147483647, 8, &ok);
+        double amountInput = QInputDialog::getDouble(this, tr("Load Paper Wallets"), tr("The paper wallet printing process has begun.<br/>Please wait for the wallets to print completely and verify that everything printed correctly.<br/>Check for misalignments, ink bleeding, smears, or anything else that could make the private keys unreadable.<br/>Now, enter the number of shc you wish to send to each wallet:"), 0, 0, 2147483647, 8, &ok);
 
         if(!ok) {
             return;
@@ -417,10 +417,10 @@ HelpMessageDialog::HelpMessageDialog(QWidget *parent) :
     ui->setupUi(this);
     GUIUtil::restoreWindowGeometry("nHelpMessageDialogWindow", this->size(), this);
 
-    header = tr("Dogecoin Core") + " " + tr("version") + " " +
+    header = tr("sherlockcoin Core") + " " + tr("version") + " " +
         QString::fromStdString(FormatFullVersion()) + "\n\n" +
         tr("Usage:") + "\n" +
-        "  dogecoin-qt [" + tr("command-line options") + "]                     " + "\n";
+        "  sherlockcoin-qt [" + tr("command-line options") + "]                     " + "\n";
 
     coreOptions = QString::fromStdString(HelpMessage(HMM_BITCOIN_QT));
 
@@ -477,7 +477,7 @@ void ShutdownWindow::showShutdownWindow(BitcoinGUI *window)
     QWidget *shutdownWindow = new QWidget();
     QVBoxLayout *layout = new QVBoxLayout();
     layout->addWidget(new QLabel(
-        tr("Dogecoin Core is shutting down...") + "<br /><br />" +
+        tr("sherlockcoin Core is shutting down...") + "<br /><br />" +
         tr("Do not shut down the computer until this window disappears.")));
     shutdownWindow->setLayout(layout);
 

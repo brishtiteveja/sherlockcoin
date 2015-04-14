@@ -1,12 +1,12 @@
 #!/usr/bin/make -f
 # -*- mode: makefile; coding: utf-8 -*-
 
-#DEB_MAKE_CHECK_TARGET = test_dogecoin
-#build/dogecoind::
-#	$(if $(filter nocheck,$(DEB_BUILD_OPTIONS)),,src/test_dogecoin)
+#DEB_MAKE_CHECK_TARGET = test_sherlockcoin
+#build/sherlockcoind::
+#	$(if $(filter nocheck,$(DEB_BUILD_OPTIONS)),,src/test_sherlockcoin)
 
-DEB_INSTALL_EXAMPLES_dogecoind += debian/examples/*
-DEB_INSTALL_MANPAGES_dogecoind += debian/manpages/*
+DEB_INSTALL_EXAMPLES_sherlockcoind += debian/examples/*
+DEB_INSTALL_MANPAGES_sherlockcoind += debian/manpages/*
 
 %:
 	dh --with bash-completion $@

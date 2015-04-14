@@ -1,0 +1,1 @@
+libbitcoinqt_a-qrc_sherlockcoin.o: qrc_sherlockcoin.cpp

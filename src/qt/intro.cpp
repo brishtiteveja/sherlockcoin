@@ -181,7 +181,7 @@ void Intro::pickDataDirectory()
                 TryCreateDirectory(GUIUtil::qstringToBoostPath(dataDir));
                 break;
             } catch(fs::filesystem_error &e) {
-                QMessageBox::critical(0, tr("Dogecoin"),
+                QMessageBox::critical(0, tr("sherlockcoin"),
                     tr("Error: Specified data directory \"%1\" can not be created.").arg(dataDir));
                 /* fall through, back to choosing screen */
             }
@@ -190,8 +190,8 @@ void Intro::pickDataDirectory()
         settings.setValue("strDataDir", dataDir);
     }
     /* Only override -datadir if different from the default, to make it possible to
-     * override -datadir in the dogecoin.conf file in the default data directory
-     * (to be consistent with dogecoind behavior)
+     * override -datadir in the sherlockcoin.conf file in the default data directory
+     * (to be consistent with sherlockcoind behavior)
      */
     if(dataDir != getDefaultDataDirectory())
         SoftSetArg("-datadir", GUIUtil::qstringToBoostPath(dataDir).string()); // use OS locale for path setting

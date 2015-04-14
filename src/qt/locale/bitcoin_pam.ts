@@ -2,11 +2,11 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Dogecoin Core</source>
+        <source>About sherlockcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>&lt;b&gt;Dogecoin Core&lt;/b&gt; version</source>
+        <source>&lt;b&gt;sherlockcoin Core&lt;/b&gt; version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -26,7 +26,7 @@ Ing produktung ini atin yang makayabeng software a gewa dareng OpenSSL Project p
         <translation>Karapatan ning Pamangopya</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
+        <source>The sherlockcoin Core developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -101,11 +101,11 @@ Ing produktung ini atin yang makayabeng software a gewa dareng OpenSSL Project p
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Reni reng kekang Dogecoin address king pamagpadalang kabayaran. Lawan mulang masalese reng alaga ampo ing address na ning tumanggap bayu ka magpadalang barya.</translation>
+        <source>These are your sherlockcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Reni reng kekang sherlockcoin address king pamagpadalang kabayaran. Lawan mulang masalese reng alaga ampo ing address na ning tumanggap bayu ka magpadalang barya.</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your sherlockcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -203,8 +203,8 @@ Ing produktung ini atin yang makayabeng software a gewa dareng OpenSSL Project p
         <translation>Kumpirman ya ing wallet encryption</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
-        <translation>Kapabaluan: Istung in-encrypt me ing kekang wallet at meala ya ing passphrase na, ma-&lt;b&gt;ALA NO NGAN RING KEKANG DOGECOINS&lt;/b&gt;</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR sherlockcoinS&lt;/b&gt;!</source>
+        <translation>Kapabaluan: Istung in-encrypt me ing kekang wallet at meala ya ing passphrase na, ma-&lt;b&gt;ALA NO NGAN RING KEKANG sherlockcoinS&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -223,8 +223,8 @@ Ing produktung ini atin yang makayabeng software a gewa dareng OpenSSL Project p
         <translation>Me-encrypt ne ing wallet</translation>
     </message>
     <message>
-        <source>Dogecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dogecoins from being stolen by malware infecting your computer.</source>
-        <translation>Ing Dogecoin ngeni magsara ya ban ayari ing proseso ning pamag-encrypt. Tandanan yu king pamag-encrypt wallet, ali nala aprotektan king kabuuan reng dogecoins yu kareng malware a kasalunsungan atiu kareng computer yu.</translation>
+        <source>sherlockcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your sherlockcoins from being stolen by malware infecting your computer.</source>
+        <translation>Ing sherlockcoin ngeni magsara ya ban ayari ing proseso ning pamag-encrypt. Tandanan yu king pamag-encrypt wallet, ali nala aprotektan king kabuuan reng sherlockcoins yu kareng malware a kasalunsungan atiu kareng computer yu.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -294,8 +294,8 @@ Ing produktung ini atin yang makayabeng software a gewa dareng OpenSSL Project p
         <translation>Tuknangan ing aplikasyon</translation>
     </message>
     <message>
-        <source>Show information about Dogecoin</source>
-        <translation>Ipakit ing impormasyun tungkul king Dogecoin</translation>
+        <source>Show information about sherlockcoin</source>
+        <translation>Ipakit ing impormasyun tungkul king sherlockcoin</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -342,12 +342,12 @@ Ing produktung ini atin yang makayabeng software a gewa dareng OpenSSL Project p
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Send coins to a Dogecoin address</source>
-        <translation>Magpadalang barya king Dogecoin address</translation>
+        <source>Send coins to a sherlockcoin address</source>
+        <translation>Magpadalang barya king sherlockcoin address</translation>
     </message>
     <message>
-        <source>Modify configuration options for Dogecoin Core</source>
-        <translation>Alilan ing pipamilian konpigurasion para keng Dogecoin</translation>
+        <source>Modify configuration options for sherlockcoin Core</source>
+        <translation>Alilan ing pipamilian konpigurasion para keng sherlockcoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -370,8 +370,8 @@ Ing produktung ini atin yang makayabeng software a gewa dareng OpenSSL Project p
         <translation>&amp;Beripikan ing message...</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>sherlockcoin</source>
+        <translation>sherlockcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -398,11 +398,11 @@ Ing produktung ini atin yang makayabeng software a gewa dareng OpenSSL Project p
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Sign messages with your Dogecoin addresses to prove you own them</source>
+        <source>Sign messages with your sherlockcoin addresses to prove you own them</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Dogecoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified sherlockcoin addresses</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -426,15 +426,15 @@ Ing produktung ini atin yang makayabeng software a gewa dareng OpenSSL Project p
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Kapilubluban ning Dogecoin</translation>
+        <source>sherlockcoin Core</source>
+        <translation>Kapilubluban ning sherlockcoin</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and dogecoin: URIs)</source>
+        <source>Request payments (generates QR codes and sherlockcoin: URIs)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>&amp;About Dogecoin Core</source>
+        <source>&amp;About sherlockcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -446,7 +446,7 @@ Ing produktung ini atin yang makayabeng software a gewa dareng OpenSSL Project p
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Open a dogecoin: URI or payment request</source>
+        <source>Open a sherlockcoin: URI or payment request</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -454,16 +454,16 @@ Ing produktung ini atin yang makayabeng software a gewa dareng OpenSSL Project p
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Show the Dogecoin Core help message to get a list with possible command-line options</source>
+        <source>Show the sherlockcoin Core help message to get a list with possible command-line options</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin client</source>
-        <translation>Dogecoin client</translation>
+        <source>sherlockcoin client</source>
+        <translation>sherlockcoin client</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Dogecoin network</source>
-        <translation><numerusform>%n ya ing aktibong koneksion keng Dogecoin network</numerusform><numerusform>%n lareng aktibong koneksion keng Dogecoin network</numerusform></translation>
+        <source>%n active connection(s) to sherlockcoin network</source>
+        <translation><numerusform>%n ya ing aktibong koneksion keng sherlockcoin network</numerusform><numerusform>%n lareng aktibong koneksion keng sherlockcoin network</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -558,8 +558,8 @@ Address: %4
         <translation>Maka-&lt;b&gt;encrypt&lt;/b&gt; ya ing wallet at kasalukuyan yang maka-&lt;b&gt;locked&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Dogecoin can no longer continue safely and will quit.</source>
-        <translation>Atin kamalian a milyari. Ali ne magsilbing sumulung pa ing Dogecoin at kailangan na ng tuknang.</translation>
+        <source>A fatal error occurred. sherlockcoin can no longer continue safely and will quit.</source>
+        <translation>Atin kamalian a milyari. Ali ne magsilbing sumulung pa ing sherlockcoin at kailangan na ng tuknang.</translation>
     </message>
 </context>
 <context>
@@ -847,8 +847,8 @@ Address: %4
         <translation>Ing pepalub yung address &quot;%1&quot; ati na yu king aklat dareng address</translation>
     </message>
     <message>
-        <source>The entered address &quot;%1&quot; is not a valid Dogecoin address.</source>
-        <translation>Ing pepalub yung address &quot;%1&quot; ali ya katanggap-tanggap a Dogecoin address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid sherlockcoin address.</source>
+        <translation>Ing pepalub yung address &quot;%1&quot; ali ya katanggap-tanggap a sherlockcoin address.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -885,12 +885,12 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Dogecoin Core - Command-line options</source>
+        <source>sherlockcoin Core - Command-line options</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Kapilubluban ning Dogecoin</translation>
+        <source>sherlockcoin Core</source>
+        <translation>Kapilubluban ning sherlockcoin</translation>
     </message>
     <message>
         <source>version</source>
@@ -936,15 +936,15 @@ Address: %4
         <translation>Malaus ka</translation>
     </message>
     <message>
-        <source>Welcome to Dogecoin Core.</source>
+        <source>Welcome to sherlockcoin Core.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Dogecoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where sherlockcoin Core will store its data.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin Core will download and store a copy of the Dogecoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>sherlockcoin Core will download and store a copy of the sherlockcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -956,8 +956,8 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>sherlockcoin</source>
+        <translation>sherlockcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; can not be created.</source>
@@ -1018,12 +1018,12 @@ Address: %4
         <translation>Mamayad &amp;bayad para king transaksion </translation>
     </message>
     <message>
-        <source>Automatically start Dogecoin Core after logging in to the system.</source>
-        <translation>Umpisan yang antimu ing Dogecoin kaibat mekapag-log in king sistema.</translation>
+        <source>Automatically start sherlockcoin Core after logging in to the system.</source>
+        <translation>Umpisan yang antimu ing sherlockcoin kaibat mekapag-log in king sistema.</translation>
     </message>
     <message>
-        <source>&amp;Start Dogecoin Core on system login</source>
-        <translation>&amp;Umpisan ya ing Dogecoin king pamag-log-in na ning sistema.</translation>
+        <source>&amp;Start sherlockcoin Core on system login</source>
+        <translation>&amp;Umpisan ya ing sherlockcoin king pamag-log-in na ning sistema.</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1038,7 +1038,7 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Connect to the Dogecoin network through a SOCKS proxy.</source>
+        <source>Connect to the sherlockcoin network through a SOCKS proxy.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1090,8 +1090,8 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Automatically open the Dogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ibuklat yang antimanu ing Dogecoin client port king router. Gagana yamu ini istung ing router mu susuporta yang UPnP at magsilbi ya.</translation>
+        <source>Automatically open the sherlockcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ibuklat yang antimanu ing sherlockcoin client port king router. Gagana yamu ini istung ing router mu susuporta yang UPnP at magsilbi ya.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1146,8 +1146,8 @@ Address: %4
         <translation>Amanu na ning user interface:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dogecoin Core.</source>
-        <translation>Ing amanu na ning user interface maliari yang i-ayus o ilage keni. Ing ayus a ini magsilbi yamu istung pesibayuan meng pasibayu ing Dogecoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting sherlockcoin Core.</source>
+        <translation>Ing amanu na ning user interface maliari yang i-ayus o ilage keni. Ing ayus a ini magsilbi yamu istung pesibayuan meng pasibayu ing sherlockcoin.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1158,8 +1158,8 @@ Address: %4
         <translation>Pilinan ing default subdivision unit a ipalto o ipakit king interface at istung magpadala kang barya.</translation>
     </message>
     <message>
-        <source>Whether to show Dogecoin addresses in the transaction list or not.</source>
-        <translation>Ipakit man ing Dogecoin address king listahan naning transaksion o ali.</translation>
+        <source>Whether to show sherlockcoin addresses in the transaction list or not.</source>
+        <translation>Ipakit man ing sherlockcoin address king listahan naning transaksion o ali.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -1213,8 +1213,8 @@ Address: %4
         <translation>Form</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Ing makaltong impormasion mapalyaring luma ne. Ing kekang wallet otomatiku yang mag-synchronize keng Dogecoin network istung mekakonekta ne king network, oneng ing prosesung ini ali ya pa kumpletu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the sherlockcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Ing makaltong impormasion mapalyaring luma ne. Ing kekang wallet otomatiku yang mag-synchronize keng sherlockcoin network istung mekakonekta ne king network, oneng ing prosesung ini ali ya pa kumpletu.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1268,7 +1268,7 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Dogecoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid sherlockcoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1280,7 +1280,7 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Cannot start dogecoin: click-to-pay handler</source>
+        <source>Cannot start sherlockcoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1335,8 +1335,8 @@ Address: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>sherlockcoin</source>
+        <translation>sherlockcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; does not exist.</source>
@@ -1351,12 +1351,12 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin Core did&apos;t yet exit safely...</source>
+        <source>sherlockcoin Core did&apos;t yet exit safely...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
-        <translation>Magpalub kang Dogecoin address(e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
+        <source>Enter a sherlockcoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <translation>Magpalub kang sherlockcoin address(e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
 </context>
 <context>
@@ -1477,16 +1477,16 @@ Address: %4
         <translation>Debug log file</translation>
     </message>
     <message>
-        <source>Open the Dogecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ibuklat ing Dogecoin debug log file menibat king kasalungsungan data directory. Magluat ya ining pilan segundu para kareng mamaragul a log files.</translation>
+        <source>Open the sherlockcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ibuklat ing sherlockcoin debug log file menibat king kasalungsungan data directory. Magluat ya ining pilan segundu para kareng mamaragul a log files.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>I-Clear ing console</translation>
     </message>
     <message>
-        <source>Welcome to the Dogecoin RPC console.</source>
-        <translation>Malaus kayu king Dogecoin RPC console.</translation>
+        <source>Welcome to the sherlockcoin RPC console.</source>
+        <translation>Malaus kayu king sherlockcoin RPC console.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1548,7 +1548,7 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Dogecoin network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the sherlockcoin network.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1861,7 +1861,7 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Warning: Invalid Dogecoin address</source>
+        <source>Warning: Invalid sherlockcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1948,7 +1948,7 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>A message that was attached to the dogecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Dogecoin network.</source>
+        <source>A message that was attached to the sherlockcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the sherlockcoin network.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1967,7 +1967,7 @@ Address: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Dogecoin Core is shutting down...</source>
+        <source>sherlockcoin Core is shutting down...</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2022,8 +2022,8 @@ Address: %4
         <translation>Kopyan ing kasalungsungan pirma king system clipboard</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dogecoin address</source>
-        <translation>Pirman ing mensayi ban patune na keka ya ining Dogecoin address</translation>
+        <source>Sign the message to prove you own this sherlockcoin address</source>
+        <translation>Pirman ing mensayi ban patune na keka ya ining sherlockcoin address</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2050,8 +2050,8 @@ Address: %4
         <translation>Ing address na ning mensayi nung nokarin me pirma ya ini (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dogecoin address</source>
-        <translation>Beripikan ing mensayi ban asiguradu a me pirma ya ini gamit ing mepiling Dogecoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified sherlockcoin address</source>
+        <translation>Beripikan ing mensayi ban asiguradu a me pirma ya ini gamit ing mepiling sherlockcoin address</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2062,8 +2062,8 @@ Address: %4
         <translation>Ibalik king dati reng ngan fields na ning pamag beripikang mensayi</translation>
     </message>
     <message>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
-        <translation>Magpalub kang Dogecoin address(e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
+        <source>Enter a sherlockcoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <translation>Magpalub kang sherlockcoin address(e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
     <message>
         <source>Click &quot;Sign Message&quot; to generate signature</source>
@@ -2121,11 +2121,11 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Kapilubluban ning Dogecoin</translation>
+        <source>sherlockcoin Core</source>
+        <translation>Kapilubluban ning sherlockcoin</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
+        <source>The sherlockcoin Core developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2604,8 +2604,8 @@ Address: %4
         <translation>Pipamilian:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: dogecoin.conf)</source>
-        <translation>Pilinan ing configuration file(default: dogecoin.conf)</translation>
+        <source>Specify configuration file (default: sherlockcoin.conf)</source>
+        <translation>Pilinan ing configuration file(default: sherlockcoin.conf)</translation>
     </message>
     <message>
         <source>Specify pid file (default: bitcoind.pid)</source>
@@ -2652,7 +2652,7 @@ Address: %4
         <translation>Tumanggap command line at JSON-RPC commands</translation>
     </message>
     <message>
-        <source>Dogecoin Core RPC client version</source>
+        <source>sherlockcoin Core RPC client version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2677,7 +2677,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;sherlockcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2750,7 +2750,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Dogecoin Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. sherlockcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2762,8 +2762,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation>Kapabaluan: Sobra ya katas ing makalage king -paytxfee. Ini ing maging bayad mu para king bayad na ning transaksion istung pepadala me ing transaksion a ini.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Dogecoin will not work properly.</source>
-        <translation>Kapabaluan: Maliaring pakilawe ing oras at aldo a makalage king kekayung kompyuter nung istu la! Istung ing oras yu mali ya ali ya gumanang masalese ing Dogecoin.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong sherlockcoin will not work properly.</source>
+        <translation>Kapabaluan: Maliaring pakilawe ing oras at aldo a makalage king kekayung kompyuter nung istu la! Istung ing oras yu mali ya ali ya gumanang masalese ing sherlockcoin.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -2798,7 +2798,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin Core Daemon</source>
+        <source>sherlockcoin Core Daemon</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3006,7 +3006,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Usage (deprecated, use dogecoin-cli):</source>
+        <source>Usage (deprecated, use sherlockcoin-cli):</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3042,7 +3042,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Dogecoin Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. sherlockcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3130,7 +3130,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation>Pipamilian ning SSL: (lawen ye ing Bitcoin Wiki para king SSL setup instructions)</translation>
     </message>
     <message>
-        <source>Send command to Dogecoin Core</source>
+        <source>Send command to sherlockcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3166,7 +3166,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Start Dogecoin Core Daemon</source>
+        <source>Start sherlockcoin Core Daemon</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3282,12 +3282,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation>Me-mali ya ing pamag-load king wallet.dat: Me-corrupt ya ing wallet</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dogecoin</source>
-        <translation>Me-mali ya ing pamag-load na ning wallet.dat: Ing wallet mangailangan yang bayung bersion na ning Dogecoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of sherlockcoin</source>
+        <translation>Me-mali ya ing pamag-load na ning wallet.dat: Ing wallet mangailangan yang bayung bersion na ning sherlockcoin</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Dogecoin to complete</source>
-        <translation>Ing wallet mangailangan yang misulat pasibayu: Umpisan yang pasibayu ing Dogecoin ban ma-kumpleto ya</translation>
+        <source>Wallet needed to be rewritten: restart sherlockcoin to complete</source>
+        <translation>Ing wallet mangailangan yang misulat pasibayu: Umpisan yang pasibayu ing sherlockcoin ban ma-kumpleto ya</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

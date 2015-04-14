@@ -28,6 +28,6 @@ script:
 notifications:
   irc:
     channels:
-      - "chat.freenode.net#dogecoin-dev"
+      - "chat.freenode.net#sherlockcoin-dev"
     template:
       - "%{repository}/%{branch} (%{commit} - %{author}): %{message}"

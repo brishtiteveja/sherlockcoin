@@ -880,7 +880,7 @@ static std::string FormatException(std::exception* pex, const char* pszThread)
     char pszModule[MAX_PATH] = "";
     GetModuleFileNameA(NULL, pszModule, sizeof(pszModule));
 #else
-    const char* pszModule = "dogecoin";
+    const char* pszModule = "sherlockcoin";
 #endif
     if (pex)
         return strprintf(
@@ -907,13 +907,13 @@ void PrintExceptionContinue(std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-    // Windows < Vista: C:\Documents and Settings\Username\Application Data\Dogecoin
-    // Windows >= Vista: C:\Users\Username\AppData\Roaming\Dogecoin
-    // Mac: ~/Library/Application Support/Dogecoin
-    // Unix: ~/.dogecoin
+    // Windows < Vista: C:\Documents and Settings\Username\Application Data\sherlockcoin
+    // Windows >= Vista: C:\Users\Username\AppData\Roaming\sherlockcoin
+    // Mac: ~/Library/Application Support/sherlockcoin
+    // Unix: ~/.sherlockcoin
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "Dogecoin";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "sherlockcoin";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -925,10 +925,10 @@ boost::filesystem::path GetDefaultDataDir()
     // Mac
     pathRet /= "Library/Application Support";
     TryCreateDirectory(pathRet);
-    return pathRet / "Dogecoin";
+    return pathRet / "sherlockcoin";
 #else
     // Unix
-    return pathRet / ".dogecoin";
+    return pathRet / ".sherlockcoin";
 #endif
 #endif
 }
@@ -977,7 +977,7 @@ void ClearDatadirCache()
 
 boost::filesystem::path GetConfigFile()
 {
-    boost::filesystem::path pathConfigFile(GetArg("-conf", "dogecoin.conf"));
+    boost::filesystem::path pathConfigFile(GetArg("-conf", "sherlockcoin.conf"));
     if (!pathConfigFile.is_complete()) pathConfigFile = GetDataDir(false) / pathConfigFile;
     return pathConfigFile;
 }
@@ -987,14 +987,14 @@ void ReadConfigFile(map<string, string>& mapSettingsRet,
 {
     boost::filesystem::ifstream streamConfig(GetConfigFile());
     if (!streamConfig.good())
-        return; // No dogecoin.conf file is OK
+        return; // No sherlockcoin.conf file is OK
 
     set<string> setOptions;
     setOptions.insert("*");
 
     for (boost::program_options::detail::config_file_iterator it(streamConfig, setOptions), end; it != end; ++it)
     {
-        // Don't overwrite existing settings so command line settings override dogecoin.conf
+        // Don't overwrite existing settings so command line settings override sherlockcoin.conf
         string strKey = string("-") + it->string_key;
         if (mapSettingsRet.count(strKey) == 0)
         {
@@ -1010,7 +1010,7 @@ void ReadConfigFile(map<string, string>& mapSettingsRet,
 
 boost::filesystem::path GetPidFile()
 {
-    boost::filesystem::path pathPidFile(GetArg("-pid", "dogecoind.pid"));
+    boost::filesystem::path pathPidFile(GetArg("-pid", "sherlockcoind.pid"));
     if (!pathPidFile.is_complete()) pathPidFile = GetDataDir() / pathPidFile;
     return pathPidFile;
 }
@@ -1243,7 +1243,7 @@ void AddTimeData(const CNetAddr& ip, int64_t nTime)
                 if (!fMatch)
                 {
                     fDone = true;
-                    string strMessage = _("Warning: Please check that your computer's date and time are correct! If your clock is wrong Dogecoin will not work properly.");
+                    string strMessage = _("Warning: Please check that your computer's date and time are correct! If your clock is wrong sherlockcoin will not work properly.");
                     strMiscWarning = strMessage;
                     LogPrintf("*** %s\n", strMessage);
                     uiInterface.ThreadSafeMessageBox(strMessage, "", CClientUIInterface::MSG_WARNING);

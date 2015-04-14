@@ -2,12 +2,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Dogecoin Core</source>
-        <translation>A Dogecoin Core-ról</translation>
+        <source>About sherlockcoin Core</source>
+        <translation>A sherlockcoin Core-ról</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Dogecoin Core&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Dogecoin&lt;/b&gt; verzió</translation>
+        <source>&lt;b&gt;sherlockcoin Core&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;sherlockcoin&lt;/b&gt; verzió</translation>
     </message>
     <message>
         <source>
@@ -27,8 +27,8 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
         <translation>Copyright</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
-        <translation>A Dogecoin Core fejlesztői</translation>
+        <source>The sherlockcoin Core developers</source>
+        <translation>A sherlockcoin Core fejlesztői</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -102,12 +102,12 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
         <translation>Fogadó címek</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ezekkel a Dogecoin-címekkel küldhetsz kifizetéseket. Mindig ellenőrizd a fogadó címet és a fizetendő összeget, mielőtt elküldöd.</translation>
+        <source>These are your sherlockcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ezekkel a sherlockcoin-címekkel küldhetsz kifizetéseket. Mindig ellenőrizd a fogadó címet és a fizetendő összeget, mielőtt elküldöd.</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Ezekkel a címekkel fogadhatsz dogecoint. Ajánlott minden tranzakciónál egy új fogadó címet használni.</translation>
+        <source>These are your sherlockcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Ezekkel a címekkel fogadhatsz sherlockcoint. Ajánlott minden tranzakciónál egy új fogadó címet használni.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -204,8 +204,8 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
         <translation>Biztosan kódolni akarod a tárcát?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
-        <translation>Figyelem: Ha kódolod a tárcát, és elveszíted a jelszavad, akkor &lt;b&gt;AZ ÖSSZES DogecoinODAT IS EL FOGOD VESZÍTENI!&lt;/b&gt;</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR sherlockcoinS&lt;/b&gt;!</source>
+        <translation>Figyelem: Ha kódolod a tárcát, és elveszíted a jelszavad, akkor &lt;b&gt;AZ ÖSSZES sherlockcoinODAT IS EL FOGOD VESZÍTENI!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -224,8 +224,8 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
         <translation>Tárca kódolva</translation>
     </message>
     <message>
-        <source>Dogecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dogecoins from being stolen by malware infecting your computer.</source>
-        <translation>Dogecoin will close now to finish the encryption process. Ne feledd, hogy a tárca titkosítása sem nyújt teljes védelmet az adathalász programok fertőzésével szemben.</translation>
+        <source>sherlockcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your sherlockcoins from being stolen by malware infecting your computer.</source>
+        <translation>sherlockcoin will close now to finish the encryption process. Ne feledd, hogy a tárca titkosítása sem nyújt teljes védelmet az adathalász programok fertőzésével szemben.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -295,8 +295,8 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
         <translation>Kilépés</translation>
     </message>
     <message>
-        <source>Show information about Dogecoin</source>
-        <translation>Információk a Dogecoinról</translation>
+        <source>Show information about sherlockcoin</source>
+        <translation>Információk a sherlockcoinról</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -343,12 +343,12 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
         <translation>A blokkok lemezen történő ujraindexelése...</translation>
     </message>
     <message>
-        <source>Send coins to a Dogecoin address</source>
+        <source>Send coins to a sherlockcoin address</source>
         <translation>Érmék küldése megadott címre</translation>
     </message>
     <message>
-        <source>Modify configuration options for Dogecoin Core</source>
-        <translation>Dogecoin konfigurációs opciók</translation>
+        <source>Modify configuration options for sherlockcoin Core</source>
+        <translation>sherlockcoin konfigurációs opciók</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -371,8 +371,8 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
         <translation>Üzenet &amp;valódiságának ellenőrzése</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>sherlockcoin</source>
+        <translation>sherlockcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -399,12 +399,12 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
         <translation>A pénztárcájához tartozó privát kulcsok titkosítása</translation>
     </message>
     <message>
-        <source>Sign messages with your Dogecoin addresses to prove you own them</source>
-        <translation>Üzenet aláírása a Dogecoin címmel, amivel bizonyítja, hogy a cím az ön tulajdona.</translation>
+        <source>Sign messages with your sherlockcoin addresses to prove you own them</source>
+        <translation>Üzenet aláírása a sherlockcoin címmel, amivel bizonyítja, hogy a cím az ön tulajdona.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Dogecoin addresses</source>
-        <translation>Annak ellenőrzése, hogy az üzenetek valóban a megjelölt Dogecoin címekkel vannak-e alaírva</translation>
+        <source>Verify messages to ensure they were signed with specified sherlockcoin addresses</source>
+        <translation>Annak ellenőrzése, hogy az üzenetek valóban a megjelölt sherlockcoin címekkel vannak-e alaírva</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -427,16 +427,16 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
         <translation>[teszthálózat]</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Core</translation>
+        <source>sherlockcoin Core</source>
+        <translation>sherlockcoin Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and dogecoin: URIs)</source>
-        <translation>Kifizetési kérelem (QR-kódot és &quot;dogecoin:&quot; azonosítót (URI-t) hoz létre)</translation>
+        <source>Request payments (generates QR codes and sherlockcoin: URIs)</source>
+        <translation>Kifizetési kérelem (QR-kódot és &quot;sherlockcoin:&quot; azonosítót (URI-t) hoz létre)</translation>
     </message>
     <message>
-        <source>&amp;About Dogecoin Core</source>
-        <translation>&amp;A Dogecoin Core-ról</translation>
+        <source>&amp;About sherlockcoin Core</source>
+        <translation>&amp;A sherlockcoin Core-ról</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -447,24 +447,24 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
         <translation>A használt fogadó címek és címkék megtekintése</translation>
     </message>
     <message>
-        <source>Open a dogecoin: URI or payment request</source>
-        <translation>&quot;dogecoin:&quot; URI azonosító vagy fizetési kérelem megnyitása</translation>
+        <source>Open a sherlockcoin: URI or payment request</source>
+        <translation>&quot;sherlockcoin:&quot; URI azonosító vagy fizetési kérelem megnyitása</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Paran&amp;cssor kapcsolók</translation>
     </message>
     <message>
-        <source>Show the Dogecoin Core help message to get a list with possible command-line options</source>
-        <translation>A Dogecoin Core súgóüzenet megjelenítése a Dogecoin lehetséges parancssori kapcsolóival.</translation>
+        <source>Show the sherlockcoin Core help message to get a list with possible command-line options</source>
+        <translation>A sherlockcoin Core súgóüzenet megjelenítése a sherlockcoin lehetséges parancssori kapcsolóival.</translation>
     </message>
     <message>
-        <source>Dogecoin client</source>
-        <translation>Dogecoin kliens</translation>
+        <source>sherlockcoin client</source>
+        <translation>sherlockcoin kliens</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Dogecoin network</source>
-        <translation><numerusform>%n aktív kapcsolat a Dogecoin-hálózattal</numerusform><numerusform>%n aktív kapcsolat a Dogecoin-hálózattal</numerusform></translation>
+        <source>%n active connection(s) to sherlockcoin network</source>
+        <translation><numerusform>%n aktív kapcsolat a sherlockcoin-hálózattal</numerusform><numerusform>%n aktív kapcsolat a sherlockcoin-hálózattal</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -559,8 +559,8 @@ Cím: %4
         <translation>Tárca &lt;b&gt;kódolva&lt;/b&gt; és jelenleg &lt;b&gt;zárva&lt;/b&gt;.</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Dogecoin can no longer continue safely and will quit.</source>
-        <translation>Végzetes hiba történt. A Dogecoin működése nem biztonságos és hamarosan leáll.</translation>
+        <source>A fatal error occurred. sherlockcoin can no longer continue safely and will quit.</source>
+        <translation>Végzetes hiba történt. A sherlockcoin működése nem biztonságos és hamarosan leáll.</translation>
     </message>
 </context>
 <context>
@@ -848,8 +848,8 @@ Cím: %4
         <translation>A megadott &quot;%1&quot; cím már szerepel a címjegyzékben.</translation>
     </message>
     <message>
-        <source>The entered address &quot;%1&quot; is not a valid Dogecoin address.</source>
-        <translation>A megadott &quot;%1&quot; cím nem egy érvényes Dogecoin-cím.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid sherlockcoin address.</source>
+        <translation>A megadott &quot;%1&quot; cím nem egy érvényes sherlockcoin-cím.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -886,12 +886,12 @@ Cím: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Dogecoin Core - Command-line options</source>
+        <source>sherlockcoin Core - Command-line options</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Core</translation>
+        <source>sherlockcoin Core</source>
+        <translation>sherlockcoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -938,15 +938,15 @@ Cím: %4
         <translation>Üdvözlünk</translation>
     </message>
     <message>
-        <source>Welcome to Dogecoin Core.</source>
-        <translation>Üdvözlünk a Dogecoin Core-ban.</translation>
+        <source>Welcome to sherlockcoin Core.</source>
+        <translation>Üdvözlünk a sherlockcoin Core-ban.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Dogecoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where sherlockcoin Core will store its data.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin Core will download and store a copy of the Dogecoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>sherlockcoin Core will download and store a copy of the sherlockcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -958,8 +958,8 @@ Cím: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>sherlockcoin</source>
+        <translation>sherlockcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; can not be created.</source>
@@ -1020,11 +1020,11 @@ Cím: %4
         <translation>Tranzakciós &amp;díj fizetése</translation>
     </message>
     <message>
-        <source>Automatically start Dogecoin Core after logging in to the system.</source>
-        <translation>Induljon el a Dogecoin a számítógép bekapcsolásakor</translation>
+        <source>Automatically start sherlockcoin Core after logging in to the system.</source>
+        <translation>Induljon el a sherlockcoin a számítógép bekapcsolásakor</translation>
     </message>
     <message>
-        <source>&amp;Start Dogecoin Core on system login</source>
+        <source>&amp;Start sherlockcoin Core on system login</source>
         <translation>&amp;Induljon el a számítógép bekapcsolásakor</translation>
     </message>
     <message>
@@ -1040,8 +1040,8 @@ Cím: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Connect to the Dogecoin network through a SOCKS proxy.</source>
-        <translation>SOCKS proxyn keresztüli csatlakozás a Dogecoin hálózatához.</translation>
+        <source>Connect to the sherlockcoin network through a SOCKS proxy.</source>
+        <translation>SOCKS proxyn keresztüli csatlakozás a sherlockcoin hálózatához.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS proxy (default proxy):</source>
@@ -1092,8 +1092,8 @@ Cím: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Automatically open the Dogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>A Dogecoin-kliens portjának automatikus megnyitása a routeren. Ez csak akkor működik, ha a routered támogatja az UPnP-t és az engedélyezve is van rajta.</translation>
+        <source>Automatically open the sherlockcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>A sherlockcoin-kliens portjának automatikus megnyitása a routeren. Ez csak akkor működik, ha a routered támogatja az UPnP-t és az engedélyezve is van rajta.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1148,8 +1148,8 @@ Cím: %4
         <translation>Felhasználófelület nye&amp;lve:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dogecoin Core.</source>
-        <translation>Itt beállíthatod a felhasználófelület nyelvét. Ez a beállítás a Dogecoin ujraindítása után lép érvénybe.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting sherlockcoin Core.</source>
+        <translation>Itt beállíthatod a felhasználófelület nyelvét. Ez a beállítás a sherlockcoin ujraindítása után lép érvénybe.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1160,8 +1160,8 @@ Cím: %4
         <translation>Válaszd ki az interfészen és érmék küldésekor megjelenítendő alapértelmezett alegységet.</translation>
     </message>
     <message>
-        <source>Whether to show Dogecoin addresses in the transaction list or not.</source>
-        <translation>Mutassa-e a Dogecoin címeket a tranzakciólistában.</translation>
+        <source>Whether to show sherlockcoin addresses in the transaction list or not.</source>
+        <translation>Mutassa-e a sherlockcoin címeket a tranzakciólistában.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -1215,8 +1215,8 @@ Cím: %4
         <translation>Űrlap</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>A kijelzett információ lehet, hogy elavult. A pénztárcája automatikusan szinkronizálja magát a Dogecoin hálózattal miután a kapcsolat létrejön, de ez e folyamat még nem fejeződött be.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the sherlockcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>A kijelzett információ lehet, hogy elavult. A pénztárcája automatikusan szinkronizálja magát a sherlockcoin hálózattal miután a kapcsolat létrejön, de ez e folyamat még nem fejeződött be.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1270,7 +1270,7 @@ Cím: %4
         <translation>URI kezelés</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Dogecoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid sherlockcoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1282,8 +1282,8 @@ Cím: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Cannot start dogecoin: click-to-pay handler</source>
-        <translation>A dogecoint nem lehet elindítani: click-to-pay handler</translation>
+        <source>Cannot start sherlockcoin: click-to-pay handler</source>
+        <translation>A sherlockcoint nem lehet elindítani: click-to-pay handler</translation>
     </message>
     <message>
         <source>Net manager warning</source>
@@ -1337,8 +1337,8 @@ Cím: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>sherlockcoin</source>
+        <translation>sherlockcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; does not exist.</source>
@@ -1353,12 +1353,12 @@ Cím: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin Core did&apos;t yet exit safely...</source>
+        <source>sherlockcoin Core did&apos;t yet exit safely...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
-        <translation>Adj meg egy Dogecoin-címet (pl.: DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM )</translation>
+        <source>Enter a sherlockcoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <translation>Adj meg egy sherlockcoin-címet (pl.: DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM )</translation>
     </message>
 </context>
 <context>
@@ -1479,7 +1479,7 @@ Cím: %4
         <translation>Debug naplófájl</translation>
     </message>
     <message>
-        <source>Open the Dogecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the sherlockcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1487,8 +1487,8 @@ Cím: %4
         <translation>Konzol törlése</translation>
     </message>
     <message>
-        <source>Welcome to the Dogecoin RPC console.</source>
-        <translation>Üdv a Dogecoin RPC konzoljában!</translation>
+        <source>Welcome to the sherlockcoin RPC console.</source>
+        <translation>Üdv a sherlockcoin RPC konzoljában!</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1550,7 +1550,7 @@ Cím: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Dogecoin network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the sherlockcoin network.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1844,7 +1844,7 @@ Cím: %4
     </message>
     <message>
         <source>The amount exceeds your balance.</source>
-        <translation>Nincs ennyi dogecoin az egyenlegeden.</translation>
+        <translation>Nincs ennyi sherlockcoin az egyenlegeden.</translation>
     </message>
     <message>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
@@ -1863,7 +1863,7 @@ Cím: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Warning: Invalid Dogecoin address</source>
+        <source>Warning: Invalid sherlockcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1951,7 +1951,7 @@ Cím: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>A message that was attached to the dogecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Dogecoin network.</source>
+        <source>A message that was attached to the sherlockcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the sherlockcoin network.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1970,8 +1970,8 @@ Cím: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Dogecoin Core is shutting down...</source>
-        <translation>A Dogecoin Core leáll...</translation>
+        <source>sherlockcoin Core is shutting down...</source>
+        <translation>A sherlockcoin Core leáll...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1994,7 +1994,7 @@ Cím: %4
     </message>
     <message>
         <source>The address to sign the message with (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
-        <translation>Adj meg egy Dogecoin-címet (pl.: DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM )</translation>
+        <translation>Adj meg egy sherlockcoin-címet (pl.: DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM )</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2025,7 +2025,7 @@ Cím: %4
         <translation>A jelenleg kiválasztott aláírás másolása a rendszer-vágólapra</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dogecoin address</source>
+        <source>Sign the message to prove you own this sherlockcoin address</source>
         <translation>Üzenet </translation>
     </message>
     <message>
@@ -2050,10 +2050,10 @@ Cím: %4
     </message>
     <message>
         <source>The address the message was signed with (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
-        <translation>Adj meg egy Dogecoin-címet (pl.: DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM )</translation>
+        <translation>Adj meg egy sherlockcoin-címet (pl.: DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM )</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dogecoin address</source>
+        <source>Verify the message to ensure it was signed with the specified sherlockcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2065,8 +2065,8 @@ Cím: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
-        <translation>Adj meg egy Dogecoin-címet (pl.: DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM )</translation>
+        <source>Enter a sherlockcoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <translation>Adj meg egy sherlockcoin-címet (pl.: DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM )</translation>
     </message>
     <message>
         <source>Click &quot;Sign Message&quot; to generate signature</source>
@@ -2124,12 +2124,12 @@ Cím: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Core</translation>
+        <source>sherlockcoin Core</source>
+        <translation>sherlockcoin Core</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
-        <translation>A Dogecoin Core fejlesztői</translation>
+        <source>The sherlockcoin Core developers</source>
+        <translation>A sherlockcoin Core fejlesztői</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2610,8 +2610,8 @@ Cím: %4
 </translation>
     </message>
     <message>
-        <source>Specify configuration file (default: dogecoin.conf)</source>
-        <translation>Konfigurációs fájl (alapértelmezett: dogecoin.conf)
+        <source>Specify configuration file (default: sherlockcoin.conf)</source>
+        <translation>Konfigurációs fájl (alapértelmezett: sherlockcoin.conf)
 </translation>
     </message>
     <message>
@@ -2662,7 +2662,7 @@ Cím: %4
 </translation>
     </message>
     <message>
-        <source>Dogecoin Core RPC client version</source>
+        <source>sherlockcoin Core RPC client version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2689,7 +2689,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;sherlockcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2762,7 +2762,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Dogecoin Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. sherlockcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2774,8 +2774,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation>Figyelem: a -paytxfee nagyon magas.  Ennyi tranzakciós díjat fogsz fizetni, ha elküldöd a tranzakciót.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Dogecoin will not work properly.</source>
-        <translation>Figyelem: Ellenőrizd, hogy helyesen van-e beállítva a gépeden a dátum és az idő.  A Dogecoin nem fog megfelelően működni, ha rosszul van beállítvaaz órád.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong sherlockcoin will not work properly.</source>
+        <translation>Figyelem: Ellenőrizd, hogy helyesen van-e beállítva a gépeden a dátum és az idő.  A sherlockcoin nem fog megfelelően működni, ha rosszul van beállítvaaz órád.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -2810,7 +2810,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin Core Daemon</source>
+        <source>sherlockcoin Core Daemon</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3018,7 +3018,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Usage (deprecated, use dogecoin-cli):</source>
+        <source>Usage (deprecated, use sherlockcoin-cli):</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3054,7 +3054,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Dogecoin Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. sherlockcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3142,7 +3142,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation>SSL-opciók: (lásd a Bitcoin Wiki SSL-beállítási instrukcióit)</translation>
     </message>
     <message>
-        <source>Send command to Dogecoin Core</source>
+        <source>Send command to sherlockcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3178,7 +3178,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation>Csatlakozás időkerete milliszekundumban (alapértelmezett: 5000)</translation>
     </message>
     <message>
-        <source>Start Dogecoin Core Daemon</source>
+        <source>Start sherlockcoin Core Daemon</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3304,12 +3304,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation>Hiba a wallet.dat betöltése közben: meghibásodott tárca</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dogecoin</source>
-        <translation>Hiba a wallet.dat betöltése közben: ehhez a tárcához újabb verziójú Dogecoin-kliens szükséges</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of sherlockcoin</source>
+        <translation>Hiba a wallet.dat betöltése közben: ehhez a tárcához újabb verziójú sherlockcoin-kliens szükséges</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Dogecoin to complete</source>
-        <translation>A Tárca újraírása szükséges: Indítsa újra a teljesen a Dogecoin-t</translation>
+        <source>Wallet needed to be rewritten: restart sherlockcoin to complete</source>
+        <translation>A Tárca újraírása szükséges: Indítsa újra a teljesen a sherlockcoin-t</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>
@@ -3345,7 +3345,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     </message>
     <message>
         <source>Insufficient funds</source>
-        <translation>Nincs elég dogecoinod.</translation>
+        <translation>Nincs elég sherlockcoinod.</translation>
     </message>
     <message>
         <source>Loading block index...</source>

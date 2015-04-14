@@ -254,7 +254,7 @@ std::string HelpMessageCli(bool mainProgram)
     {
         strUsage += _("Options:") + "\n";
         strUsage += "  -?                     " + _("This help message") + "\n";
-        strUsage += "  -conf=<file>           " + _("Specify configuration file (default: dogecoin.conf)") + "\n";
+        strUsage += "  -conf=<file>           " + _("Specify configuration file (default: sherlockcoin.conf)") + "\n";
         strUsage += "  -datadir=<dir>         " + _("Specify data directory") + "\n";
         strUsage += "  -testnet               " + _("Use the test network") + "\n";
         strUsage += "  -regtest               " + _("Enter regression test mode, which uses a special chain in which blocks can be "
@@ -264,7 +264,7 @@ std::string HelpMessageCli(bool mainProgram)
     }
 
     strUsage += "  -rpcconnect=<ip>       " + _("Send commands to node running on <ip> (default: 127.0.0.1)") + "\n";
-    strUsage += "  -rpcport=<port>        " + _("Connect to JSON-RPC on <port> (default: 22555 or testnet: 44555)") + "\n";
+    strUsage += "  -rpcport=<port>        " + _("Connect to JSON-RPC on <port> (default: 55883 or testnet: 45883)") + "\n";
     strUsage += "  -rpcwait               " + _("Wait for RPC server to start") + "\n";
 
     if(mainProgram)

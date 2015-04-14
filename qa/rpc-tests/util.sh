@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Copyright (c) 2014 The Bitcoin Core developers
-# Copyright (c) 2014 The Dogecoin Core developers
+# Copyright (c) 2014 The sherlockcoin Core developers
 # Distributed under the MIT/X11 software license, see the accompanying
 # file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -21,7 +21,7 @@ function ExtractKey {
 function CreateDataDir {
   DIR=$1
   mkdir -p $DIR
-  CONF=$DIR/dogecoin.conf
+  CONF=$DIR/sherlockcoin.conf
   echo "regtest=1" >> $CONF
   echo "keypool=2" >> $CONF
   echo "rpcuser=rt" >> $CONF

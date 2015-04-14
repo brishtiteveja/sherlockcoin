@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=sherlockcoin
+Comment=sherlockcoin P2P Cryptocurrency
+Comment[fr]=sherlockcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=sherlockcoin, eşten eşe kriptografik sanal para birimi
+Exec=sherlockcoin-qt %u
+Terminal=false
+Type=Application
+Icon=sherlockcoin128
+MimeType=x-scheme-handler/sherlockcoin;
+Categories=Office;Finance;

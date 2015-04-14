@@ -163,7 +163,7 @@ def postprocess_translations(reduce_diff_hacks=False):
                     message.remove(location)
 
                 # Remove entire message if it is an unfinished translation
-                # disable this for dogecoin because we do manual translations
+                # disable this for sherlockcoin because we do manual translations
                 # if translation_node.get('type') == 'unfinished':
                 #    context.remove(message)
 

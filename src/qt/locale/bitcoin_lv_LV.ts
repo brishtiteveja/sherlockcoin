@@ -2,12 +2,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Dogecoin Core</source>
-        <translation>Par Dogecoin Core</translation>
+        <source>About sherlockcoin Core</source>
+        <translation>Par sherlockcoin Core</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Dogecoin Core&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Dogecoin Core&lt;/b&gt; versija</translation>
+        <source>&lt;b&gt;sherlockcoin Core&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;sherlockcoin Core&lt;/b&gt; versija</translation>
     </message>
     <message>
         <source>
@@ -23,8 +23,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Autortiesības</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
-        <translation>Dogecoin Core izstrādātāji</translation>
+        <source>The sherlockcoin Core developers</source>
+        <translation>sherlockcoin Core izstrādātāji</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -98,11 +98,11 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Saņemšanas adreses</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your sherlockcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your sherlockcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -200,7 +200,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Apstiprināt maciņa šifrēšanu</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR sherlockcoinS&lt;/b&gt;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -220,8 +220,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Maciņš nošifrēts</translation>
     </message>
     <message>
-        <source>Dogecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dogecoins from being stolen by malware infecting your computer.</source>
-        <translation>Dogecoin aizvērsies, lai pabeigtu šifrēšanu. Atcerieties, ka maciņa šifrēšana nevar pilnībā novērst dogekoinu zādzību, ko veic datorā ieviesušās kaitīgas programmas.</translation>
+        <source>sherlockcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your sherlockcoins from being stolen by malware infecting your computer.</source>
+        <translation>sherlockcoin aizvērsies, lai pabeigtu šifrēšanu. Atcerieties, ka maciņa šifrēšana nevar pilnībā novērst shckoinu zādzību, ko veic datorā ieviesušās kaitīgas programmas.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -291,8 +291,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Aizvērt programmu</translation>
     </message>
     <message>
-        <source>Show information about Dogecoin</source>
-        <translation>Parādīt informāciju par Dogecoin</translation>
+        <source>Show information about sherlockcoin</source>
+        <translation>Parādīt informāciju par sherlockcoin</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -339,12 +339,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Bloku reindeksēšana no diska...</translation>
     </message>
     <message>
-        <source>Send coins to a Dogecoin address</source>
-        <translation>Nosūtīt dogekoinus uz Dogecoin adresi</translation>
+        <source>Send coins to a sherlockcoin address</source>
+        <translation>Nosūtīt shckoinus uz sherlockcoin adresi</translation>
     </message>
     <message>
-        <source>Modify configuration options for Dogecoin Core</source>
-        <translation>Mainīt Dogecoin konfigurācijas uzstādījumus</translation>
+        <source>Modify configuration options for sherlockcoin Core</source>
+        <translation>Mainīt sherlockcoin konfigurācijas uzstādījumus</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -367,8 +367,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>&amp;Pārbaudīt ziņojumu...</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>sherlockcoin</source>
+        <translation>sherlockcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -395,12 +395,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Šifrēt privātās atslēgas kuras pieder tavam maciņam</translation>
     </message>
     <message>
-        <source>Sign messages with your Dogecoin addresses to prove you own them</source>
-        <translation>Parakstīt ziņojumus ar savām Dogecoin adresēm lai pierādītu ka tās pieder tev</translation>
+        <source>Sign messages with your sherlockcoin addresses to prove you own them</source>
+        <translation>Parakstīt ziņojumus ar savām sherlockcoin adresēm lai pierādītu ka tās pieder tev</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Dogecoin addresses</source>
-        <translation>Pārbaudīt ziņojumus lai pārliecinātos, ka tie tika parakstīti ar norādītajām Dogecoin adresēm</translation>
+        <source>Verify messages to ensure they were signed with specified sherlockcoin addresses</source>
+        <translation>Pārbaudīt ziņojumus lai pārliecinātos, ka tie tika parakstīti ar norādītajām sherlockcoin adresēm</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -423,16 +423,16 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Core</translation>
+        <source>sherlockcoin Core</source>
+        <translation>sherlockcoin Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and dogecoin: URIs)</source>
+        <source>Request payments (generates QR codes and sherlockcoin: URIs)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>&amp;About Dogecoin Core</source>
-        <translation>Par &amp;Dogecoin Core</translation>
+        <source>&amp;About sherlockcoin Core</source>
+        <translation>Par &amp;sherlockcoin Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -443,7 +443,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Open a dogecoin: URI or payment request</source>
+        <source>Open a sherlockcoin: URI or payment request</source>
         <translation>Atvērt bitcoin URI vai maksājuma pieprasījumu</translation>
     </message>
     <message>
@@ -451,16 +451,16 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>&amp;Komandrindas iespējas</translation>
     </message>
     <message>
-        <source>Show the Dogecoin Core help message to get a list with possible command-line options</source>
+        <source>Show the sherlockcoin Core help message to get a list with possible command-line options</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin client</source>
-        <translation>Dogecoin klients</translation>
+        <source>sherlockcoin client</source>
+        <translation>sherlockcoin klients</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Dogecoin network</source>
-        <translation><numerusform>%n aktīvu savienojumu ar Dogecoin tīklu</numerusform><numerusform>%n aktīvs savienojums ar Dogecoin tīklu</numerusform><numerusform>%n aktīvu savienojumu as Dogecoin tīklu</numerusform></translation>
+        <source>%n active connection(s) to sherlockcoin network</source>
+        <translation><numerusform>%n aktīvu savienojumu ar sherlockcoin tīklu</numerusform><numerusform>%n aktīvs savienojums ar sherlockcoin tīklu</numerusform><numerusform>%n aktīvu savienojumu as sherlockcoin tīklu</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -555,7 +555,7 @@ Adrese: %4
         <translation>Maciņš ir &lt;b&gt;šifrēts&lt;/b&gt; un pašlaik &lt;b&gt;slēgts&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Dogecoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. sherlockcoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -570,7 +570,7 @@ Adrese: %4
     <name>CoinControlDialog</name>
     <message>
         <source>Coin Control Address Selection</source>
-        <translation>Dogecoin Kontroles Adrešu Atlase</translation>
+        <translation>sherlockcoin Kontroles Adrešu Atlase</translation>
     </message>
     <message>
         <source>Quantity:</source>
@@ -844,8 +844,8 @@ Adrese: %4
         <translation>Nupat ierakstītā adrese &quot;%1&quot; jau atrodas adrešu grāmatā.</translation>
     </message>
     <message>
-        <source>The entered address &quot;%1&quot; is not a valid Dogecoin address.</source>
-        <translation>Ierakstītā adrese &quot;%1&quot; nav derīga Dogecoin adrese.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid sherlockcoin address.</source>
+        <translation>Ierakstītā adrese &quot;%1&quot; nav derīga sherlockcoin adrese.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -882,12 +882,12 @@ Adrese: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Dogecoin Core - Command-line options</source>
-        <translation>Dogecoin Core - Komandrindas iespējas</translation>
+        <source>sherlockcoin Core - Command-line options</source>
+        <translation>sherlockcoin Core - Komandrindas iespējas</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Core</translation>
+        <source>sherlockcoin Core</source>
+        <translation>sherlockcoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -933,15 +933,15 @@ Adrese: %4
         <translation>Sveiciens</translation>
     </message>
     <message>
-        <source>Welcome to Dogecoin Core.</source>
-        <translation>Sveicināts Dogecoin Core</translation>
+        <source>Welcome to sherlockcoin Core.</source>
+        <translation>Sveicināts sherlockcoin Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Dogecoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where sherlockcoin Core will store its data.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin Core will download and store a copy of the Dogecoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>sherlockcoin Core will download and store a copy of the sherlockcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -953,8 +953,8 @@ Adrese: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>sherlockcoin</source>
+        <translation>sherlockcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; can not be created.</source>
@@ -1015,12 +1015,12 @@ Adrese: %4
         <translation>&amp;Maksāt par transakciju</translation>
     </message>
     <message>
-        <source>Automatically start Dogecoin Core after logging in to the system.</source>
-        <translation>Automātiski sākt Dogecoin pēc pieteikšanās sistēmā.</translation>
+        <source>Automatically start sherlockcoin Core after logging in to the system.</source>
+        <translation>Automātiski sākt sherlockcoin pēc pieteikšanās sistēmā.</translation>
     </message>
     <message>
-        <source>&amp;Start Dogecoin Core on system login</source>
-        <translation>&amp;Sākt Dogecoin reizē ar sistēmu</translation>
+        <source>&amp;Start sherlockcoin Core on system login</source>
+        <translation>&amp;Sākt sherlockcoin reizē ar sistēmu</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1035,7 +1035,7 @@ Adrese: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Connect to the Dogecoin network through a SOCKS proxy.</source>
+        <source>Connect to the sherlockcoin network through a SOCKS proxy.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1087,8 +1087,8 @@ Adrese: %4
         <translation>&amp;Tērēt neapstiprinātu atlikumu</translation>
     </message>
     <message>
-        <source>Automatically open the Dogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Uz rūtera automātiski atvērt Dogecoin klienta portu. Tas strādā tikai tad, ja rūteris atbalsta UPnP un tas ir ieslēgts.</translation>
+        <source>Automatically open the sherlockcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Uz rūtera automātiski atvērt sherlockcoin klienta portu. Tas strādā tikai tad, ja rūteris atbalsta UPnP un tas ir ieslēgts.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1143,8 +1143,8 @@ Adrese: %4
         <translation>Lietotāja interfeiss un &amp;valoda:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dogecoin Core.</source>
-        <translation>Šeit var iestatīt lietotāja valodu. Iestatījums aktivizēsies pēc Dogecoin pārstartēšanas.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting sherlockcoin Core.</source>
+        <translation>Šeit var iestatīt lietotāja valodu. Iestatījums aktivizēsies pēc sherlockcoin pārstartēšanas.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1152,11 +1152,11 @@ Adrese: %4
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Izvēlēties dalījuma vienību pēc noklusēšanas, ko izmantot interfeisā un nosūtot dogekoinus.</translation>
+        <translation>Izvēlēties dalījuma vienību pēc noklusēšanas, ko izmantot interfeisā un nosūtot shckoinus.</translation>
     </message>
     <message>
-        <source>Whether to show Dogecoin addresses in the transaction list or not.</source>
-        <translation>Rādīt vai nē Dogecoin adreses transakciju sarakstā.</translation>
+        <source>Whether to show sherlockcoin addresses in the transaction list or not.</source>
+        <translation>Rādīt vai nē sherlockcoin adreses transakciju sarakstā.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -1164,7 +1164,7 @@ Adrese: %4
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
-        <translation>Vai rādīt Dogecoin kontroles funkcijas vai nē.</translation>
+        <translation>Vai rādīt sherlockcoin kontroles funkcijas vai nē.</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -1210,8 +1210,8 @@ Adrese: %4
         <translation>Forma</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Attēlotā informācija var būt novecojusi. Jūsu maciņš pēc savienojuma izveides automātiski sinhronizējas ar Dogecoin tīklu, taču šis process vēl nav beidzies.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the sherlockcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Attēlotā informācija var būt novecojusi. Jūsu maciņš pēc savienojuma izveides automātiski sinhronizējas ar sherlockcoin tīklu, taču šis process vēl nav beidzies.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1265,7 +1265,7 @@ Adrese: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Dogecoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid sherlockcoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1277,7 +1277,7 @@ Adrese: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Cannot start dogecoin: click-to-pay handler</source>
+        <source>Cannot start sherlockcoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1332,8 +1332,8 @@ Adrese: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>sherlockcoin</source>
+        <translation>sherlockcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; does not exist.</source>
@@ -1348,12 +1348,12 @@ Adrese: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin Core did&apos;t yet exit safely...</source>
+        <source>sherlockcoin Core did&apos;t yet exit safely...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
-        <translation>Ierakstiet Dogecoin adresi (piem. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
+        <source>Enter a sherlockcoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <translation>Ierakstiet sherlockcoin adresi (piem. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
 </context>
 <context>
@@ -1474,7 +1474,7 @@ Adrese: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Open the Dogecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the sherlockcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1482,8 +1482,8 @@ Adrese: %4
         <translation>Notīrīt konsoli</translation>
     </message>
     <message>
-        <source>Welcome to the Dogecoin RPC console.</source>
-        <translation>Laipni lūgti Dogecoin RPC konsolē.</translation>
+        <source>Welcome to the sherlockcoin RPC console.</source>
+        <translation>Laipni lūgti sherlockcoin RPC konsolē.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1545,7 +1545,7 @@ Adrese: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Dogecoin network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the sherlockcoin network.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1695,11 +1695,11 @@ Adrese: %4
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Sūtīt dogekoinus</translation>
+        <translation>Sūtīt shckoinus</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
-        <translation>Dogecoin Kontroles Funkcijas</translation>
+        <translation>sherlockcoin Kontroles Funkcijas</translation>
     </message>
     <message>
         <source>Inputs...</source>
@@ -1783,7 +1783,7 @@ Adrese: %4
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation>Apstiprināt dogekoinu sūtīšanu</translation>
+        <translation>Apstiprināt shckoinu sūtīšanu</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -1858,7 +1858,7 @@ Adrese: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Warning: Invalid Dogecoin address</source>
+        <source>Warning: Invalid sherlockcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1945,7 +1945,7 @@ Adrese: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>A message that was attached to the dogecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Dogecoin network.</source>
+        <source>A message that was attached to the sherlockcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the sherlockcoin network.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1964,8 +1964,8 @@ Adrese: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Dogecoin Core is shutting down...</source>
-        <translation>Dogecoin Core tiek izslēgta...</translation>
+        <source>sherlockcoin Core is shutting down...</source>
+        <translation>sherlockcoin Core tiek izslēgta...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2019,7 +2019,7 @@ Adrese: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dogecoin address</source>
+        <source>Sign the message to prove you own this sherlockcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2047,7 +2047,7 @@ Adrese: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dogecoin address</source>
+        <source>Verify the message to ensure it was signed with the specified sherlockcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2059,8 +2059,8 @@ Adrese: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
-        <translation>Ierakstiet Dogecoin adresi (piem. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
+        <source>Enter a sherlockcoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <translation>Ierakstiet sherlockcoin adresi (piem. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
     <message>
         <source>Click &quot;Sign Message&quot; to generate signature</source>
@@ -2118,12 +2118,12 @@ Adrese: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Core</translation>
+        <source>sherlockcoin Core</source>
+        <translation>sherlockcoin Core</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
-        <translation>Dogecoin Core izstrādātāji</translation>
+        <source>The sherlockcoin Core developers</source>
+        <translation>sherlockcoin Core izstrādātāji</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2544,7 +2544,7 @@ Adrese: %4
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>Sūtīt Dogekoinus</translation>
+        <translation>Sūtīt shckoinus</translation>
     </message>
 </context>
 <context>
@@ -2601,8 +2601,8 @@ Adrese: %4
         <translation>Iespējas:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: dogecoin.conf)</source>
-        <translation>Norādiet konfigurācijas failu (pēc noklusēšanas: dogecoin.conf)</translation>
+        <source>Specify configuration file (default: sherlockcoin.conf)</source>
+        <translation>Norādiet konfigurācijas failu (pēc noklusēšanas: sherlockcoin.conf)</translation>
     </message>
     <message>
         <source>Specify pid file (default: bitcoind.pid)</source>
@@ -2649,7 +2649,7 @@ Adrese: %4
         <translation>Pieņemt komandrindas un JSON-RPC komandas</translation>
     </message>
     <message>
-        <source>Dogecoin Core RPC client version</source>
+        <source>sherlockcoin Core RPC client version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2674,7 +2674,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;sherlockcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2747,7 +2747,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Dogecoin Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. sherlockcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2759,7 +2759,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Dogecoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong sherlockcoin will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2795,8 +2795,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Dogecoin Core Daemon</source>
-        <translation>Dogecoin Core Process</translation>
+        <source>sherlockcoin Core Daemon</source>
+        <translation>sherlockcoin Core Process</translation>
     </message>
     <message>
         <source>Block creation options:</source>
@@ -3003,7 +3003,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Usage (deprecated, use dogecoin-cli):</source>
+        <source>Usage (deprecated, use sherlockcoin-cli):</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3039,7 +3039,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Dogecoin Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. sherlockcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3127,7 +3127,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Send command to Dogecoin Core</source>
+        <source>Send command to sherlockcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3163,7 +3163,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Start Dogecoin Core Daemon</source>
+        <source>Start sherlockcoin Core Daemon</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3279,12 +3279,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
         <translation>Nevar ielādēt wallet.dat: maciņš bojāts</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dogecoin</source>
-        <translation>Nevar ielādēt wallet.dat: maciņa atvēršanai nepieciešama jaunāka Dogecoin versija</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of sherlockcoin</source>
+        <translation>Nevar ielādēt wallet.dat: maciņa atvēršanai nepieciešama jaunāka sherlockcoin versija</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Dogecoin to complete</source>
-        <translation>Bija nepieciešams pārstartēt maciņu: pabeigšanai pārstartējiet Dogecoin</translation>
+        <source>Wallet needed to be rewritten: restart sherlockcoin to complete</source>
+        <translation>Bija nepieciešams pārstartēt maciņu: pabeigšanai pārstartējiet sherlockcoin</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>
@@ -3320,7 +3320,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     </message>
     <message>
         <source>Insufficient funds</source>
-        <translation>Nepietiek dogekoinu</translation>
+        <translation>Nepietiek shckoinu</translation>
     </message>
     <message>
         <source>Loading block index...</source>

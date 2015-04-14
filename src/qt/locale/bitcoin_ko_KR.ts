@@ -2,11 +2,11 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Dogecoin Core</source>
+        <source>About sherlockcoin Core</source>
         <translation>도지코인 코어 정보</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Dogecoin Core&lt;/b&gt; version</source>
+        <source>&lt;b&gt;sherlockcoin Core&lt;/b&gt; version</source>
         <translation>&lt;b&gt;도지코인 코어&lt;/b&gt; 버전</translation>
     </message>
     <message>
@@ -28,7 +28,7 @@ MIT/X11 소프트웨어 사용권에 따라 배포하며, 첨부되어 있는 CO
         <translation>Copyright</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
+        <source>The sherlockcoin Core developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -103,11 +103,11 @@ MIT/X11 소프트웨어 사용권에 따라 배포하며, 첨부되어 있는 CO
         <translation>많이 받는 주소들</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your sherlockcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>지불액을 보내기 위한 도지코인 주소들이 있습니다. 코인을 보내기 전에 항상 보내는 주소와 액수를 확인하세요.</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your sherlockcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>지불액을 받기 위한 도지코인 주소들이 있습니다. 매 거래기록마다 새로운 주소 사용을 권장합니다.</translation>
     </message>
     <message>
@@ -205,7 +205,7 @@ MIT/X11 소프트웨어 사용권에 따라 배포하며, 첨부되어 있는 CO
         <translation>지갑 암호화 확인</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR sherlockcoinS&lt;/b&gt;!</source>
         <translation>경고: 만약 지갑을 암호화 한 뒤 암호문을 잃어버리면, 모든 도지코인을 잃어버리게 됩니다!</translation>
     </message>
     <message>
@@ -225,7 +225,7 @@ MIT/X11 소프트웨어 사용권에 따라 배포하며, 첨부되어 있는 CO
         <translation>지갑 암호화 완료</translation>
     </message>
     <message>
-        <source>Dogecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Dogecoins from being stolen by malware infecting your computer.</source>
+        <source>sherlockcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your sherlockcoins from being stolen by malware infecting your computer.</source>
         <translation>암호화 과정을 끝내기 위해 지금 도지코인이 닫힐 것입니다. 지갑 암호화는 사용자 컴퓨터의 멀웨어 감염으로 인한 도난에서 도지코인을 완전히 지켜주지 못함을 기억하세요.</translation>
     </message>
     <message>
@@ -296,7 +296,7 @@ MIT/X11 소프트웨어 사용권에 따라 배포하며, 첨부되어 있는 CO
         <translation>프로그램 끝내기</translation>
     </message>
     <message>
-        <source>Show information about Dogecoin</source>
+        <source>Show information about sherlockcoin</source>
         <translation>도지코인에 대한 정보 보기</translation>
     </message>
     <message>
@@ -344,11 +344,11 @@ MIT/X11 소프트웨어 사용권에 따라 배포하며, 첨부되어 있는 CO
         <translation>디스크에서 블록 다시 색인 중...</translation>
     </message>
     <message>
-        <source>Send coins to a Dogecoin address</source>
+        <source>Send coins to a sherlockcoin address</source>
         <translation>도지코인 주소로 코인 보내기</translation>
     </message>
     <message>
-        <source>Modify configuration options for Dogecoin Core</source>
+        <source>Modify configuration options for sherlockcoin Core</source>
         <translation>도지코인 코어의 환경설정 옵션을 변경합니다</translation>
     </message>
     <message>
@@ -372,7 +372,7 @@ MIT/X11 소프트웨어 사용권에 따라 배포하며, 첨부되어 있는 CO
         <translation>메시지 검증(&amp;V)...</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
+        <source>sherlockcoin</source>
         <translation>도지코인</translation>
     </message>
     <message>
@@ -400,11 +400,11 @@ MIT/X11 소프트웨어 사용권에 따라 배포하며, 첨부되어 있는 CO
         <translation>지갑의 개인 키들을 암호화합니다</translation>
     </message>
     <message>
-        <source>Sign messages with your Dogecoin addresses to prove you own them</source>
+        <source>Sign messages with your sherlockcoin addresses to prove you own them</source>
         <translation>도지코인 주소에 메시지를 서명하여 그것을 가지고 있음을 증명하세요.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Dogecoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified sherlockcoin addresses</source>
         <translation>메시지를 검증하여 지정된 도지코인 주소가 서명되었는지 확인하세요.</translation>
     </message>
     <message>
@@ -428,15 +428,15 @@ MIT/X11 소프트웨어 사용권에 따라 배포하며, 첨부되어 있는 CO
         <translation>[테스트넷]</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
+        <source>sherlockcoin Core</source>
         <translation>도지코인 코어</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and dogecoin: URIs)</source>
+        <source>Request payments (generates QR codes and sherlockcoin: URIs)</source>
         <translation>지불 요청하기 (QR코드와 도지코인 URI 생성)</translation>
     </message>
     <message>
-        <source>&amp;About Dogecoin Core</source>
+        <source>&amp;About sherlockcoin Core</source>
         <translation>도지코인 코어 정보(&amp;A)</translation>
     </message>
     <message>
@@ -448,7 +448,7 @@ MIT/X11 소프트웨어 사용권에 따라 배포하며, 첨부되어 있는 CO
         <translation>사용했던 받는 주소와 라벨 목록 보기</translation>
     </message>
     <message>
-        <source>Open a dogecoin: URI or payment request</source>
+        <source>Open a sherlockcoin: URI or payment request</source>
         <translation>도지코인 URI 또는 지불 요청을 엽니다</translation>
     </message>
     <message>
@@ -456,15 +456,15 @@ MIT/X11 소프트웨어 사용권에 따라 배포하며, 첨부되어 있는 CO
         <translation>명령-줄 옵션(&amp;C)</translation>
     </message>
     <message>
-        <source>Show the Dogecoin Core help message to get a list with possible command-line options</source>
+        <source>Show the sherlockcoin Core help message to get a list with possible command-line options</source>
         <translation>가능한 명령어-라인 옵션 목록을 얻기 위해 도지코인 코어 도움말 메시지 보기</translation>
     </message>
     <message>
-        <source>Dogecoin client</source>
+        <source>sherlockcoin client</source>
         <translation>도지코인 클라이언트</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Dogecoin network</source>
+        <source>%n active connection(s) to sherlockcoin network</source>
         <translation>
             <numerusform>도지코인 네트워크와 %n개의 연결 활성화</numerusform>
             <numerusform>도지코인 네트워크와 %n개의 연결 활성화</numerusform>
@@ -575,7 +575,7 @@ Address: %4
         <translation>지갑이 &lt;b&gt;암호화&lt;/b&gt; 되었고 현재 &lt;b&gt;잠겨&lt;/b&gt; 있음</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Dogecoin Core can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. sherlockcoin Core can no longer continue safely and will quit.</source>
         <translation>치명적인 오류가 발생했습니다. 도지코인 코어를 더 이상 안전하게 진행할 수 없어 끝냅니다.</translation>
     </message>
 </context>
@@ -864,7 +864,7 @@ Address: %4
         <translation>입력된 주소 &quot;%1&quot;은(는) 이미 주소록에 있습니다.</translation>
     </message>
     <message>
-        <source>The entered address &quot;%1&quot; is not a valid Dogecoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid sherlockcoin address.</source>
         <translation>입력한 주소 &quot;%1&quot;은(는) 올바른 도지코인 주소가 아닙니다.</translation>
     </message>
     <message>
@@ -902,11 +902,11 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Dogecoin Core - Command-line options</source>
+        <source>sherlockcoin Core - Command-line options</source>
         <translation>도지코인 코어 - 명령-줄 옵션</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
+        <source>sherlockcoin Core</source>
         <translation>도지코인 코어</translation>
     </message>
     <message>
@@ -953,15 +953,15 @@ Address: %4
         <translation>환영합니다</translation>
     </message>
     <message>
-        <source>Welcome to Dogecoin Core.</source>
+        <source>Welcome to sherlockcoin Core.</source>
         <translation>도지코인 코어에 오신 것을 환영합니다.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Dogecoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where sherlockcoin Core will store its data.</source>
         <translation>프로그램이 처음으로 실행되었기 때문에, 도지코인 코어의 데이터를 어느 위치에 저장할지 선택할 수 있습니다.</translation>
     </message>
     <message>
-        <source>Dogecoin Core will download and store a copy of the Dogecoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>sherlockcoin Core will download and store a copy of the sherlockcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>도지코인 코어는 블록 체인의 복사본을 다운받아 저장할 것입니다. 적어도 %1GB의 데이터가 이 디렉토리에 저장되고, 시간이 흐르면 증가합니다. 사용자의 지갑 또한 이곳에 저장됩니다.</translation>
     </message>
     <message>
@@ -973,7 +973,7 @@ Address: %4
         <translation>사용자 정의 디렉토리:</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
+        <source>sherlockcoin</source>
         <translation>도지코인</translation>
     </message>
     <message>
@@ -1035,11 +1035,11 @@ Address: %4
         <translation>거래기록 수수료 지불(&amp;f)</translation>
     </message>
     <message>
-        <source>Automatically start Dogecoin Core after logging in to the system.</source>
+        <source>Automatically start sherlockcoin Core after logging in to the system.</source>
         <translation>시스템 로그인 후 자동으로 도지코인 코어를 시작합니다.</translation>
     </message>
     <message>
-        <source>&amp;Start Dogecoin Core on system login</source>
+        <source>&amp;Start sherlockcoin Core on system login</source>
         <translation>시스템 로그인 시 도지코인 코어 시작(&amp;S)</translation>
     </message>
     <message>
@@ -1055,7 +1055,7 @@ Address: %4
         <translation>스크립트 검증 스레드의 수(&amp;v)</translation>
     </message>
     <message>
-        <source>Connect to the Dogecoin network through a SOCKS proxy.</source>
+        <source>Connect to the sherlockcoin network through a SOCKS proxy.</source>
         <translation>SOCKS 프록시를 통해 도지코인 네트워크에 연결합니다.</translation>
     </message>
     <message>
@@ -1115,7 +1115,7 @@ Address: %4
         <translation>확인되지 않은 반환액 사용(&amp;S)</translation>
     </message>
     <message>
-        <source>Automatically open the Dogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the sherlockcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>라우터의 도지코인 클라이언트 포트를 자동으로 엽니다. 라우터에서 UPnP를 지원하고 활성화 했을 경우에만 동작합니다.</translation>
     </message>
     <message>
@@ -1171,7 +1171,7 @@ Address: %4
         <translation>사용자 표시 언어(&amp;l):</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dogecoin Core.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting sherlockcoin Core.</source>
         <translation>여기서 사용자에게 표시할 언어를 설정할 수 있습니다. 이 설정은 도지코인 코어를 재시작할 때 적용됩니다.</translation>
     </message>
     <message>
@@ -1183,7 +1183,7 @@ Address: %4
         <translation>인터페이스에 표시하거나 코인을 보낼 때 사용할 기본 단위를 선택합니다.</translation>
     </message>
     <message>
-        <source>Whether to show Dogecoin addresses in the transaction list or not.</source>
+        <source>Whether to show sherlockcoin addresses in the transaction list or not.</source>
         <translation>거래기록 목록에 도지코인 주소를 표시할 지의 여부입니다.</translation>
     </message>
     <message>
@@ -1238,7 +1238,7 @@ Address: %4
         <translation>유형</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogecoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the sherlockcoin network after a connection is established, but this process has not completed yet.</source>
         <translation>표시된 정보는 오래된 것 같습니다. 지갑은 연결 상태가 된 후에 자동적으로 도지코인 네트워크와 동기화하지만, 이 과정은 아직 완료되지 않았습니다.</translation>
     </message>
     <message>
@@ -1293,7 +1293,7 @@ Address: %4
         <translation>URI 핸들링</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Dogecoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid sherlockcoin address or malformed URI parameters.</source>
         <translation>URI를 분석할 수 없습니다! 이것은 잘못된 도지코인 주소나 잘못된 형태의 URI 인수로 인해 유발될 수 있습니다.</translation>
     </message>
     <message>
@@ -1305,7 +1305,7 @@ Address: %4
         <translation>지불 요청 오류</translation>
     </message>
     <message>
-        <source>Cannot start dogecoin: click-to-pay handler</source>
+        <source>Cannot start sherlockcoin: click-to-pay handler</source>
         <translation>도지코인을 시작할 수 없습니다: click-to-pay handler</translation>
     </message>
     <message>
@@ -1360,7 +1360,7 @@ Address: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Dogecoin</source>
+        <source>sherlockcoin</source>
         <translation>도지코인</translation>
     </message>
     <message>
@@ -1376,11 +1376,11 @@ Address: %4
         <translation>오류: 잘못된 조합의 -regtest와 -testnet입니다.</translation>
     </message>
     <message>
-        <source>Dogecoin Core didn&apos;t yet exit safely...</source>
+        <source>sherlockcoin Core didn&apos;t yet exit safely...</source>
         <translation>도지코인 코어를 아직 안전하게 끝낼 수 없습니다…</translation>
     </message>
     <message>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <source>Enter a sherlockcoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
         <translation>도지코인 주소 입력 (예: DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
 </context>
@@ -1502,7 +1502,7 @@ Address: %4
         <translation>디버그 로그 파일</translation>
     </message>
     <message>
-        <source>Open the Dogecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the sherlockcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>현재 데이터 디렉토리의 도지코인 디버그 로그 파일을 엽니다. 용량이 큰 로그 파일들은 몇 초가 걸릴 수 있습니다.</translation>
     </message>
     <message>
@@ -1510,7 +1510,7 @@ Address: %4
         <translation>콘솔 지우기</translation>
     </message>
     <message>
-        <source>Welcome to the Dogecoin RPC console.</source>
+        <source>Welcome to the sherlockcoin RPC console.</source>
         <translation>도지코인 코어 RPC 콘솔에 오신걸 환영합니다</translation>
     </message>
     <message>
@@ -1573,7 +1573,7 @@ Address: %4
         <translation>기존의 받는 주소 재사용(&amp;e) (권장하지 않음)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Dogecoin network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the sherlockcoin network.</source>
         <translation>요청이 열릴 때 표시될 지불 요청에 첨부하는 메시지를 추가합니다. 참고: 이 메시지는 지불 시에 도지코인 네트워크를 통해 보내지 않을 것입니다.</translation>
     </message>
     <message>
@@ -1886,7 +1886,7 @@ Address: %4
         <translation>이 거래기록은 거절되었습니다! 이것은 만약 사용자가 wallet.dat의 복사본을 사용했고 그 복사본에서 코인이 사용되었지만 여기에는 사용한 것으로 표시되지 않은 경우같이, 지갑의 코인 중 일부가 이미 사용되었다면 발생할 수 있습니다.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Dogecoin address</source>
+        <source>Warning: Invalid sherlockcoin address</source>
         <translation>경고: 잘못된 도지코인 주소</translation>
     </message>
     <message>
@@ -1973,7 +1973,7 @@ Address: %4
         <translation>사용한 주소 목록에 추가하기 위해 이 주소에 쓸 라벨 입력</translation>
     </message>
     <message>
-        <source>A message that was attached to the dogecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Dogecoin network.</source>
+        <source>A message that was attached to the sherlockcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the sherlockcoin network.</source>
         <translation>도지코인 URI에 첨부된 메시지는 사용자 참고를 위해 거래기록과 함께 보관될 것입니다. 참고: 이 메시지는 도지코인 네트워크를 통해 보내지 않을 것입니다.</translation>
     </message>
     <message>
@@ -1992,7 +1992,7 @@ Address: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Dogecoin Core is shutting down...</source>
+        <source>sherlockcoin Core is shutting down...</source>
         <translation>도지코인 코어를 종료하는 중입니다...</translation>
     </message>
     <message>
@@ -2047,7 +2047,7 @@ Address: %4
         <translation>현재 서명을 시스템 클립보드에 복사</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dogecoin address</source>
+        <source>Sign the message to prove you own this sherlockcoin address</source>
         <translation>이 도지코인 주소를 가지고 있다는 것을 증명하기 위해 메시지 서명하기</translation>
     </message>
     <message>
@@ -2075,7 +2075,7 @@ Address: %4
         <translation>메시지가 서명된 주소 (예: DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dogecoin address</source>
+        <source>Verify the message to ensure it was signed with the specified sherlockcoin address</source>
         <translation>지정된 도지코인 주소로 서명되었는지 확인하기 위해 메시지 검증하기</translation>
     </message>
     <message>
@@ -2087,7 +2087,7 @@ Address: %4
         <translation>모든 메시지 검증 항목 재설정</translation>
     </message>
     <message>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <source>Enter a sherlockcoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
         <translation>도지코인 주소 입력 (예: DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
     <message>
@@ -2146,11 +2146,11 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dogecoin Core</source>
+        <source>sherlockcoin Core</source>
         <translation>도지코인 코어</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
+        <source>The sherlockcoin Core developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2641,12 +2641,12 @@ Address: %4
         <translation>옵션:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: dogecoin.conf)</source>
-        <translation>설정파일 지정 (기본값: dogecoin.conf)</translation>
+        <source>Specify configuration file (default: sherlockcoin.conf)</source>
+        <translation>설정파일 지정 (기본값: sherlockcoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: dogecoind.pid)</source>
-        <translation>pid 파일 지정 (기본값: dogecoind.pid)</translation>
+        <source>Specify pid file (default: sherlockcoind.pid)</source>
+        <translation>pid 파일 지정 (기본값: sherlockcoind.pid)</translation>
     </message>
     <message>
         <source>Specify data directory</source>
@@ -2689,7 +2689,7 @@ Address: %4
         <translation>명령 줄과 JSON-RPC 명령 수락</translation>
     </message>
     <message>
-        <source>Dogecoin Core RPC client version</source>
+        <source>sherlockcoin Core RPC client version</source>
         <translation>도지코인 코어 RPC 클라이언트 버전</translation>
     </message>
     <message>
@@ -2708,24 +2708,24 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=dogecoinrpc
+rpcuser=sherlockcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;sherlockcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, 사용자는 반드시 rpcpassword를 환경 설정 파일에 설정해야 합니다:
 %s
 다음과 같은 임의 비밀번호를 사용하는 것을 권장합니다:
-rpcuser=dogecoinrpc
+rpcuser=sherlockcoinrpc
 rpcpassword=%s
 (사용자는 이 비밀번호를 기억할 필요가 없습니다)
 유저이름과 비밀번호는 절대로 같지 않아야 합니다.
 만약 파일이 존재하지 않으면, 사용자-읽기-전용 파일 권한으로 만듭니다.
 또한, alertnotify를 설정하는 것을 권장합니다. 그러면 사용자는 문제를 고지 받게 됩니다.
-예: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
+예: alertnotify=echo %%s | mail -s &quot;sherlockcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2797,7 +2797,7 @@ rpcpassword=%s
         <translation>선행-버전 테스트용 빌드입니다. - 사용 시 발생할 수 있는 위험은 사용자 책임입니다 - 채굴이나 상점 소프트웨어용으로 사용하지 마세요.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Dogecoin Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. sherlockcoin Core is probably already running.</source>
         <translation>이 컴퓨터의 %s에 바인드 할 수 없습니다. 도지코인 코어가 이미 실행 중인 것 같습니다.</translation>
     </message>
     <message>
@@ -2809,7 +2809,7 @@ rpcpassword=%s
         <translation>경고: -paytxfee값이 너무 큽니다! 이 값은 거래기록을 보낼 때 지불할 거래기록 수수료입니다.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Dogecoin Core will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong sherlockcoin Core will not work properly.</source>
         <translation>경고: 컴퓨터의 날짜와 시간이 올바른지 확인하세요! 시간이 잘못되면 도지코인 코어는 제대로 동작하지 않습니다.</translation>
     </message>
     <message>
@@ -2845,7 +2845,7 @@ rpcpassword=%s
         <translation>손상된 wallet.dat에서 개인키 복원을 시도함</translation>
     </message>
     <message>
-        <source>Dogecoin Core Daemon</source>
+        <source>sherlockcoin Core Daemon</source>
         <translation>도지코인 코어 데몬</translation>
     </message>
     <message>
@@ -3053,8 +3053,8 @@ rpcpassword=%s
         <translation>이것은 리그레션 테스트 툴과 앱 개발을 대상으로 합니다.</translation>
     </message>
     <message>
-        <source>Usage (deprecated, use dogecoin-cli):</source>
-        <translation>사용법 (오래됨, dogecoin-cli를 사용):</translation>
+        <source>Usage (deprecated, use sherlockcoin-cli):</source>
+        <translation>사용법 (오래됨, sherlockcoin-cli를 사용):</translation>
     </message>
     <message>
         <source>Verifying blocks...</source>
@@ -3089,7 +3089,7 @@ rpcpassword=%s
         <translation>외부 blk000??.dat 파일에서 블록 가져오기</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Dogecoin Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. sherlockcoin Core is probably already running.</source>
         <translation>데이터 디렉토리 %s의 락을 얻을 수 없습니다. 도지코인 코어가 이미 실행 중인 것 같습니다.</translation>
     </message>
     <message>
@@ -3177,7 +3177,7 @@ rpcpassword=%s
         <translation>SSL 옵션: (SSL 설정 지침을 보려면 비트코인 위키를 참조)</translation>
     </message>
     <message>
-        <source>Send command to Dogecoin Core</source>
+        <source>Send command to sherlockcoin Core</source>
         <translation>도지코인 코어에 명령 보내기</translation>
     </message>
     <message>
@@ -3213,7 +3213,7 @@ rpcpassword=%s
         <translation>밀리 초 단위로 연결 제한시간을 지정 (기본값: 5000)</translation>
     </message>
     <message>
-        <source>Start Dogecoin Core Daemon</source>
+        <source>Start sherlockcoin Core Daemon</source>
         <translation>도지코인 코어 데몬 시작</translation>
     </message>
     <message>
@@ -3329,11 +3329,11 @@ rpcpassword=%s
         <translation>wallet.dat 불러오기 오류: 지갑이 손상됨</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dogecoin Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of sherlockcoin Core</source>
         <translation>wallet.dat 불러오기 오류: 지갑이 상위 버전의 도지코인 코어를 필요로 함</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Dogecoin Core to complete</source>
+        <source>Wallet needed to be rewritten: restart sherlockcoin Core to complete</source>
         <translation>지갑을 다시 써야 함: 완료를 위해 도지코인 코어를 재시작</translation>
     </message>
     <message>
