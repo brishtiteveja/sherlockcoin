@@ -123,7 +123,7 @@ public:
         //     CTxIn(COutPoint(000000, -1), coinbase 04ffff001d0104455468652054696d65732030332f4a616e2f32303039204368616e63656c6c6f72206f6e206272696e6b206f66207365636f6e64206261696c6f757420666f722062616e6b73)
         //     CTxOut(nValue=50.00000000, scriptPubKey=0x5F1DF16B2B704C8A578D0B)
         //   vMerkleTree: 4a5e1e
-        const char* pszTimestamp = "Nintondo";
+        const char* pszTimestamp = "SherlockHolmes";
         CTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
@@ -134,13 +134,56 @@ public:
         genesis.hashPrevBlock = 0;
         genesis.hashMerkleRoot = genesis.BuildMerkleTree();
         genesis.nVersion = 1;
-        genesis.nTime    = 1386325540;
+        genesis.nTime    = 1429042623;
         genesis.nBits    = 0x1e0ffff0;
-        genesis.nNonce   = 99943;
+        genesis.nNonce   = 263680;
+
+        //assert(hashGenesisBlock == uint256("0xfca899a4f187f2e40dde6a6151ec3e0aba8ce0c1f4f9061a495d647e8288dd79"));
+        //assert(genesis.hashMerkleRoot == uint256("0x0ee60c2a22e616b5810f05209ea8d5bd5e302a52d94b07fc3d22b06e13f33f47"));
+
+        printf("MainNet GenesisBlockHash %s\n", genesis.GetHash().ToString().c_str());
+        printf("MainNet GenesisBlock %s\n", hashGenesisBlock.ToString().c_str());
+        printf("MainNet Hashmerkleroot %s\n", genesis.hashMerkleRoot.ToString().c_str());
+
+
+        //calculate for genesis block
+        uint256 hashTarget = CBigNum().SetCompact(genesis.nBits).getuint256();
+        uint256 thash;
+        char scratchpad[SCRYPT_SCRATCHPAD_SIZE];
+        unsigned int nHashesDone = 0;
+
+        while (true)
+        {
+
+    		#define scrypt_1024_1_1_256_sp(input, output, scratchpad) scrypt_1024_1_1_256_sp_generic((input), (output), (scratchpad))
+            scrypt_1024_1_1_256_sp(BEGIN(genesis.nVersion), BEGIN(thash), scratchpad);
+            nHashesDone += 1;
+
+            if (thash <= hashTarget)
+            {
+                // Found a solution
+                break;
+            }
+            if ((genesis.nNonce & 0xFF) == 0)
+            {
+                printf("Mainnet nonce %08X: hash = %s (target = %s)\n", genesis.nNonce, thash.ToString().c_str(), hashTarget.ToString().c_str());
+            }
+                genesis.nNonce += 1;
+
+            if (genesis.nNonce == 0)
+            {
+                printf("NONCE WRAPPED, incrementing time\n");
+                ++genesis.nTime;
+            }
+        }
+
+        printf("Mainnet genesis.nTime = %u \n", genesis.nTime);
+        printf("Mainnet genesis.nNonce = %u \n", genesis.nNonce);
+        printf("Mainnet genesis.GetHash = %s\n", genesis.GetHash().ToString().c_str());
 
         hashGenesisBlock = genesis.GetHash();
-        assert(hashGenesisBlock == uint256("0x1a91e3dace36e2be3bf030a65679fe821aa1d6ef92e7c9902eb318182c355691"));
-        assert(genesis.hashMerkleRoot == uint256("0x5b2a3f53f605d62c53e62932dac6925e3d74afa5a4b459745c36d42d0ed26a69"));
+        genesis.hashMerkleRoot = genesis.BuildMerkleTree();
+
 
         vSeeds.push_back(CDNSSeedData("sherlockcoin.com", "seed.sherlockcoin.com"));
         vSeeds.push_back(CDNSSeedData("mophides.com", "seed.mophides.com"));
@@ -209,12 +252,51 @@ public:
         nDefaultPort = 45884;
         nRPCPort = 45883;
         strDataDir = "testnet3";
-
         // Modify the testnet genesis block so the timestamp is valid for a later start.
-        genesis.nTime = 1391503289;
-        genesis.nNonce = 997879;
+        genesis.nTime = 1429042623;
+        genesis.nNonce = 1018158;
         hashGenesisBlock = genesis.GetHash();
-        assert(hashGenesisBlock == uint256("0xbb0a78264637406b6360aad926284d544d7049f45189db5664f3c4d07350559e"));
+
+        printf("TestNet GenesisBlockHash %s\n", genesis.GetHash().ToString().c_str());
+        printf("TestNet GenesisBlock %s\n", hashGenesisBlock.ToString().c_str());
+        printf("TestNet Hashmerkleroot %s\n", genesis.hashMerkleRoot.ToString().c_str());
+
+
+        //calculate nonce
+        uint256 hashTarget = CBigNum().SetCompact(genesis.nBits).getuint256();
+        uint256 thash;
+        char scratchpad[SCRYPT_SCRATCHPAD_SIZE];
+        unsigned int nHashesDone = 0;
+
+        while (true)
+        {
+
+				#define scrypt_1024_1_1_256_sp(input, output, scratchpad) scrypt_1024_1_1_256_sp_generic((input), (output), (scratchpad))
+                scrypt_1024_1_1_256_sp(BEGIN(genesis.nVersion), BEGIN(thash), scratchpad);
+                nHashesDone += 1;
+
+                if (thash <= hashTarget)
+                {
+                	// Found a solution
+                	break;
+                }
+                if ((genesis.nNonce & 0xFF) == 0)
+                {
+                  	printf("Testnet nonce %08X: hash = %s (target = %s)\n", genesis.nNonce, thash.ToString().c_str(), hashTarget.ToString().c_str());
+                }
+                genesis.nNonce += 1;
+
+                if (genesis.nNonce == 0)
+                {
+                    printf("NONCE WRAPPED, incrementing time\n");
+                    ++genesis.nTime;
+                }
+        }
+
+        printf("Testnet genesis.nTime = %u \n", genesis.nTime);
+        printf("Testnet genesis.nNonce = %u \n", genesis.nNonce);
+        printf("Testnet genesis.GetHash = %s\n", genesis.GetHash().ToString().c_str());
+        hashGenesisBlock = genesis.GetHash();
 
         vFixedSeeds.clear();
         vSeeds.clear();
@@ -250,13 +332,53 @@ public:
         pchMessageStart[3] = 0xda;
         nSubsidyHalvingInterval = 150;
         bnProofOfWorkLimit = CBigNum(~uint256(0) >> 1);
-        genesis.nTime = 1296688602;
+        genesis.nTime = 1429042623;
         genesis.nBits = 0x207fffff;
-        genesis.nNonce = 2;
+        genesis.nNonce = 0;
         hashGenesisBlock = genesis.GetHash();
         nDefaultPort = 18444;
         strDataDir = "regtest";
-        assert(hashGenesisBlock == uint256("0x3d2160a3b5dc4a9d62e7e66a295f70313ac808440ef7400d6c0772171ce973a5"));
+
+        printf("ResgTestNet GenesisBlockHash %s\n", genesis.GetHash().ToString().c_str());
+        printf("RegTestNet GenesisBlock %s\n", hashGenesisBlock.ToString().c_str());
+        printf("RegTestNet Hashmerkleroot %s\n", genesis.hashMerkleRoot.ToString().c_str());
+
+        //assert(hashGenesisBlock == uint256("0xf99e1dc333b6cae70b53857a6f433331515b9eed274899dcfe8350b790f92fbb"));
+
+        //calculate for genesis block
+        uint256 hashTarget = CBigNum().SetCompact(genesis.nBits).getuint256();
+        uint256 thash;
+        char scratchpad[SCRYPT_SCRATCHPAD_SIZE];
+        unsigned int nHashesDone = 0;
+
+        while (true)
+        {
+
+     				#define scrypt_1024_1_1_256_sp(input, output, scratchpad) scrypt_1024_1_1_256_sp_generic((input), (output), (scratchpad))
+                     scrypt_1024_1_1_256_sp(BEGIN(genesis.nVersion), BEGIN(thash), scratchpad);
+                     nHashesDone += 1;
+
+                     if (thash <= hashTarget)
+                     {
+                     	// Found a solution
+                     	break;
+                     }
+                     if ((genesis.nNonce & 0xFF) == 0)
+                     {
+                       	printf("Regtest: nonce %08X: hash = %s (target = %s)\n", genesis.nNonce, thash.ToString().c_str(), hashTarget.ToString().c_str());
+                     }
+                     genesis.nNonce += 1;
+
+                     if (genesis.nNonce == 0)
+                     {
+                         printf("Regtest: NONCE WRAPPED, incrementing time\n");
+                         ++genesis.nTime;
+                     }
+        }
+
+        printf("Regtest: genesis.nTime = %u \n", genesis.nTime);
+        printf("Regtest: genesis.nNonce = %u \n", genesis.nNonce);
+        printf("Regtest: genesis.GetHash = %s\n", genesis.GetHash().ToString().c_str());
 
         vSeeds.clear();  // Regtest mode doesn't have any DNS seeds.
     }
