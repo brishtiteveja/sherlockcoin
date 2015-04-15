@@ -141,9 +141,9 @@ public:
         //assert(hashGenesisBlock == uint256("0xfca899a4f187f2e40dde6a6151ec3e0aba8ce0c1f4f9061a495d647e8288dd79"));
         //assert(genesis.hashMerkleRoot == uint256("0x0ee60c2a22e616b5810f05209ea8d5bd5e302a52d94b07fc3d22b06e13f33f47"));
 
-        printf("MainNet GenesisBlockHash %s\n", genesis.GetHash().ToString().c_str());
-        printf("MainNet GenesisBlock %s\n", hashGenesisBlock.ToString().c_str());
-        printf("MainNet Hashmerkleroot %s\n", genesis.hashMerkleRoot.ToString().c_str());
+        //printf("MainNet GenesisBlockHash %s\n", genesis.GetHash().ToString().c_str());
+        //printf("MainNet GenesisBlock %s\n", hashGenesisBlock.ToString().c_str());
+        //printf("MainNet Hashmerkleroot %s\n", genesis.hashMerkleRoot.ToString().c_str());
 
 
         //calculate for genesis block
@@ -166,20 +166,20 @@ public:
             }
             if ((genesis.nNonce & 0xFF) == 0)
             {
-                printf("Mainnet nonce %08X: hash = %s (target = %s)\n", genesis.nNonce, thash.ToString().c_str(), hashTarget.ToString().c_str());
+                //printf("Mainnet nonce %08X: hash = %s (target = %s)\n", genesis.nNonce, thash.ToString().c_str(), hashTarget.ToString().c_str());
             }
                 genesis.nNonce += 1;
 
             if (genesis.nNonce == 0)
             {
-                printf("NONCE WRAPPED, incrementing time\n");
+                //printf("NONCE WRAPPED, incrementing time\n");
                 ++genesis.nTime;
             }
         }
 
-        printf("Mainnet genesis.nTime = %u \n", genesis.nTime);
-        printf("Mainnet genesis.nNonce = %u \n", genesis.nNonce);
-        printf("Mainnet genesis.GetHash = %s\n", genesis.GetHash().ToString().c_str());
+        //printf("Mainnet genesis.nTime = %u \n", genesis.nTime);
+        //printf("Mainnet genesis.nNonce = %u \n", genesis.nNonce);
+        //printf("Mainnet genesis.GetHash = %s\n", genesis.GetHash().ToString().c_str());
 
         hashGenesisBlock = genesis.GetHash();
         genesis.hashMerkleRoot = genesis.BuildMerkleTree();
@@ -257,9 +257,9 @@ public:
         genesis.nNonce = 1018158;
         hashGenesisBlock = genesis.GetHash();
 
-        printf("TestNet GenesisBlockHash %s\n", genesis.GetHash().ToString().c_str());
-        printf("TestNet GenesisBlock %s\n", hashGenesisBlock.ToString().c_str());
-        printf("TestNet Hashmerkleroot %s\n", genesis.hashMerkleRoot.ToString().c_str());
+        //printf("TestNet GenesisBlockHash %s\n", genesis.GetHash().ToString().c_str());
+        //printf("TestNet GenesisBlock %s\n", hashGenesisBlock.ToString().c_str());
+        //printf("TestNet Hashmerkleroot %s\n", genesis.hashMerkleRoot.ToString().c_str());
 
 
         //calculate nonce
@@ -282,20 +282,20 @@ public:
                 }
                 if ((genesis.nNonce & 0xFF) == 0)
                 {
-                  	printf("Testnet nonce %08X: hash = %s (target = %s)\n", genesis.nNonce, thash.ToString().c_str(), hashTarget.ToString().c_str());
+                  	//printf("Testnet nonce %08X: hash = %s (target = %s)\n", genesis.nNonce, thash.ToString().c_str(), hashTarget.ToString().c_str());
                 }
                 genesis.nNonce += 1;
 
                 if (genesis.nNonce == 0)
                 {
-                    printf("NONCE WRAPPED, incrementing time\n");
+                    //printf("NONCE WRAPPED, incrementing time\n");
                     ++genesis.nTime;
                 }
         }
 
-        printf("Testnet genesis.nTime = %u \n", genesis.nTime);
-        printf("Testnet genesis.nNonce = %u \n", genesis.nNonce);
-        printf("Testnet genesis.GetHash = %s\n", genesis.GetHash().ToString().c_str());
+        //printf("Testnet genesis.nTime = %u \n", genesis.nTime);
+        //printf("Testnet genesis.nNonce = %u \n", genesis.nNonce);
+        //printf("Testnet genesis.GetHash = %s\n", genesis.GetHash().ToString().c_str());
         hashGenesisBlock = genesis.GetHash();
 
         vFixedSeeds.clear();
@@ -339,9 +339,9 @@ public:
         nDefaultPort = 18444;
         strDataDir = "regtest";
 
-        printf("ResgTestNet GenesisBlockHash %s\n", genesis.GetHash().ToString().c_str());
-        printf("RegTestNet GenesisBlock %s\n", hashGenesisBlock.ToString().c_str());
-        printf("RegTestNet Hashmerkleroot %s\n", genesis.hashMerkleRoot.ToString().c_str());
+        //printf("ResgTestNet GenesisBlockHash %s\n", genesis.GetHash().ToString().c_str());
+        //printf("RegTestNet GenesisBlock %s\n", hashGenesisBlock.ToString().c_str());
+        //printf("RegTestNet Hashmerkleroot %s\n", genesis.hashMerkleRoot.ToString().c_str());
 
         //assert(hashGenesisBlock == uint256("0xf99e1dc333b6cae70b53857a6f433331515b9eed274899dcfe8350b790f92fbb"));
 
@@ -365,20 +365,20 @@ public:
                      }
                      if ((genesis.nNonce & 0xFF) == 0)
                      {
-                       	printf("Regtest: nonce %08X: hash = %s (target = %s)\n", genesis.nNonce, thash.ToString().c_str(), hashTarget.ToString().c_str());
+                       	//printf("Regtest: nonce %08X: hash = %s (target = %s)\n", genesis.nNonce, thash.ToString().c_str(), hashTarget.ToString().c_str());
                      }
                      genesis.nNonce += 1;
 
                      if (genesis.nNonce == 0)
                      {
-                         printf("Regtest: NONCE WRAPPED, incrementing time\n");
+                         //printf("Regtest: NONCE WRAPPED, incrementing time\n");
                          ++genesis.nTime;
                      }
         }
 
-        printf("Regtest: genesis.nTime = %u \n", genesis.nTime);
-        printf("Regtest: genesis.nNonce = %u \n", genesis.nNonce);
-        printf("Regtest: genesis.GetHash = %s\n", genesis.GetHash().ToString().c_str());
+        //printf("Regtest: genesis.nTime = %u \n", genesis.nTime);
+        //printf("Regtest: genesis.nNonce = %u \n", genesis.nNonce);
+        //printf("Regtest: genesis.GetHash = %s\n", genesis.GetHash().ToString().c_str());
 
         vSeeds.clear();  // Regtest mode doesn't have any DNS seeds.
     }

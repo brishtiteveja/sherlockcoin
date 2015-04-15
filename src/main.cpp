@@ -1240,7 +1240,7 @@ int static generateMTRandom(unsigned int s, int range)
 
 int64_t GetBlockValue(int nHeight, int64_t nFees, uint256 prevHash)
 {
-    int64_t nSubsidy = 500000 * COIN;
+    int64_t nSubsidy = 100 * COIN;
 
     std::string cseed_str = prevHash.ToString().substr(7,7);
     const char* cseed = cseed_str.c_str();
@@ -1273,13 +1273,13 @@ int64_t GetBlockValue(int nHeight, int64_t nFees, uint256 prevHash)
 }
 
 // New Difficulty adjustement and reward scheme by /u/lleti, rog1121, and DigiByte (DigiShield Developers).
-static const int64_t nTargetTimespan = 4 * 60 * 60; // sherlockcoin: every 4 hours
+static const int64_t nTargetTimespan = 6 * 60 * 60; // sherlockcoin: every 4 hours
 static const int64_t nTargetTimespanNEW = 60 ; // sherlockcoin: every 1 minute
-static const int64_t nTargetSpacing = 60; // sherlockcoin: 1 minute
+static const int64_t nTargetSpacing = 30; // sherlockcoin: 1 minute
 static const int64_t nInterval = nTargetTimespan / nTargetSpacing;
 
-static const int64_t nDiffChangeTarget = 145000; // Patch effective @ block 145000
-static const int64_t nTestnetResetTargetFix = 157500; // Testnet enables target reset at block 157500
+static const int64_t nDiffChangeTarget = 145; // Patch effective @ block 145000
+static const int64_t nTestnetResetTargetFix = 157; // Testnet enables target reset at block 157500
 
 //
 // minimum amount of work that could possibly be required nTime after

@@ -327,8 +327,8 @@ inline bool AllowFree(double dPriority)
 {
     // Large (in bytes) low-priority (new, small-coin) transactions
     // need a fee.
-        return dPriority > 100 * COIN * 1440 / 250; // sherlockcoin: 1440 blocks found a day. Priority cutoff is 100 sherlockcoin day / 250 bytes.
-    }
+        return dPriority > 100 * COIN * (2 * 60 *  24)  / 250; // sherlockcoin: 500 blocks found a day. Priority cutoff is 100 sherlockcoin day / 250 bytes.
+}
 
 /** Get the maturity depth for coinbase transactions at a given height.
     @param[in] nHeight  The height at which to check maturity for

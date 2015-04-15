@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sherlockcoin Core [shc, Ð]
 ==========================
 
@@ -134,3 +135,7 @@ sherlockcoin Core is a multithreaded application, and deadlocks or other multith
 can be very difficult to track down. Compiling with -DDEBUG_LOCKORDER (configure
 CXXFLAGS="-DDEBUG_LOCKORDER -g") inserts run-time checks to keep track of what locks
 are held, and adds warning to the debug.log file if inconsistencies are detected.
+=======
+# sherlockcoin
+Alt coin
+>>>>>>> 663666ddbca5a1281979d0762ada95fc24e0e60e
